@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,City,Annual_Income,Customer_Segment,Purchase_Frequency,Avg_Order_Value,Total_Annual_Spend,Preferred_Category,Device_Used,Payment_Method,Avg_Session_Duration_Min,Pages_Per_Session,Cart_Abandonment_Rate,Items_Returned,Return_Rate,Discount_Usage,Review_Given,Avg_Rating_Given,Days_Since_Last_Purchase,Wishlist_Items,Newsletter_Subscribed,Membership_Tier
+CUST00001,33,Male,Pune,65793,Regular,4,836.06,3239.42,Toys,Mobile,Debit Card,10.4,4.7,0.31,0,0.14,Sometimes,0,,68,14,No,None
+CUST00002,26,Female,Chennai,53118,Regular,7,1390.58,9198.81,Home & Kitchen,Desktop,Debit Card,9.5,5.6,0.3,0,0.12,Sometimes,1,5.0,71,14,Yes,None
+CUST00003,49,Female,Mumbai,39590,Churned,1,306.49,262.71,Toys,Mobile,Debit Card,5.1,4.4,0.75,0,0.22,Never,0,,357,1,No,None
+CUST00004,48,Male,Mumbai,43368,Occasional,2,249.24,418.02,Books,Desktop,UPI,14.8,7.0,0.59,0,0.09,Sometimes,0,,285,1,No,Bronze
+CUST00005,37,Male,Mumbai,21430,Occasional,2,624.52,1405.11,Clothing,Mobile,UPI,2.5,9.0,0.5,0,0.08,Always,1,4.5,147,2,No,None
+CUST00006,18,Male,Hyderabad,41346,Occasional,2,758.33,1795.17,Clothing,Mobile,Wallet,11.1,4.2,0.58,0,0.07,Sometimes,0,,194,3,Yes,None
+CUST00007,39,Female,Chennai,62192,Regular,10,3026.35,26603.52,Electronics,Mobile,UPI,5.2,8.3,0.35,1,0.1,Never,0,,96,13,No,None
+CUST00008,50,Female,Delhi,58928,Regular,3,2859.73,10220.56,Home & Kitchen,Mobile,Credit Card,12.8,5.8,0.41,0,0.05,Sometimes,0,,136,14,Yes,None
+CUST00009,38,Male,Pune,22267,Occasional,1,142.53,135.07,Grocery,Tablet,Wallet,3.2,1.0,0.48,0,0.06,Rarely,0,,232,3,No,None
+CUST00010,27,Female,Kolkata,52506,Regular,5,756.75,3728.0,Clothing,Desktop,UPI,11.5,2.8,0.42,0,0.18,Never,0,,151,5,No,None
+CUST00011,27,Female,Mumbai,35418,Churned,2,158.67,306.42,Books,Desktop,Credit Card,7.7,7.7,0.79,0,0.21,Sometimes,1,3.9,179,1,No,Silver
+CUST00012,32,Female,Delhi,47564,Occasional,5,1891.57,11197.94,Electronics,Desktop,Credit Card,10.6,2.0,0.52,0,0.09,Always,0,,46,4,No,Bronze
+CUST00013,35,Female,Chennai,25202,Churned,1,988.47,963.22,Sports,Desktop,UPI,5.7,9.8,0.77,0,0.23,Rarely,0,,148,3,No,None
+CUST00014,44,Female,Chennai,24842,Occasional,2,522.97,967.87,Beauty,Desktop,Wallet,7.7,8.4,0.57,0,0.07,Never,0,,314,2,Yes,None
+CUST00015,37,Male,Mumbai,39919,Occasional,1,537.29,478.54,Clothing,Desktop,Wallet,11.5,9.0,0.57,0,0.01,Rarely,0,,146,1,Yes,None
+CUST00016,28,Female,Bangalore,44091,Regular,5,189.83,1093.48,Books,Desktop,Credit Card,6.1,7.7,0.47,0,0.16,Always,1,5.0,144,2,Yes,Bronze
+CUST00017,18,Male,Mumbai,67196,Regular,4,743.69,3332.5,Clothing,Desktop,Debit Card,8.8,8.7,0.45,0,0.12,Sometimes,0,,159,17,Yes,Bronze
+CUST00018,51,Female,Bangalore,49581,Regular,8,471.71,3966.68,Home & Kitchen,Desktop,Credit Card,12.0,5.1,0.28,1,0.18,Rarely,1,4.6,32,18,Yes,Silver
+CUST00019,23,Male,Bangalore,43915,Regular,3,235.38,630.33,Toys,Desktop,Debit Card,2.1,3.0,0.3,0,0.14,Sometimes,1,2.6,35,0,Yes,Bronze
+CUST00020,27,Female,Mumbai,33075,Occasional,3,1058.03,3016.46,Home & Kitchen,Mobile,Credit Card,2.6,4.7,0.52,0,0.1,Always,0,,62,0,Yes,None
+CUST00021,41,Male,Bangalore,132059,Premium,9,1048.77,7617.97,Beauty,Mobile,Credit Card,6.1,1.0,0.21,0,0.06,Never,0,,33,7,No,Silver
+CUST00022,21,Male,Delhi,42758,Churned,2,242.78,504.08,Beauty,Desktop,Credit Card,7.6,5.3,0.74,0,0.21,Rarely,0,,330,4,Yes,Bronze
+CUST00023,36,Male,Ahmedabad,43242,Regular,5,1443.29,8654.88,Beauty,Desktop,Wallet,13.5,5.7,0.31,0,0.15,Sometimes,1,2.8,98,16,Yes,None
+CUST00024,32,Male,Chennai,23852,Occasional,3,485.41,1745.62,Home & Kitchen,Mobile,Debit Card,1.5,6.3,0.48,0,0.05,Rarely,0,,106,1,Yes,Bronze
+CUST00025,35,Female,Chennai,70161,Regular,3,2027.89,5839.23,Clothing,Mobile,UPI,8.2,5.6,0.43,0,0.14,Always,1,4.9,106,6,Yes,None
+CUST00026,24,Male,Chennai,23346,Occasional,1,88.86,85.47,Grocery,Desktop,Credit Card,3.7,5.9,0.64,0,0.07,Rarely,1,4.5,313,5,No,None
+CUST00027,43,Female,Chennai,38112,Occasional,5,2630.52,14724.59,Electronics,Desktop,COD,7.7,6.4,0.51,0,0.07,Sometimes,1,3.4,179,2,Yes,None
+CUST00028,45,Female,Pune,25294,Churned,1,52.85,55.57,Books,Mobile,UPI,3.8,6.4,0.62,0,0.19,Rarely,0,,223,2,Yes,Bronze
+CUST00029,37,Male,Mumbai,37808,Occasional,5,202.83,1189.9,Books,Mobile,UPI,10.3,4.9,0.57,0,0.04,Always,0,,43,4,Yes,None
+CUST00030,18,Female,Mumbai,39161,Regular,8,4189.7,33224.29,Electronics,Mobile,UPI,15.5,8.1,0.35,1,0.16,Always,0,,47,11,Yes,Silver
+CUST00031,49,Female,Mumbai,42048,Occasional,1,1200.62,1326.45,Home & Kitchen,Mobile,Credit Card,7.6,2.0,0.55,0,0.08,Sometimes,0,,250,1,No,None
+CUST00032,34,Female,Delhi,36669,Churned,1,502.63,540.13,Clothing,Desktop,Wallet,1.0,3.9,0.79,0,0.19,Sometimes,0,,106,5,No,None
+CUST00033,18,Female,Ahmedabad,34358,Occasional,1,724.44,866.32,Clothing,Mobile,Debit Card,13.5,8.1,0.53,0,0.1,Never,0,,148,1,No,None
+CUST00034,32,Male,Chennai,31802,Occasional,4,1493.13,6647.65,Electronics,Mobile,Credit Card,13.0,6.1,0.42,0,0.09,Sometimes,1,3.4,102,5,No,None
+CUST00035,25,Female,Pune,43801,Occasional,4,238.75,967.21,Grocery,Mobile,Debit Card,6.7,7.5,0.6,0,0.09,Rarely,1,4.2,155,5,Yes,None
+CUST00036,31,Male,Pune,44687,Regular,7,1412.42,11690.68,Clothing,Mobile,Debit Card,1.0,1.0,0.2,1,0.15,Sometimes,1,4.7,66,15,Yes,None
+CUST00037,28,Female,Bangalore,114103,Premium,17,3206.78,53729.95,Clothing,Mobile,UPI,13.3,6.4,0.31,0,0.03,Sometimes,1,4.5,21,1,No,Gold
+CUST00038,32,Female,Chennai,49730,Occasional,1,2949.33,2582.2,Electronics,Tablet,COD,14.6,4.8,0.55,0,0.11,Never,0,,132,0,Yes,None
+CUST00039,35,Male,Delhi,42433,Churned,2,101.48,199.05,Clothing,Mobile,Debit Card,14.5,9.1,0.87,0,0.23,Sometimes,0,,174,2,No,None
+CUST00040,18,Female,Pune,56128,Regular,7,452.51,2671.01,Home & Kitchen,Mobile,Debit Card,17.0,3.5,0.31,0,0.05,Rarely,0,,30,5,Yes,Bronze
+CUST00041,30,Female,Ahmedabad,62137,Regular,6,692.87,4924.44,Books,Tablet,Debit Card,11.5,9.3,0.41,0,0.13,Sometimes,1,3.9,112,7,No,Silver
+CUST00042,31,Male,Hyderabad,106393,Premium,15,1304.56,22526.7,Beauty,Desktop,Debit Card,19.7,1.5,0.12,0,0.06,Always,0,,31,4,Yes,Silver
+CUST00043,32,Male,Delhi,54421,Regular,4,610.49,2500.39,Sports,Mobile,Credit Card,13.4,6.0,0.38,0,0.15,Sometimes,0,,89,6,No,None
+CUST00044,18,Male,Ahmedabad,36683,Regular,6,3894.86,26032.36,Sports,Desktop,Credit Card,12.0,6.9,0.45,0,0.12,Never,1,3.4,141,0,Yes,Silver
+CUST00045,34,Male,Kolkata,51714,Regular,8,3390.56,22208.51,Electronics,Mobile,Wallet,9.1,6.7,0.4,0,0.05,Sometimes,0,,108,19,Yes,Bronze
+CUST00046,37,Female,Delhi,39982,Regular,9,422.84,3293.24,Beauty,Desktop,UPI,10.3,1.8,0.37,1,0.13,Rarely,0,,180,8,Yes,Bronze
+CUST00047,33,Female,Bangalore,42322,Occasional,3,338.25,1124.55,Home & Kitchen,Desktop,UPI,3.1,9.1,0.53,0,0.13,Rarely,0,,341,0,No,Bronze
+CUST00048,25,Male,Chennai,30703,Churned,2,217.19,350.35,Beauty,Desktop,Debit Card,3.5,8.5,0.78,0,0.17,Always,1,3.3,97,1,No,None
+CUST00049,31,Male,Mumbai,40041,Occasional,3,849.42,2142.19,Clothing,Mobile,Credit Card,10.2,2.4,0.6,0,0.1,Sometimes,0,,118,1,No,None
+CUST00050,30,Male,Pune,117567,Premium,16,8546.14,137455.67,Electronics,Mobile,Credit Card,12.3,4.6,0.18,0,0.04,Always,0,,31,3,No,Silver
+CUST00051,36,Female,Bangalore,34590,Occasional,1,267.46,306.08,Books,Desktop,Debit Card,5.5,4.9,0.5,0,0.12,Always,0,,112,5,Yes,None
+CUST00052,35,Female,Delhi,45165,Occasional,1,2953.88,2461.88,Electronics,Mobile,UPI,3.1,7.1,0.63,0,0.07,Sometimes,1,3.5,84,0,No,None
+CUST00053,43,Female,Mumbai,25976,Occasional,5,476.65,2318.18,Beauty,Mobile,Credit Card,13.9,4.1,0.51,0,0.09,Sometimes,0,,276,2,No,None
+CUST00054,36,Female,Mumbai,35966,Regular,9,2088.55,22075.37,Home & Kitchen,Mobile,UPI,1.0,7.8,0.34,1,0.12,Sometimes,1,3.5,87,10,Yes,None
+CUST00055,27,Male,Mumbai,20957,Occasional,2,713.08,1601.46,Clothing,Desktop,UPI,8.0,5.6,0.52,0,0.1,Sometimes,1,3.0,349,3,No,None
+CUST00056,33,Other,Mumbai,36988,Regular,8,1012.05,6594.21,Home & Kitchen,Tablet,UPI,8.4,5.3,0.41,1,0.17,Never,1,4.8,176,15,Yes,None
+CUST00057,35,Male,Kolkata,42361,Regular,10,1340.46,11313.26,Clothing,Mobile,Credit Card,13.4,6.0,0.34,0,0.08,Always,0,,69,12,Yes,Bronze
+CUST00058,29,Male,Delhi,28278,Churned,2,1274.19,2688.29,Electronics,Mobile,Credit Card,2.4,5.9,0.67,0,0.17,Sometimes,1,4.5,97,3,No,None
+CUST00059,41,Female,Kolkata,38025,Regular,5,241.81,1019.55,Books,Desktop,Wallet,2.2,8.3,0.37,0,0.16,Sometimes,1,4.0,49,7,No,Bronze
+CUST00060,23,Male,Bangalore,41975,Regular,5,850.34,3575.42,Beauty,Tablet,Debit Card,5.2,7.9,0.34,0,0.13,Never,0,,155,5,Yes,None
+CUST00061,28,Female,Pune,20430,Occasional,5,4242.33,19891.26,Electronics,Desktop,Credit Card,5.4,6.6,0.44,0,0.05,Sometimes,0,,131,3,No,None
+CUST00062,32,Female,Delhi,29129,Occasional,1,573.38,474.89,Toys,Mobile,Credit Card,7.9,6.9,0.45,0,0.06,Sometimes,0,,118,1,Yes,Silver
+CUST00063,28,Male,Ahmedabad,25778,Occasional,2,387.74,881.21,Beauty,Mobile,UPI,7.1,9.7,0.58,0,0.07,Never,1,4.6,340,0,No,None
+CUST00064,38,Female,Ahmedabad,46241,Regular,10,1808.61,16319.93,Sports,Desktop,UPI,9.0,8.1,0.21,1,0.13,Sometimes,0,,163,7,No,None
+CUST00065,22,Female,Bangalore,35654,Occasional,3,975.0,2644.38,Sports,Desktop,Credit Card,11.8,5.5,0.62,0,0.07,Rarely,0,,92,3,Yes,Bronze
+CUST00066,42,Male,Mumbai,65807,Regular,6,939.33,5617.98,Electronics,Desktop,UPI,8.4,8.1,0.3,0,0.08,Sometimes,0,,60,3,Yes,Silver
+CUST00067,18,Male,Chennai,36376,Churned,2,567.44,1252.28,Electronics,Desktop,Debit Card,6.0,8.3,0.68,0,0.2,Rarely,0,,237,5,Yes,None
+CUST00068,35,Female,Chennai,35071,Regular,4,813.27,3686.02,Sports,Desktop,Debit Card,4.6,6.9,0.28,0,0.14,Sometimes,0,,141,6,Yes,Bronze
+CUST00069,18,Female,Kolkata,31131,Churned,1,2225.23,1816.78,Electronics,Mobile,Wallet,2.0,9.3,0.69,0,0.23,Sometimes,1,4.0,226,0,No,Bronze
+CUST00070,25,Male,Mumbai,21140,Occasional,1,1086.84,1042.83,Electronics,Mobile,Wallet,9.2,7.6,0.57,0,0.11,Rarely,0,,330,0,Yes,None
+CUST00071,23,Other,Mumbai,80512,Premium,15,4325.48,63752.26,Home & Kitchen,Desktop,UPI,16.6,7.6,0.24,0,0.0,Never,0,,55,14,Yes,None
+CUST00072,29,Male,Hyderabad,70653,Regular,4,2601.14,10969.77,Sports,Desktop,Credit Card,10.2,1.2,0.25,0,0.13,Always,1,4.3,55,4,No,Bronze
+CUST00073,35,Female,Bangalore,40798,Regular,5,1853.72,7514.05,Clothing,Desktop,COD,12.8,1.0,0.29,0,0.09,Always,1,3.6,141,16,Yes,None
+CUST00074,20,Male,Delhi,107549,Premium,17,4053.41,81343.75,Home & Kitchen,Desktop,Credit Card,21.3,10.4,0.22,1,0.06,Never,1,3.3,12,1,Yes,Gold
+CUST00075,31,Male,Delhi,27871,Churned,1,264.75,257.52,Home & Kitchen,Desktop,UPI,5.0,1.6,0.7,0,0.2,Never,0,,41,5,No,None
+CUST00076,37,Female,Delhi,47883,Occasional,1,1340.66,1499.52,Home & Kitchen,Desktop,UPI,2.7,8.5,0.68,0,0.11,Sometimes,1,4.0,255,0,No,Bronze
+CUST00077,48,Male,Mumbai,68535,Regular,10,1904.78,18408.82,Clothing,Mobile,Debit Card,8.0,8.6,0.47,1,0.16,Always,1,3.7,112,10,No,None
+CUST00078,18,Female,Mumbai,45794,Regular,3,1619.57,5174.79,Clothing,Mobile,Debit Card,11.0,9.1,0.25,0,0.13,Sometimes,0,,103,2,Yes,Silver
+CUST00079,38,Female,Pune,29478,Occasional,4,235.85,1066.28,Sports,Desktop,Wallet,1.0,9.7,0.51,0,0.08,Sometimes,1,3.0,125,2,No,None
+CUST00080,36,Female,Mumbai,79293,Regular,5,1173.32,5794.76,Home & Kitchen,Mobile,Wallet,10.0,5.7,0.31,0,0.16,Sometimes,0,,91,12,Yes,Bronze
+CUST00081,24,Male,Kolkata,47079,Regular,7,1454.52,10633.14,Home & Kitchen,Desktop,COD,8.4,4.3,0.19,0,0.1,Rarely,0,,42,11,Yes,Silver
+CUST00082,38,Female,Delhi,86764,Premium,13,3810.29,42966.14,Clothing,Desktop,Credit Card,12.2,5.6,0.15,0,0.03,Rarely,1,2.7,54,18,No,Gold
+CUST00083,35,Female,Mumbai,40086,Occasional,1,886.85,830.93,Clothing,Mobile,UPI,1.0,3.8,0.61,0,0.06,Sometimes,0,,278,1,No,None
+CUST00084,49,Male,Kolkata,42936,Regular,10,434.97,4299.87,Grocery,Mobile,Credit Card,7.5,5.5,0.37,1,0.11,Rarely,0,,80,11,Yes,None
+CUST00085,41,Male,Delhi,31238,Occasional,5,575.83,2970.57,Clothing,Desktop,UPI,11.1,5.9,0.54,0,0.09,Rarely,0,,150,4,No,None
+CUST00086,46,Male,Kolkata,103339,Premium,15,4606.97,67411.41,Sports,Mobile,Debit Card,5.7,10.1,0.06,0,0.02,Sometimes,0,,48,13,Yes,Silver
+CUST00087,18,Male,Bangalore,45795,Occasional,3,2139.14,7588.16,Sports,Mobile,Debit Card,10.5,10.5,0.48,0,0.06,Always,1,2.1,304,3,Yes,None
+CUST00088,27,Male,Bangalore,38003,Occasional,4,380.76,1650.3,Books,Mobile,Credit Card,8.6,2.5,0.53,0,0.01,Always,1,3.9,313,1,Yes,None
+CUST00089,46,Male,Mumbai,74838,Regular,8,249.36,2051.78,Grocery,Mobile,UPI,8.8,2.6,0.34,1,0.17,Never,1,4.3,64,0,Yes,Bronze
+CUST00090,34,Female,Chennai,71128,Regular,5,3519.45,14684.09,Electronics,Mobile,Credit Card,11.2,5.6,0.32,0,0.15,Rarely,0,,102,16,Yes,None
+CUST00091,37,Male,Ahmedabad,37597,Churned,1,488.92,460.2,Clothing,Mobile,Credit Card,10.8,3.8,0.63,0,0.16,Sometimes,0,,300,3,No,None
+CUST00092,32,Male,Kolkata,38617,Churned,1,637.96,649.81,Home & Kitchen,Desktop,Credit Card,12.1,7.6,0.53,0,0.22,Always,1,3.9,89,4,No,Bronze
+CUST00093,27,Male,Chennai,34577,Churned,1,786.98,714.62,Home & Kitchen,Mobile,COD,13.3,1.0,0.77,0,0.23,Rarely,1,3.3,106,1,No,None
+CUST00094,24,Female,Bangalore,68109,Regular,6,559.39,2715.15,Electronics,Mobile,Credit Card,18.5,9.8,0.44,0,0.09,Rarely,1,4.3,52,3,Yes,None
+CUST00095,27,Female,Kolkata,40240,Occasional,4,1313.71,4331.19,Clothing,Mobile,Debit Card,16.2,7.7,0.51,0,0.03,Always,0,,327,4,No,Bronze
+CUST00096,42,Female,Chennai,109287,Premium,9,2802.96,23792.36,Home & Kitchen,Tablet,Credit Card,2.1,6.6,0.21,0,0.05,Never,0,,5,19,Yes,Bronze
+CUST00097,32,Male,Chennai,43391,Occasional,4,1484.86,6385.55,Clothing,Desktop,Debit Card,1.0,8.4,0.64,0,0.08,Always,0,,179,3,Yes,None
+CUST00098,30,Female,Kolkata,35905,Occasional,5,977.62,4603.93,Sports,Mobile,Credit Card,9.5,8.8,0.5,0,0.1,Rarely,0,,182,5,Yes,None
+CUST00099,28,Male,Ahmedabad,67695,Regular,6,3275.18,16035.67,Sports,Desktop,Wallet,6.5,5.1,0.4,0,0.12,Always,0,,53,13,Yes,Silver
+CUST00100,35,Female,Mumbai,78871,Regular,3,345.6,1083.39,Grocery,Tablet,Credit Card,5.4,7.1,0.49,0,0.13,Never,0,,64,2,No,None
+CUST00101,24,Female,Delhi,20344,Churned,2,374.12,803.94,Toys,Desktop,COD,9.8,4.3,0.58,0,0.22,Sometimes,1,2.9,64,2,No,None
+CUST00102,18,Male,Hyderabad,60143,Regular,10,213.05,1725.84,Beauty,Mobile,Debit Card,14.1,9.9,0.3,1,0.14,Rarely,0,,46,9,No,Silver
+CUST00103,44,Female,Chennai,69356,Regular,6,965.96,5989.93,Clothing,Mobile,UPI,10.8,9.8,0.56,0,0.15,Rarely,0,,136,16,Yes,Silver
+CUST00104,36,Female,Mumbai,56350,Regular,3,453.09,1157.19,Books,Mobile,Wallet,8.9,6.1,0.43,0,0.04,Sometimes,0,,30,1,No,Silver
+CUST00105,18,Male,Kolkata,31387,Occasional,4,2241.62,9098.61,Sports,Mobile,UPI,12.1,3.0,0.58,0,0.09,Sometimes,0,,77,4,No,None
+CUST00106,30,Female,Bangalore,41814,Occasional,3,1300.99,3151.68,Clothing,Mobile,Wallet,4.4,7.6,0.53,0,0.12,Rarely,0,,221,0,Yes,None
+CUST00107,21,Male,Pune,24790,Occasional,1,211.54,253.34,Books,Mobile,COD,2.5,1.1,0.71,0,0.08,Always,0,,140,1,No,None
+CUST00108,29,Female,Ahmedabad,66300,Regular,7,715.48,4535.8,Clothing,Desktop,UPI,9.8,3.5,0.39,0,0.1,Sometimes,0,,111,18,No,Bronze
+CUST00109,31,Female,Mumbai,31923,Occasional,1,174.03,142.26,Grocery,Mobile,Credit Card,1.7,6.1,0.52,0,0.05,Always,0,,92,2,Yes,None
+CUST00110,35,Male,Bangalore,51262,Regular,10,1612.67,14943.74,Beauty,Mobile,Wallet,10.3,4.4,0.58,0,0.07,Sometimes,1,4.2,73,2,No,Bronze
+CUST00111,41,Male,Delhi,37489,Occasional,3,666.91,1615.7,Clothing,Desktop,UPI,9.0,7.2,0.51,0,0.11,Never,0,,222,3,Yes,Bronze
+CUST00112,35,Male,Mumbai,33399,Churned,2,1501.34,2536.53,Electronics,Tablet,COD,3.5,3.7,0.6,0,0.19,Sometimes,1,3.6,36,0,No,None
+CUST00113,33,Male,Hyderabad,21139,Churned,1,316.48,363.52,Clothing,Mobile,Wallet,1.0,5.1,0.89,0,0.26,Never,0,,109,4,No,None
+CUST00114,51,Male,Mumbai,17645,Churned,2,2231.51,4800.94,Electronics,Desktop,Wallet,5.2,2.3,0.79,0,0.18,Rarely,0,,89,1,No,None
+CUST00115,32,Female,Ahmedabad,33844,Occasional,4,1236.51,5432.97,Electronics,Desktop,Wallet,12.9,6.9,0.44,0,0.09,Rarely,0,,283,5,No,None
+CUST00116,35,Male,Mumbai,49133,Regular,4,4339.78,17634.9,Electronics,Desktop,UPI,9.3,5.4,0.42,0,0.14,Rarely,0,,155,3,Yes,None
+CUST00117,41,Female,Kolkata,137368,Premium,8,3555.37,33278.73,Clothing,Mobile,UPI,16.0,4.8,0.24,0,0.04,Sometimes,0,,2,12,No,Bronze
+CUST00118,36,Female,Ahmedabad,29929,Occasional,1,601.02,546.56,Clothing,Desktop,Credit Card,1.1,9.5,0.61,0,0.11,Rarely,0,,337,4,Yes,None
+CUST00119,28,Male,Delhi,41489,Occasional,4,1323.17,5062.19,Home & Kitchen,Tablet,Credit Card,11.0,2.5,0.55,0,0.07,Rarely,1,3.6,244,5,Yes,None
+CUST00120,30,Male,Mumbai,71556,Regular,10,4329.83,40396.92,Electronics,Desktop,Wallet,11.3,1.0,0.34,0,0.07,Never,0,,124,10,Yes,Silver
+CUST00121,42,Male,Ahmedabad,41206,Occasional,3,117.49,381.27,Books,Mobile,Debit Card,11.5,6.5,0.65,0,0.02,Never,1,3.8,214,3,No,None
+CUST00122,31,Female,Ahmedabad,26814,Occasional,4,223.97,952.01,Beauty,Mobile,UPI,4.3,3.9,0.58,0,0.08,Rarely,0,,148,5,Yes,None
+CUST00123,38,Male,Mumbai,58330,Regular,9,1144.61,11329.93,Home & Kitchen,Desktop,Debit Card,8.3,4.1,0.53,1,0.13,Rarely,0,,154,0,No,None
+CUST00124,48,Female,Delhi,44632,Regular,7,517.4,3330.22,Sports,Mobile,Debit Card,10.1,6.0,0.39,0,0.14,Sometimes,0,,98,20,Yes,None
+CUST00125,39,Other,Mumbai,66348,Regular,9,869.91,7224.8,Home & Kitchen,Desktop,Credit Card,3.6,6.4,0.35,0,0.11,Always,0,,84,8,Yes,Silver
+CUST00126,45,Female,Delhi,44746,Occasional,4,224.98,999.72,Books,Mobile,Debit Card,6.7,6.3,0.51,0,0.05,Sometimes,1,3.2,285,0,Yes,None
+CUST00127,28,Male,Pune,18730,Churned,1,96.42,104.6,Books,Desktop,Wallet,3.8,3.6,0.59,0,0.16,Rarely,0,,117,5,No,None
+CUST00128,33,Female,Delhi,61810,Regular,7,1095.09,8182.05,Beauty,Mobile,Debit Card,7.1,3.0,0.39,1,0.19,Rarely,0,,59,18,Yes,Bronze
+CUST00129,47,Male,Mumbai,68076,Regular,7,687.78,4731.56,Clothing,Mobile,Debit Card,6.4,1.0,0.33,1,0.15,Sometimes,0,,97,2,Yes,Gold
+CUST00130,19,Male,Delhi,106179,Premium,12,5862.55,66172.28,Clothing,Mobile,UPI,14.2,10.3,0.2,1,0.09,Rarely,0,,15,8,No,Silver
+CUST00131,26,Male,Hyderabad,28480,Occasional,3,522.79,1393.58,Clothing,Desktop,UPI,12.8,11.0,0.59,0,0.06,Sometimes,1,3.6,47,4,Yes,None
+CUST00132,42,Female,Chennai,17059,Churned,2,115.25,247.1,Toys,Tablet,Credit Card,8.2,6.2,0.71,0,0.23,Rarely,1,3.5,208,3,No,None
+CUST00133,22,Female,Delhi,33656,Occasional,4,863.81,3298.23,Beauty,Tablet,Debit Card,10.3,5.8,0.65,0,0.05,Sometimes,0,,224,2,Yes,Gold
+CUST00134,35,Male,Pune,75096,Regular,3,2616.43,9078.1,Home & Kitchen,Tablet,Debit Card,11.6,8.1,0.4,0,0.17,Rarely,1,2.8,96,5,No,Silver
+CUST00135,18,Male,Hyderabad,36360,Occasional,3,1104.71,3975.48,Clothing,Mobile,UPI,8.5,5.2,0.63,0,0.06,Sometimes,0,,76,0,Yes,None
+CUST00136,42,Male,Pune,26733,Occasional,3,120.87,342.26,Toys,Desktop,Wallet,4.7,5.3,0.59,0,0.05,Sometimes,0,,136,0,No,None
+CUST00137,36,Female,Delhi,75828,Regular,10,852.89,9777.79,Beauty,Desktop,UPI,9.0,9.3,0.49,1,0.16,Never,0,,71,14,Yes,Bronze
+CUST00138,38,Female,Ahmedabad,27555,Churned,1,764.74,791.23,Home & Kitchen,Mobile,Debit Card,11.5,4.1,0.69,0,0.2,Rarely,0,,259,5,No,Bronze
+CUST00139,35,Male,Kolkata,64584,Regular,5,2227.26,11922.03,Clothing,Mobile,Credit Card,12.0,3.6,0.41,0,0.15,Sometimes,0,,108,16,No,Silver
+CUST00140,25,Male,Ahmedabad,41260,Occasional,1,1568.36,1392.11,Sports,Desktop,Debit Card,1.0,5.7,0.5,0,0.05,Rarely,1,2.8,82,2,Yes,None
+CUST00141,30,Male,Chennai,39632,Regular,7,836.46,5127.48,Clothing,Mobile,UPI,5.4,8.8,0.35,0,0.12,Sometimes,1,3.5,137,11,No,None
+CUST00142,26,Female,Chennai,29215,Churned,1,2085.38,1836.8,Electronics,Mobile,Debit Card,10.5,6.4,0.73,0,0.17,Rarely,1,3.4,271,2,Yes,None
+CUST00143,46,Male,Mumbai,34351,Churned,1,81.27,73.36,Books,Mobile,UPI,6.2,7.9,0.6,0,0.27,Always,0,,330,2,No,Silver
+CUST00144,50,Female,Pune,113494,Premium,11,565.69,6929.52,Grocery,Mobile,Debit Card,17.7,7.4,0.37,1,0.12,Never,0,,4,20,No,None
+CUST00145,32,Female,Bangalore,105338,Premium,18,7610.49,122501.92,Sports,Desktop,Credit Card,20.9,7.5,0.26,1,0.08,Rarely,0,,30,5,Yes,Gold
+CUST00146,18,Male,Mumbai,76119,Regular,8,1761.4,12826.05,Sports,Mobile,Credit Card,8.5,6.3,0.41,1,0.14,Rarely,1,3.5,32,5,No,None
+CUST00147,36,Female,Hyderabad,66146,Regular,10,2487.65,25075.43,Sports,Mobile,Wallet,5.8,11.1,0.43,1,0.1,Sometimes,1,3.2,93,17,No,Bronze
+CUST00148,44,Male,Mumbai,34291,Churned,2,131.36,285.57,Toys,Mobile,COD,7.3,4.2,0.87,0,0.21,Sometimes,0,,243,5,Yes,None
+CUST00149,34,Female,Hyderabad,110943,Premium,10,248.39,2495.59,Grocery,Mobile,UPI,9.6,6.4,0.25,0,0.03,Rarely,0,,41,15,Yes,None
+CUST00150,31,Female,Delhi,79818,Regular,9,428.83,3619.3,Toys,Mobile,Credit Card,9.8,5.4,0.33,1,0.15,Sometimes,1,3.9,80,0,Yes,None
+CUST00151,38,Male,Bangalore,43158,Churned,2,1227.67,2697.67,Electronics,Mobile,COD,7.8,5.2,0.67,0,0.19,Sometimes,1,3.0,183,0,No,Bronze
+CUST00152,36,Female,Kolkata,29791,Occasional,4,1164.04,5424.08,Electronics,Desktop,UPI,11.9,4.3,0.52,0,0.12,Sometimes,1,3.1,193,5,Yes,Bronze
+CUST00153,43,Male,Kolkata,70449,Regular,7,655.67,3859.61,Clothing,Mobile,Credit Card,5.6,2.6,0.47,1,0.15,Rarely,0,,53,16,Yes,Gold
+CUST00154,38,Male,Ahmedabad,114164,Premium,13,4642.61,52902.45,Beauty,Mobile,Wallet,16.8,4.2,0.25,0,0.06,Sometimes,0,,36,18,Yes,Bronze
+CUST00155,39,Female,Hyderabad,48904,Occasional,2,584.48,1216.95,Sports,Desktop,UPI,6.8,8.1,0.4,0,0.07,Sometimes,0,,116,0,No,None
+CUST00156,30,Male,Pune,93718,Premium,13,7326.41,112356.22,Sports,Desktop,COD,17.5,12.5,0.31,1,0.08,Sometimes,1,3.2,16,13,No,Bronze
+CUST00157,29,Male,Chennai,28535,Occasional,5,338.66,1571.54,Beauty,Desktop,Credit Card,9.8,3.8,0.6,0,0.08,Sometimes,0,,358,5,No,None
+CUST00158,28,Female,Chennai,38991,Regular,8,665.6,5305.37,Beauty,Desktop,Debit Card,9.8,8.4,0.25,0,0.12,Never,0,,42,8,Yes,None
+CUST00159,29,Male,Chennai,27690,Occasional,1,308.98,281.1,Books,Mobile,Credit Card,13.5,4.5,0.34,0,0.05,Rarely,0,,164,3,Yes,None
+CUST00160,35,Male,Kolkata,89672,Premium,20,3619.0,78038.7,Sports,Mobile,Debit Card,16.4,9.5,0.32,1,0.05,Never,1,3.2,54,3,Yes,Bronze
+CUST00161,29,Male,Pune,39629,Regular,8,1093.58,8269.85,Clothing,Desktop,Credit Card,10.4,9.7,0.31,0,0.1,Always,1,3.8,64,16,Yes,Bronze
+CUST00162,33,Female,Chennai,49579,Occasional,5,2092.55,10515.83,Sports,Mobile,UPI,2.9,6.2,0.56,0,0.1,Sometimes,1,3.2,31,3,No,None
+CUST00163,48,Male,Pune,35426,Regular,5,720.36,3297.8,Beauty,Tablet,Credit Card,11.6,5.8,0.37,0,0.15,Never,1,3.2,72,7,Yes,None
+CUST00164,45,Female,Mumbai,126155,Premium,17,2788.6,41142.2,Toys,Desktop,Debit Card,19.9,5.5,0.24,1,0.07,Never,1,4.3,36,16,Yes,None
+CUST00165,34,Female,Pune,66084,Regular,10,4879.88,52848.64,Electronics,Desktop,Credit Card,4.8,10.2,0.33,1,0.1,Always,0,,143,14,Yes,Bronze
+CUST00166,40,Female,Pune,77157,Regular,4,2664.1,12036.52,Electronics,Tablet,COD,10.0,5.6,0.43,0,0.13,Always,0,,36,3,No,None
+CUST00167,36,Female,Mumbai,33209,Churned,1,91.88,99.36,Grocery,Desktop,Debit Card,4.3,5.0,0.76,0,0.17,Never,1,4.3,209,4,No,None
+CUST00168,35,Male,Kolkata,69930,Regular,4,1718.88,5558.51,Clothing,Mobile,Debit Card,9.5,3.8,0.32,0,0.13,Never,0,,37,10,No,Bronze
+CUST00169,28,Male,Delhi,40277,Churned,2,400.73,832.43,Home & Kitchen,Desktop,Wallet,5.8,7.5,0.74,0,0.2,Rarely,1,3.4,131,1,No,None
+CUST00170,38,Male,Bangalore,17073,Churned,2,324.0,660.77,Clothing,Mobile,UPI,7.8,4.3,0.71,0,0.23,Sometimes,1,4.1,338,1,No,None
+CUST00171,36,Female,Ahmedabad,70897,Regular,8,2156.91,18797.03,Clothing,Desktop,COD,8.6,10.2,0.34,0,0.06,Always,0,,70,2,Yes,Bronze
+CUST00172,33,Female,Chennai,39142,Regular,5,914.24,4242.79,Clothing,Mobile,Wallet,10.7,8.1,0.5,0,0.1,Sometimes,1,4.6,179,8,No,None
+CUST00173,31,Male,Chennai,39942,Occasional,4,772.97,3645.25,Electronics,Mobile,Credit Card,7.8,4.6,0.54,0,0.0,Rarely,0,,176,5,No,Bronze
+CUST00174,43,Male,Mumbai,42268,Occasional,5,4432.12,18542.92,Electronics,Mobile,Credit Card,10.8,10.9,0.36,0,0.08,Sometimes,0,,115,2,Yes,None
+CUST00175,36,Male,Mumbai,79276,Regular,4,484.89,2274.13,Books,Mobile,Credit Card,8.3,7.7,0.39,0,0.13,Sometimes,0,,58,19,Yes,None
+CUST00176,29,Male,Kolkata,43010,Regular,3,6443.7,15481.53,Electronics,Desktop,Wallet,12.0,5.9,0.45,0,0.19,Sometimes,0,,170,9,Yes,None
+CUST00177,29,Female,Ahmedabad,21725,Occasional,2,1356.4,2809.39,Clothing,Desktop,Credit Card,4.3,4.0,0.6,0,0.04,Rarely,1,2.9,260,2,No,None
+CUST00178,33,Female,Mumbai,43684,Regular,6,1646.56,10529.82,Sports,Desktop,Credit Card,8.2,4.6,0.36,1,0.17,Rarely,0,,88,0,No,None
+CUST00179,19,Male,Kolkata,98584,Premium,15,1789.57,24557.83,Clothing,Tablet,UPI,11.3,1.9,0.36,1,0.07,Rarely,0,,12,4,Yes,Bronze
+CUST00180,45,Male,Bangalore,79070,Regular,9,674.33,5713.24,Clothing,Mobile,Wallet,8.3,4.2,0.35,1,0.13,Always,1,3.9,123,7,No,None
+CUST00181,37,Female,Chennai,59284,Regular,9,7153.99,54030.03,Electronics,Mobile,UPI,1.2,1.7,0.45,1,0.15,Never,1,3.7,131,13,Yes,None
+CUST00182,20,Female,Bangalore,47875,Occasional,1,350.72,406.92,Clothing,Tablet,Credit Card,1.0,5.1,0.42,0,0.14,Sometimes,1,3.6,130,2,Yes,None
+CUST00183,19,Male,Pune,50821,Regular,5,611.98,2645.19,Books,Mobile,Debit Card,2.2,6.6,0.51,0,0.11,Sometimes,0,,35,3,No,None
+CUST00184,40,Other,Chennai,38839,Churned,2,692.79,1599.75,Clothing,Desktop,COD,7.9,4.6,0.65,0,0.15,Rarely,1,2.6,62,2,No,None
+CUST00185,36,Male,Delhi,46230,Regular,3,152.61,398.65,Books,Mobile,Debit Card,7.7,2.7,0.48,0,0.13,Rarely,0,,153,15,Yes,None
+CUST00186,29,Female,Delhi,43190,Occasional,1,1447.77,1615.51,Electronics,Mobile,Wallet,9.2,3.8,0.39,0,0.08,Rarely,0,,92,2,Yes,None
+CUST00187,42,Female,Bangalore,39274,Regular,7,4632.56,36828.93,Electronics,Desktop,Credit Card,4.4,4.2,0.42,0,0.11,Never,0,,169,20,No,None
+CUST00188,38,Male,Pune,21186,Occasional,1,1683.98,1857.57,Home & Kitchen,Desktop,Debit Card,14.3,11.9,0.6,0,0.09,Never,0,,282,3,Yes,None
+CUST00189,43,Male,Pune,27539,Occasional,2,868.03,1447.05,Clothing,Mobile,UPI,1.5,9.4,0.45,0,0.13,Sometimes,1,3.2,83,4,Yes,None
+CUST00190,38,Female,Bangalore,46828,Occasional,2,606.77,1322.5,Sports,Desktop,Credit Card,8.4,6.8,0.48,0,0.0,Rarely,0,,133,1,Yes,None
+CUST00191,37,Female,Mumbai,41527,Regular,3,331.99,811.93,Books,Desktop,Credit Card,9.1,4.1,0.32,0,0.15,Always,1,3.0,40,10,No,None
+CUST00192,19,Female,Chennai,38413,Regular,10,1288.78,10327.49,Beauty,Desktop,Credit Card,4.9,4.1,0.42,0,0.09,Sometimes,1,3.9,66,20,Yes,None
+CUST00193,45,Female,Chennai,51426,Regular,10,1622.76,17182.77,Electronics,Desktop,UPI,9.5,7.3,0.34,1,0.16,Sometimes,0,,151,12,Yes,Silver
+CUST00194,36,Male,Bangalore,30277,Churned,2,1241.77,2241.1,Electronics,Mobile,Credit Card,12.9,11.5,0.76,0,0.14,Sometimes,1,3.8,155,5,Yes,None
+CUST00195,25,Male,Hyderabad,117336,Premium,15,5546.5,74505.47,Home & Kitchen,Mobile,Debit Card,9.3,9.0,0.19,0,0.05,Rarely,1,4.3,18,10,Yes,Gold
+CUST00196,36,Male,Hyderabad,37211,Occasional,3,371.2,961.63,Books,Mobile,Credit Card,9.4,7.2,0.48,0,0.16,Never,1,4.0,194,0,Yes,None
+CUST00197,33,Female,Kolkata,24384,Occasional,4,571.04,2212.14,Clothing,Mobile,Debit Card,8.5,3.4,0.59,0,0.14,Sometimes,0,,81,0,Yes,None
+CUST00198,30,Female,Mumbai,70830,Regular,10,2161.56,25905.12,Clothing,Mobile,Debit Card,8.8,7.2,0.47,1,0.13,Sometimes,0,,96,5,No,Bronze
+CUST00199,28,Male,Bangalore,32399,Occasional,3,765.07,2372.41,Clothing,Tablet,Credit Card,7.3,7.8,0.68,0,0.06,Never,0,,301,4,Yes,Bronze
+CUST00200,35,Female,Kolkata,26630,Churned,1,283.25,300.87,Home & Kitchen,Mobile,Credit Card,8.4,8.3,0.65,0,0.21,Rarely,1,2.7,353,5,No,Bronze
+CUST00201,21,Female,Chennai,74080,Regular,6,219.0,1203.18,Beauty,Mobile,Debit Card,19.7,7.2,0.29,0,0.08,Sometimes,0,,62,0,Yes,None
+CUST00202,30,Female,Mumbai,15286,Churned,2,91.27,200.79,Books,Desktop,Credit Card,11.9,4.8,0.6,0,0.22,Rarely,0,,41,2,No,None
+CUST00203,35,Male,Bangalore,38476,Occasional,1,977.28,992.39,Beauty,Tablet,Wallet,2.2,2.1,0.47,0,0.14,Rarely,0,,320,5,Yes,None
+CUST00204,46,Male,Ahmedabad,45684,Occasional,5,317.48,1298.87,Books,Mobile,UPI,9.7,6.3,0.58,0,0.11,Never,0,,161,1,Yes,None
+CUST00205,23,Female,Mumbai,40362,Occasional,2,356.13,812.28,Home & Kitchen,Desktop,Debit Card,9.7,6.1,0.63,0,0.12,Never,1,2.8,115,1,No,None
+CUST00206,19,Male,Delhi,26604,Occasional,4,432.57,1928.99,Books,Mobile,Debit Card,8.3,9.7,0.73,0,0.06,Sometimes,1,5.0,48,5,Yes,None
+CUST00207,42,Male,Mumbai,73365,Regular,7,51.27,330.74,Grocery,Desktop,UPI,5.2,3.2,0.33,0,0.14,Always,0,,54,8,Yes,None
+CUST00208,22,Male,Delhi,51177,Regular,6,1618.76,10766.97,Clothing,Mobile,Debit Card,11.9,3.8,0.45,0,0.11,Always,0,,131,6,No,Bronze
+CUST00209,26,Female,Ahmedabad,39144,Occasional,4,2362.48,10826.12,Electronics,Mobile,Wallet,5.9,4.2,0.6,0,0.11,Rarely,0,,127,5,No,None
+CUST00210,48,Male,Hyderabad,44446,Regular,7,376.24,3058.05,Grocery,Tablet,UPI,8.9,5.7,0.34,0,0.12,Sometimes,0,,148,7,Yes,None
+CUST00211,40,Female,Chennai,36779,Churned,2,203.64,330.6,Sports,Tablet,Wallet,12.1,4.1,0.61,0,0.17,Rarely,1,3.2,61,0,No,Gold
+CUST00212,32,Male,Pune,37471,Occasional,5,3750.32,19775.01,Electronics,Desktop,Debit Card,8.8,8.6,0.54,0,0.1,Sometimes,0,,177,4,No,None
+CUST00213,36,Male,Mumbai,93309,Premium,14,2710.51,32005.69,Clothing,Mobile,Wallet,7.2,5.6,0.0,1,0.12,Rarely,0,,13,20,Yes,Silver
+CUST00214,30,Male,Ahmedabad,35501,Churned,1,1546.53,1318.71,Electronics,Desktop,Debit Card,9.1,6.5,0.67,0,0.27,Rarely,0,,167,4,Yes,None
+CUST00215,24,Female,Chennai,42000,Occasional,1,441.1,491.92,Beauty,Tablet,Debit Card,8.9,5.5,0.42,0,0.1,Always,1,3.8,202,2,Yes,None
+CUST00216,34,Female,Bangalore,23118,Churned,1,662.48,549.81,Clothing,Desktop,Credit Card,13.7,4.7,0.59,0,0.28,Rarely,0,,337,3,No,None
+CUST00217,28,Male,Ahmedabad,47170,Regular,3,1136.77,3106.92,Toys,Tablet,Wallet,10.7,6.7,0.43,0,0.11,Rarely,0,,132,4,Yes,Bronze
+CUST00218,19,Female,Chennai,61629,Regular,7,315.73,1890.39,Toys,Desktop,COD,6.5,7.8,0.38,0,0.06,Always,0,,83,15,Yes,None
+CUST00219,23,Male,Delhi,22180,Occasional,5,748.92,3773.2,Clothing,Tablet,Debit Card,1.0,6.8,0.59,0,0.09,Never,1,3.2,138,4,Yes,None
+CUST00220,20,Male,Pune,38526,Occasional,2,3069.1,6708.28,Electronics,Desktop,UPI,6.9,5.2,0.61,0,0.05,Never,0,,87,3,Yes,Bronze
+CUST00221,38,Female,Chennai,46977,Occasional,2,151.56,269.42,Home & Kitchen,Desktop,Wallet,8.3,8.9,0.63,0,0.04,Sometimes,0,,69,3,Yes,None
+CUST00222,22,Male,Mumbai,39805,Regular,7,2218.15,16439.77,Clothing,Mobile,Wallet,12.9,7.5,0.28,1,0.18,Rarely,0,,170,5,Yes,Silver
+CUST00223,21,Male,Mumbai,44561,Regular,5,971.23,4481.46,Clothing,Mobile,Credit Card,5.3,5.2,0.44,0,0.13,Rarely,1,4.0,47,20,No,Bronze
+CUST00224,21,Male,Bangalore,79225,Regular,5,2133.59,9687.02,Clothing,Mobile,Credit Card,11.4,3.6,0.33,0,0.11,Rarely,1,3.4,30,18,Yes,None
+CUST00225,37,Male,Mumbai,48046,Occasional,5,1057.03,4465.75,Beauty,Mobile,Debit Card,8.1,2.6,0.51,0,0.09,Rarely,0,,54,3,Yes,Bronze
+CUST00226,18,Male,Kolkata,46012,Occasional,4,2281.34,8632.08,Sports,Tablet,Credit Card,1.6,6.4,0.69,0,0.08,Sometimes,0,,319,0,Yes,None
+CUST00227,45,Male,Bangalore,35769,Regular,6,580.95,2795.48,Clothing,Desktop,UPI,7.5,1.0,0.37,0,0.15,Rarely,0,,111,12,Yes,None
+CUST00228,18,Male,Bangalore,43678,Churned,2,189.14,317.81,Clothing,Mobile,UPI,15.0,2.7,0.58,0,0.17,Rarely,0,,253,0,No,None
+CUST00229,40,Male,Ahmedabad,66501,Regular,8,1586.43,13771.16,Electronics,Mobile,UPI,10.9,8.1,0.21,0,0.12,Never,0,,93,5,No,Bronze
+CUST00230,40,Male,Delhi,81024,Premium,10,3860.6,40949.77,Home & Kitchen,Mobile,UPI,29.9,6.5,0.1,0,0.0,Rarely,0,,6,14,Yes,Gold
+CUST00231,31,Male,Delhi,40019,Regular,6,3479.28,18639.66,Sports,Mobile,Wallet,4.8,7.3,0.26,0,0.06,Always,0,,127,4,Yes,Bronze
+CUST00232,23,Female,Chennai,101946,Premium,13,3683.35,43266.56,Home & Kitchen,Tablet,UPI,14.6,5.7,0.29,0,0.01,Rarely,0,,45,11,No,Silver
+CUST00233,30,Male,Delhi,67560,Regular,4,2872.01,9508.45,Home & Kitchen,Mobile,Credit Card,10.9,3.1,0.45,0,0.09,Always,0,,180,0,Yes,Gold
+CUST00234,33,Male,Kolkata,41943,Regular,7,1492.42,10007.17,Electronics,Mobile,Debit Card,2.8,6.6,0.28,1,0.17,Rarely,1,3.6,109,16,Yes,Bronze
+CUST00235,31,Male,Delhi,33648,Occasional,1,1279.19,1379.73,Clothing,Mobile,Credit Card,4.1,3.8,0.4,0,0.05,Rarely,0,,186,1,No,None
+CUST00236,44,Other,Kolkata,47344,Occasional,1,1245.03,1447.34,Clothing,Tablet,Credit Card,11.2,3.3,0.64,0,0.13,Rarely,0,,323,5,Yes,None
+CUST00237,18,Male,Ahmedabad,23745,Churned,2,693.2,1595.43,Clothing,Mobile,Credit Card,13.1,8.1,0.78,0,0.21,Never,0,,181,2,No,None
+CUST00238,49,Female,Pune,66622,Regular,6,1462.77,7043.72,Beauty,Desktop,COD,5.5,3.6,0.28,0,0.11,Rarely,1,4.6,74,11,Yes,None
+CUST00239,37,Male,Pune,120463,Premium,19,1450.83,27307.89,Beauty,Mobile,Debit Card,18.1,2.3,0.02,1,0.06,Rarely,0,,59,12,No,Gold
+CUST00240,30,Male,Chennai,38449,Regular,8,4816.96,32423.31,Electronics,Mobile,Credit Card,3.3,6.7,0.32,1,0.15,Rarely,0,,113,11,Yes,None
+CUST00241,23,Female,Chennai,27792,Occasional,2,1587.87,2916.28,Sports,Mobile,Debit Card,11.2,5.2,0.58,0,0.09,Sometimes,0,,321,1,Yes,None
+CUST00242,18,Male,Delhi,34517,Occasional,5,1849.1,9868.54,Sports,Mobile,Credit Card,11.9,1.9,0.51,0,0.1,Rarely,0,,210,3,Yes,None
+CUST00243,30,Male,Kolkata,23460,Occasional,5,1365.27,6024.5,Home & Kitchen,Mobile,Credit Card,1.0,4.7,0.67,0,0.11,Rarely,1,3.2,234,3,No,None
+CUST00244,26,Male,Bangalore,54601,Regular,8,1519.79,12002.49,Home & Kitchen,Mobile,Credit Card,8.2,4.9,0.41,1,0.13,Rarely,0,,169,12,No,None
+CUST00245,25,Female,Bangalore,132197,Premium,10,3535.73,32428.49,Home & Kitchen,Tablet,Debit Card,18.0,7.2,0.18,1,0.11,Rarely,1,3.8,43,2,Yes,Bronze
+CUST00246,18,Female,Mumbai,62056,Regular,5,1452.32,6880.87,Clothing,Mobile,Credit Card,10.6,2.1,0.3,0,0.15,Rarely,0,,34,15,Yes,Silver
+CUST00247,41,Male,Bangalore,30622,Churned,2,223.63,469.8,Books,Mobile,Credit Card,10.5,3.3,0.65,0,0.18,Never,0,,70,1,Yes,None
+CUST00248,28,Female,Ahmedabad,26590,Churned,2,691.69,1567.87,Electronics,Desktop,Debit Card,6.3,3.3,0.71,0,0.24,Never,0,,290,2,Yes,None
+CUST00249,19,Male,Mumbai,49796,Occasional,2,803.11,1512.25,Clothing,Mobile,UPI,4.2,5.1,0.68,0,0.14,Always,1,3.9,204,5,Yes,Bronze
+CUST00250,25,Female,Hyderabad,42627,Occasional,2,815.6,1354.54,Electronics,Desktop,Wallet,7.6,3.6,0.67,0,0.05,Always,1,5.0,141,0,No,None
+CUST00251,41,Female,Chennai,136681,Premium,17,4079.69,61352.78,Clothing,Tablet,Wallet,21.6,5.6,0.14,0,0.03,Sometimes,0,,58,19,Yes,Gold
+CUST00252,31,Female,Chennai,84783,Premium,11,5863.59,75569.39,Clothing,Mobile,UPI,1.0,5.7,0.09,0,0.09,Sometimes,1,4.2,15,5,No,Bronze
+CUST00253,33,Female,Kolkata,24350,Occasional,1,4441.76,4052.52,Electronics,Mobile,Debit Card,6.7,3.8,0.65,0,0.08,Sometimes,0,,149,3,No,None
+CUST00254,35,Female,Pune,48053,Occasional,5,2853.41,12095.38,Electronics,Desktop,Wallet,6.8,3.9,0.5,0,0.06,Rarely,0,,69,0,Yes,Bronze
+CUST00255,20,Male,Kolkata,20226,Occasional,1,435.42,519.94,Sports,Desktop,Credit Card,1.5,4.9,0.43,0,0.02,Rarely,1,4.0,176,0,Yes,Bronze
+CUST00256,56,Female,Bangalore,21175,Occasional,5,1538.6,8994.06,Home & Kitchen,Mobile,Debit Card,6.9,7.7,0.73,0,0.1,Rarely,1,3.7,324,1,Yes,Bronze
+CUST00257,47,Male,Bangalore,71411,Regular,10,773.68,8711.81,Beauty,Tablet,Credit Card,1.7,1.0,0.3,0,0.09,Sometimes,0,,120,13,Yes,None
+CUST00258,45,Female,Hyderabad,59131,Regular,6,558.38,3837.02,Books,Mobile,Credit Card,12.5,8.3,0.39,0,0.11,Sometimes,1,4.3,52,13,Yes,Silver
+CUST00259,30,Male,Delhi,53574,Regular,4,1392.87,5706.91,Clothing,Mobile,COD,6.6,5.7,0.31,0,0.18,Sometimes,0,,52,3,Yes,Bronze
+CUST00260,53,Male,Bangalore,74314,Regular,8,1510.26,9690.77,Home & Kitchen,Desktop,COD,9.7,5.2,0.38,0,0.12,Always,1,3.2,69,12,Yes,Bronze
+CUST00261,36,Female,Hyderabad,91918,Premium,18,14347.54,247652.6,Electronics,Mobile,Credit Card,19.7,1.0,0.23,0,0.05,Never,1,4.5,6,12,Yes,Bronze
+CUST00262,33,Male,Mumbai,78892,Regular,9,552.46,5943.44,Beauty,Tablet,Debit Card,15.3,2.0,0.31,1,0.16,Always,1,3.3,34,6,No,None
+CUST00263,22,Other,Mumbai,39368,Occasional,5,230.62,966.8,Home & Kitchen,Mobile,Credit Card,6.5,2.8,0.51,0,0.04,Always,0,,157,2,No,Silver
+CUST00264,32,Female,Mumbai,41453,Occasional,1,204.45,200.55,Books,Tablet,UPI,6.5,7.0,0.56,0,0.06,Never,0,,104,2,No,None
+CUST00265,22,Other,Bangalore,29250,Occasional,1,1008.29,1035.45,Home & Kitchen,Desktop,Debit Card,4.5,7.0,0.58,0,0.1,Sometimes,0,,200,0,No,Bronze
+CUST00266,37,Male,Hyderabad,47642,Occasional,3,963.44,2820.94,Sports,Mobile,Credit Card,11.9,3.4,0.47,0,0.05,Sometimes,1,3.8,326,2,No,Bronze
+CUST00267,35,Female,Mumbai,82448,Premium,19,1300.69,21495.35,Clothing,Desktop,UPI,15.9,5.2,0.1,0,0.01,Always,0,,35,12,No,Silver
+CUST00268,37,Male,Kolkata,64769,Regular,4,3700.48,13885.19,Sports,Mobile,Credit Card,1.2,4.3,0.58,0,0.06,Rarely,1,3.8,168,18,No,Gold
+CUST00269,52,Other,Pune,20661,Occasional,4,569.93,1967.55,Sports,Mobile,UPI,4.6,8.5,0.66,0,0.07,Rarely,1,3.2,97,1,No,None
+CUST00270,28,Female,Pune,42953,Churned,1,137.33,129.39,Clothing,Mobile,UPI,12.4,7.1,0.68,0,0.2,Rarely,0,,225,1,Yes,None
+CUST00271,29,Female,Bangalore,17308,Churned,2,348.03,826.38,Sports,Mobile,Wallet,10.0,9.1,0.7,0,0.17,Sometimes,1,3.2,306,0,Yes,None
+CUST00272,23,Female,Mumbai,60192,Regular,6,743.66,3868.01,Clothing,Desktop,Debit Card,14.0,2.0,0.44,0,0.16,Sometimes,0,,174,15,Yes,Bronze
+CUST00273,30,Male,Mumbai,119354,Premium,16,779.74,14400.82,Books,Mobile,UPI,1.7,7.0,0.22,0,0.06,Rarely,1,3.9,58,6,Yes,Bronze
+CUST00274,23,Male,Delhi,60005,Regular,10,782.32,6868.69,Clothing,Desktop,UPI,6.1,3.8,0.29,0,0.05,Sometimes,0,,65,10,Yes,Silver
+CUST00275,28,Male,Mumbai,45928,Regular,6,1937.07,13489.67,Clothing,Mobile,Wallet,12.6,7.7,0.29,0,0.11,Sometimes,0,,60,11,Yes,None
+CUST00276,32,Female,Mumbai,48158,Regular,4,698.59,2751.78,Clothing,Mobile,Debit Card,1.0,2.9,0.3,0,0.09,Rarely,0,,177,7,No,None
+CUST00277,33,Female,Hyderabad,61874,Regular,8,2907.89,24271.9,Home & Kitchen,Desktop,UPI,11.9,9.4,0.39,1,0.18,Rarely,0,,149,4,No,None
+CUST00278,33,Male,Bangalore,68201,Regular,8,2390.62,21559.7,Clothing,Mobile,Debit Card,1.4,7.7,0.31,0,0.1,Always,0,,172,5,No,Gold
+CUST00279,33,Male,Delhi,69262,Regular,7,1813.73,11384.39,Home & Kitchen,Mobile,Debit Card,5.9,7.2,0.43,0,0.13,Always,0,,81,20,Yes,Silver
+CUST00280,18,Female,Bangalore,57418,Regular,7,1084.51,7599.7,Beauty,Mobile,Credit Card,7.9,11.1,0.18,1,0.15,Sometimes,0,,69,12,No,Bronze
+CUST00281,24,Male,Ahmedabad,43173,Churned,2,333.35,677.92,Clothing,Mobile,UPI,1.5,4.5,0.77,0,0.2,Sometimes,1,3.9,116,5,No,None
+CUST00282,53,Female,Delhi,47619,Occasional,2,659.85,1321.3,Home & Kitchen,Desktop,Debit Card,11.1,5.2,0.45,0,0.06,Rarely,0,,31,0,No,None
+CUST00283,18,Female,Delhi,24937,Churned,2,272.05,564.09,Sports,Desktop,Credit Card,13.9,4.9,0.73,0,0.18,Rarely,1,4.4,330,4,No,Bronze
+CUST00284,39,Female,Chennai,46081,Regular,6,451.77,2897.71,Home & Kitchen,Desktop,Wallet,12.3,8.0,0.31,0,0.09,Never,0,,32,14,Yes,None
+CUST00285,29,Male,Bangalore,36820,Occasional,3,158.44,567.36,Books,Mobile,Credit Card,4.7,5.8,0.44,0,0.09,Sometimes,0,,318,3,Yes,None
+CUST00286,48,Male,Bangalore,82478,Premium,10,2089.55,20875.11,Sports,Desktop,Debit Card,11.0,10.3,0.21,1,0.1,Rarely,0,,13,6,No,Bronze
+CUST00287,37,Male,Delhi,36605,Occasional,5,1305.48,7667.26,Home & Kitchen,Desktop,Credit Card,12.3,6.9,0.61,0,0.14,Never,0,,137,5,Yes,Bronze
+CUST00288,57,Male,Bangalore,62255,Regular,4,1768.14,6774.45,Electronics,Mobile,UPI,13.2,7.8,0.3,0,0.16,Rarely,1,5.0,104,14,Yes,None
+CUST00289,61,Male,Mumbai,88349,Premium,9,2576.8,26535.37,Sports,Mobile,Debit Card,17.3,8.8,0.26,0,0.0,Never,1,3.9,20,7,No,Bronze
+CUST00290,28,Female,Ahmedabad,22905,Churned,2,732.65,1526.79,Clothing,Mobile,Wallet,4.7,8.4,0.68,0,0.21,Rarely,0,,329,2,No,Bronze
+CUST00291,35,Male,Delhi,30119,Churned,2,763.06,1491.4,Electronics,Desktop,Credit Card,16.2,3.6,0.83,0,0.2,Rarely,0,,105,3,Yes,None
+CUST00292,30,Female,Bangalore,60290,Regular,3,257.24,623.06,Grocery,Mobile,Debit Card,10.1,5.9,0.31,0,0.09,Sometimes,0,,48,12,No,Bronze
+CUST00293,25,Male,Pune,77424,Regular,4,1021.22,3449.49,Electronics,Desktop,COD,9.9,3.8,0.25,0,0.17,Sometimes,1,4.5,38,13,No,Bronze
+CUST00294,34,Male,Ahmedabad,104363,Premium,18,2030.74,43229.51,Home & Kitchen,Mobile,Credit Card,13.5,8.8,0.22,1,0.09,Never,0,,29,19,No,Silver
+CUST00295,30,Male,Delhi,36711,Occasional,3,1436.12,3484.11,Clothing,Tablet,Debit Card,10.5,7.0,0.5,0,0.11,Sometimes,0,,318,5,Yes,None
+CUST00296,38,Male,Pune,86369,Premium,11,2217.46,26732.9,Toys,Mobile,Credit Card,9.0,5.6,0.3,0,0.07,Rarely,0,,36,14,Yes,Gold
+CUST00297,22,Female,Kolkata,46708,Regular,6,1336.98,8917.79,Electronics,Mobile,UPI,1.0,6.8,0.39,0,0.13,Sometimes,1,4.7,104,4,No,None
+CUST00298,20,Male,Mumbai,40323,Regular,6,3176.57,20069.98,Sports,Desktop,Wallet,7.0,7.7,0.41,0,0.12,Sometimes,0,,49,11,Yes,None
+CUST00299,42,Female,Mumbai,30160,Occasional,3,3047.97,10375.39,Electronics,Mobile,Credit Card,1.0,5.1,0.57,0,0.06,Sometimes,1,3.4,271,0,No,None
+CUST00300,33,Female,Hyderabad,33882,Churned,1,879.11,880.59,Home & Kitchen,Desktop,Wallet,3.0,2.8,0.7,0,0.23,Rarely,0,,75,1,No,None
+CUST00301,30,Female,Delhi,48427,Regular,8,1260.75,10659.4,Electronics,Desktop,COD,14.4,6.2,0.33,1,0.22,Rarely,1,4.7,62,9,No,None
+CUST00302,21,Other,Bangalore,24908,Occasional,3,50,145.7,Grocery,Desktop,UPI,13.0,8.4,0.6,0,0.09,Rarely,1,3.7,221,2,Yes,None
+CUST00303,18,Male,Hyderabad,39092,Regular,9,770.95,6426.7,Beauty,Mobile,Debit Card,1.2,10.9,0.35,0,0.1,Sometimes,1,3.3,177,17,No,None
+CUST00304,41,Male,Mumbai,148336,Premium,19,3421.45,77272.0,Clothing,Desktop,Debit Card,18.7,8.7,0.02,0,0.04,Rarely,0,,52,4,Yes,Gold
+CUST00305,18,Male,Pune,38671,Churned,1,641.72,641.42,Electronics,Desktop,Credit Card,1.0,5.3,0.71,0,0.22,Sometimes,0,,82,3,No,None
+CUST00306,30,Male,Pune,38743,Occasional,1,492.1,557.83,Electronics,Desktop,Credit Card,7.7,8.6,0.53,0,0.08,Rarely,0,,79,4,Yes,None
+CUST00307,32,Male,Ahmedabad,47105,Occasional,1,476.38,417.65,Beauty,Desktop,Credit Card,16.1,9.0,0.41,0,0.11,Rarely,0,,255,2,No,None
+CUST00308,38,Male,Hyderabad,85369,Premium,9,1231.88,11845.72,Grocery,Mobile,Wallet,20.1,4.2,0.1,0,0.09,Never,1,4.4,8,18,No,Bronze
+CUST00309,30,Female,Mumbai,37852,Occasional,3,131.79,319.16,Grocery,Mobile,Credit Card,15.0,5.8,0.61,0,0.06,Sometimes,0,,167,1,Yes,None
+CUST00310,21,Female,Pune,51590,Regular,4,555.46,2199.68,Electronics,Mobile,Wallet,5.4,6.9,0.41,0,0.13,Rarely,1,4.9,63,10,No,Bronze
+CUST00311,46,Female,Mumbai,138316,Premium,19,14027.68,302532.44,Electronics,Desktop,Debit Card,1.6,2.1,0.27,0,0.04,Always,0,,5,10,No,None
+CUST00312,29,Female,Mumbai,62686,Regular,3,1504.4,4078.16,Beauty,Mobile,Wallet,3.1,8.0,0.28,0,0.1,Rarely,1,3.7,55,18,No,None
+CUST00313,29,Female,Pune,26216,Occasional,4,481.99,2071.47,Toys,Mobile,UPI,12.2,5.1,0.51,0,0.0,Always,1,4.8,89,3,Yes,None
+CUST00314,47,Male,Ahmedabad,57446,Regular,10,4597.1,45845.2,Electronics,Desktop,Credit Card,5.1,3.5,0.35,1,0.14,Never,0,,105,19,Yes,None
+CUST00315,23,Male,Bangalore,126100,Premium,15,710.98,11282.53,Beauty,Desktop,COD,26.3,6.1,0.23,0,0.05,Never,0,,30,13,Yes,Bronze
+CUST00316,37,Female,Chennai,108667,Premium,11,1348.76,15564.64,Electronics,Mobile,Credit Card,19.0,5.1,0.32,0,0.06,Rarely,0,,13,1,Yes,Bronze
+CUST00317,36,Male,Chennai,124457,Premium,16,8049.51,110554.82,Electronics,Mobile,Debit Card,5.9,5.8,0.23,0,0.06,Sometimes,1,3.5,7,20,Yes,Silver
+CUST00318,29,Male,Mumbai,46331,Occasional,1,619.93,557.88,Electronics,Mobile,Debit Card,3.1,5.6,0.59,0,0.08,Sometimes,1,3.1,140,2,No,None
+CUST00319,38,Male,Pune,33332,Churned,1,108.08,98.42,Grocery,Desktop,Debit Card,9.6,8.2,0.57,0,0.25,Sometimes,0,,133,5,No,None
+CUST00320,23,Male,Chennai,52835,Regular,10,330.51,3352.38,Sports,Desktop,Credit Card,7.9,5.9,0.47,1,0.12,Rarely,0,,33,1,No,None
+CUST00321,40,Female,Bangalore,137565,Premium,18,5278.98,112024.03,Home & Kitchen,Desktop,Debit Card,9.0,2.4,0.11,1,0.06,Rarely,0,,37,7,Yes,Silver
+CUST00322,18,Female,Mumbai,49831,Occasional,3,139.85,435.68,Books,Desktop,Credit Card,11.0,9.2,0.46,0,0.11,Never,0,,197,4,No,None
+CUST00323,23,Female,Chennai,112805,Premium,14,306.85,3845.79,Grocery,Mobile,Credit Card,16.1,4.7,0.41,0,0.04,Never,0,,57,20,Yes,None
+CUST00324,18,Female,Chennai,104705,Premium,18,709.29,13118.97,Toys,Mobile,COD,6.5,6.0,0.25,0,0.05,Never,1,2.6,34,16,Yes,Gold
+CUST00325,26,Male,Kolkata,63469,Regular,8,1275.15,8243.52,Toys,Desktop,Credit Card,1.0,5.1,0.48,1,0.14,Sometimes,1,3.5,176,16,Yes,None
+CUST00326,39,Female,Ahmedabad,20359,Occasional,3,1258.08,4462.12,Clothing,Mobile,Wallet,4.2,14.6,0.43,0,0.09,Always,0,,342,4,Yes,None
+CUST00327,42,Male,Kolkata,123556,Premium,12,1768.47,22677.66,Books,Mobile,UPI,17.2,6.6,0.12,0,0.08,Rarely,1,3.2,41,11,No,Gold
+CUST00328,23,Female,Kolkata,36535,Occasional,2,614.5,1256.92,Toys,Mobile,Debit Card,13.6,9.3,0.49,0,0.05,Sometimes,0,,307,5,Yes,None
+CUST00329,35,Male,Ahmedabad,78143,Regular,9,1175.66,8551.96,Home & Kitchen,Desktop,UPI,1.0,4.0,0.39,1,0.14,Sometimes,0,,63,18,Yes,None
+CUST00330,35,Male,Mumbai,26690,Occasional,5,1261.48,5173.38,Clothing,Mobile,Credit Card,8.4,6.7,0.59,0,0.08,Rarely,1,3.8,164,3,No,None
+CUST00331,30,Male,Mumbai,20095,Churned,2,149.3,303.01,Grocery,Mobile,Debit Card,2.6,7.7,0.52,0,0.21,Sometimes,0,,150,1,No,None
+CUST00332,33,Male,Bangalore,57722,Regular,4,4055.19,15136.58,Electronics,Desktop,COD,9.1,1.7,0.41,0,0.13,Always,1,4.3,82,18,Yes,None
+CUST00333,29,Male,Delhi,41866,Regular,5,3097.07,15153.63,Electronics,Mobile,Wallet,9.3,3.0,0.37,0,0.11,Rarely,0,,87,9,Yes,None
+CUST00334,18,Male,Delhi,53249,Regular,7,681.72,4048.84,Books,Mobile,Wallet,10.9,6.2,0.27,0,0.08,Sometimes,0,,125,18,No,Silver
+CUST00335,35,Male,Hyderabad,73167,Regular,6,410.47,2651.33,Books,Desktop,Wallet,13.2,8.1,0.42,0,0.09,Sometimes,0,,175,15,No,Bronze
+CUST00336,22,Male,Bangalore,79149,Regular,4,393.69,1747.76,Toys,Mobile,UPI,8.2,4.1,0.31,0,0.09,Sometimes,0,,82,17,No,None
+CUST00337,24,Female,Bangalore,29288,Occasional,5,459.01,2342.51,Toys,Mobile,Debit Card,9.7,1.0,0.52,0,0.06,Sometimes,0,,71,2,Yes,None
+CUST00338,45,Male,Kolkata,49126,Regular,9,467.98,4436.64,Home & Kitchen,Mobile,Credit Card,12.1,9.6,0.36,0,0.08,Sometimes,1,3.1,125,13,Yes,None
+CUST00339,18,Female,Bangalore,139623,Premium,11,3925.19,51237.69,Beauty,Mobile,Debit Card,7.8,2.4,0.32,0,0.07,Rarely,0,,31,16,Yes,Silver
+CUST00340,42,Male,Chennai,39022,Occasional,5,283.05,1461.71,Clothing,Mobile,Wallet,9.7,6.5,0.6,0,0.08,Never,0,,255,2,Yes,Silver
+CUST00341,18,Female,Hyderabad,76362,Regular,4,981.52,4399.36,Sports,Mobile,Credit Card,4.2,4.8,0.16,0,0.11,Rarely,1,4.8,155,2,Yes,Bronze
+CUST00342,40,Female,Kolkata,76109,Regular,4,2678.51,11983.24,Home & Kitchen,Mobile,Credit Card,4.2,2.5,0.38,0,0.13,Sometimes,0,,108,11,Yes,None
+CUST00343,43,Male,Bangalore,55651,Regular,4,1583.93,5178.98,Beauty,Mobile,Debit Card,11.3,10.3,0.17,0,0.1,Rarely,0,,75,9,Yes,None
+CUST00344,25,Male,Kolkata,94834,Premium,10,4074.7,34828.81,Clothing,Tablet,Credit Card,14.5,4.7,0.28,0,0.03,Rarely,0,,33,20,Yes,Gold
+CUST00345,30,Female,Hyderabad,36793,Regular,4,392.86,1302.49,Grocery,Mobile,Credit Card,2.0,5.7,0.43,0,0.13,Sometimes,0,,104,4,Yes,Silver
+CUST00346,18,Female,Bangalore,39113,Regular,5,189.62,1134.85,Books,Mobile,Credit Card,10.3,6.9,0.38,0,0.11,Rarely,0,,146,17,No,Bronze
+CUST00347,47,Male,Mumbai,31848,Churned,2,408.67,837.45,Toys,Tablet,Debit Card,8.2,1.0,0.6,0,0.16,Never,0,,187,3,No,None
+CUST00348,26,Male,Hyderabad,102336,Premium,19,369.8,7147.4,Grocery,Mobile,Debit Card,11.0,1.0,0.2,0,0.05,Always,0,,15,15,No,Silver
+CUST00349,34,Female,Bangalore,27022,Occasional,4,172.31,720.17,Books,Mobile,UPI,1.0,2.8,0.64,0,0.08,Always,1,5.0,211,4,No,None
+CUST00350,22,Male,Bangalore,25645,Churned,2,578.52,955.49,Home & Kitchen,Desktop,Credit Card,7.7,3.8,0.67,0,0.26,Sometimes,1,4.2,143,0,No,Bronze
+CUST00351,18,Female,Mumbai,72631,Regular,4,2334.27,9373.68,Clothing,Mobile,COD,6.9,10.3,0.31,0,0.07,Rarely,1,3.9,145,3,No,None
+CUST00352,53,Female,Delhi,74410,Regular,4,1104.33,4141.89,Toys,Desktop,Debit Card,6.7,3.3,0.26,0,0.08,Rarely,0,,66,1,No,None
+CUST00353,35,Male,Delhi,22638,Occasional,4,221.9,939.23,Grocery,Desktop,UPI,7.5,4.5,0.54,0,0.1,Rarely,1,3.4,276,0,Yes,None
+CUST00354,32,Female,Bangalore,75994,Regular,8,3442.28,29410.8,Electronics,Mobile,Debit Card,12.3,5.3,0.45,1,0.2,Always,0,,148,19,No,Silver
+CUST00355,33,Female,Mumbai,66388,Regular,7,1725.09,12796.94,Electronics,Mobile,Credit Card,3.5,8.1,0.36,0,0.08,Rarely,0,,141,5,Yes,Bronze
+CUST00356,29,Female,Kolkata,29290,Occasional,1,177.78,148.79,Grocery,Desktop,COD,8.9,1.1,0.56,0,0.07,Sometimes,1,3.5,266,2,Yes,None
+CUST00357,18,Male,Chennai,109329,Premium,12,904.79,10834.69,Grocery,Mobile,Wallet,17.2,5.9,0.27,1,0.1,Never,0,,49,10,No,Gold
+CUST00358,27,Male,Pune,20275,Churned,2,141.76,240.37,Beauty,Mobile,Debit Card,8.2,2.9,0.71,0,0.21,Sometimes,0,,345,1,No,None
+CUST00359,18,Male,Delhi,41948,Occasional,4,437.47,1812.7,Books,Mobile,Credit Card,6.0,6.0,0.51,0,0.13,Always,0,,135,3,Yes,None
+CUST00360,38,Female,Mumbai,65545,Regular,6,2399.23,11541.15,Clothing,Mobile,COD,14.0,5.2,0.34,0,0.13,Always,0,,160,0,No,Bronze
+CUST00361,43,Female,Ahmedabad,48609,Occasional,4,2590.57,11318.73,Electronics,Mobile,COD,17.6,7.7,0.54,0,0.08,Rarely,0,,200,4,No,None
+CUST00362,33,Male,Pune,40913,Occasional,3,657.82,2303.83,Clothing,Desktop,Debit Card,5.8,6.5,0.64,0,0.09,Sometimes,0,,177,1,No,None
+CUST00363,30,Female,Kolkata,131193,Premium,10,5409.98,44084.99,Sports,Mobile,Debit Card,14.4,9.8,0.03,0,0.05,Never,0,,43,15,Yes,Silver
+CUST00364,43,Male,Delhi,36672,Regular,8,6554.93,60075.26,Electronics,Desktop,Debit Card,5.4,1.0,0.44,1,0.15,Sometimes,1,5.0,61,18,No,Silver
+CUST00365,41,Female,Mumbai,47275,Occasional,1,1462.36,1726.35,Clothing,Mobile,UPI,7.0,3.6,0.58,0,0.1,Always,0,,295,4,Yes,Gold
+CUST00366,25,Female,Chennai,27248,Occasional,3,154.22,373.79,Books,Mobile,Wallet,9.8,6.1,0.53,0,0.06,Sometimes,1,3.8,147,4,Yes,None
+CUST00367,39,Female,Delhi,78031,Regular,10,1397.89,12975.53,Sports,Desktop,Credit Card,8.7,6.8,0.36,1,0.11,Sometimes,0,,139,5,Yes,None
+CUST00368,18,Female,Hyderabad,126621,Premium,10,5757.83,57644.87,Home & Kitchen,Mobile,UPI,10.3,3.9,0.25,0,0.02,Sometimes,1,3.9,59,12,No,Silver
+CUST00369,40,Male,Chennai,27954,Occasional,5,334.66,1543.69,Clothing,Tablet,COD,8.7,9.0,0.64,0,0.06,Sometimes,0,,363,4,No,None
+CUST00370,33,Other,Hyderabad,139265,Premium,19,2241.85,36524.83,Clothing,Mobile,Debit Card,12.4,9.8,0.25,0,0.03,Always,0,,32,17,Yes,Bronze
+CUST00371,34,Female,Kolkata,30079,Churned,2,566.37,1183.38,Beauty,Mobile,Debit Card,17.0,11.3,0.76,0,0.2,Never,0,,337,2,No,None
+CUST00372,33,Male,Kolkata,31044,Occasional,1,443.9,358.44,Clothing,Desktop,UPI,7.5,4.3,0.61,0,0.09,Rarely,0,,63,1,No,None
+CUST00373,34,Male,Kolkata,29046,Occasional,1,424.41,417.68,Books,Mobile,Debit Card,6.6,6.2,0.53,0,0.05,Rarely,1,4.5,35,3,No,Silver
+CUST00374,32,Female,Mumbai,141413,Premium,20,1914.53,30772.0,Books,Mobile,COD,1.0,7.2,0.02,0,0.04,Never,0,,32,7,Yes,Bronze
+CUST00375,43,Female,Chennai,54212,Regular,6,214.99,1344.11,Toys,Desktop,COD,6.0,6.3,0.39,0,0.11,Always,1,4.5,89,15,Yes,None
+CUST00376,33,Female,Chennai,58180,Regular,7,640.06,3694.53,Books,Desktop,COD,7.7,6.0,0.29,0,0.11,Always,0,,130,0,Yes,Bronze
+CUST00377,41,Other,Bangalore,76403,Regular,10,1279.14,11818.66,Home & Kitchen,Desktop,COD,12.2,3.5,0.22,1,0.17,Never,0,,118,5,No,Gold
+CUST00378,25,Male,Hyderabad,21648,Occasional,2,4142.13,8386.75,Electronics,Desktop,Debit Card,6.9,1.5,0.41,0,0.05,Rarely,0,,343,5,No,None
+CUST00379,30,Female,Kolkata,60664,Regular,4,7178.71,28266.48,Electronics,Mobile,UPI,10.7,3.0,0.25,0,0.11,Always,1,3.7,82,8,Yes,None
+CUST00380,50,Male,Chennai,47474,Regular,6,2383.05,16145.06,Home & Kitchen,Desktop,Wallet,7.9,2.4,0.44,0,0.15,Never,1,4.8,72,13,No,Bronze
+CUST00381,26,Male,Kolkata,65115,Regular,7,338.74,2841.62,Clothing,Desktop,Debit Card,3.8,4.1,0.29,1,0.16,Never,0,,59,13,No,None
+CUST00382,29,Male,Kolkata,40670,Regular,10,1432.63,12942.53,Clothing,Desktop,Credit Card,8.5,8.0,0.31,0,0.09,Sometimes,0,,163,16,No,None
+CUST00383,30,Male,Kolkata,25275,Occasional,4,1964.44,9207.98,Electronics,Mobile,COD,6.8,5.8,0.48,0,0.11,Sometimes,0,,53,2,Yes,None
+CUST00384,25,Female,Bangalore,45441,Occasional,1,917.95,911.64,Beauty,Desktop,Credit Card,8.9,2.8,0.63,0,0.05,Sometimes,0,,307,1,Yes,Bronze
+CUST00385,25,Female,Chennai,37289,Regular,6,1993.06,9693.64,Electronics,Mobile,COD,15.5,3.8,0.39,0,0.11,Never,1,3.8,87,6,No,None
+CUST00386,25,Female,Pune,64839,Regular,10,960.85,8841.42,Toys,Mobile,Debit Card,11.7,3.2,0.31,0,0.09,Rarely,0,,109,11,No,Silver
+CUST00387,41,Female,Mumbai,57196,Regular,6,3432.97,18915.81,Sports,Desktop,COD,8.6,5.1,0.38,0,0.11,Never,0,,86,5,Yes,None
+CUST00388,48,Female,Delhi,43786,Occasional,3,3124.88,9641.39,Electronics,Mobile,Credit Card,7.3,7.9,0.53,0,0.08,Never,0,,224,3,Yes,None
+CUST00389,38,Male,Hyderabad,46899,Occasional,3,1717.22,4804.42,Electronics,Desktop,Debit Card,6.7,4.6,0.46,0,0.08,Rarely,1,3.9,127,1,No,None
+CUST00390,23,Female,Kolkata,51487,Regular,9,427.68,4114.09,Books,Desktop,Credit Card,7.7,4.1,0.37,0,0.1,Sometimes,0,,112,18,Yes,Bronze
+CUST00391,29,Male,Ahmedabad,58382,Regular,8,578.5,4037.85,Books,Mobile,UPI,4.3,7.0,0.29,1,0.17,Sometimes,0,,87,3,Yes,None
+CUST00392,36,Female,Mumbai,43343,Churned,1,1665.45,1966.94,Electronics,Mobile,Credit Card,8.5,3.3,0.67,0,0.12,Sometimes,0,,351,2,No,Bronze
+CUST00393,39,Male,Kolkata,65804,Regular,8,7561.86,62136.5,Electronics,Mobile,Credit Card,10.9,8.1,0.45,1,0.14,Sometimes,0,,30,19,No,None
+CUST00394,39,Male,Hyderabad,50755,Regular,3,5370.15,15778.49,Electronics,Mobile,UPI,4.8,1.0,0.31,0,0.07,Always,0,,115,9,No,Bronze
+CUST00395,35,Male,Bangalore,20776,Occasional,4,1549.11,5839.33,Sports,Mobile,COD,2.3,6.6,0.61,0,0.11,Sometimes,1,3.3,119,4,Yes,Bronze
+CUST00396,27,Female,Kolkata,63235,Regular,7,346.58,2902.2,Books,Mobile,Credit Card,16.2,3.9,0.38,0,0.11,Rarely,1,2.4,151,20,Yes,None
+CUST00397,31,Male,Pune,29607,Occasional,4,154.51,585.07,Books,Desktop,Credit Card,12.5,5.6,0.55,0,0.11,Never,1,2.4,111,0,Yes,None
+CUST00398,23,Male,Hyderabad,27407,Churned,1,61.25,65.31,Grocery,Mobile,Debit Card,13.5,11.2,0.79,0,0.22,Never,1,4.9,73,2,Yes,None
+CUST00399,25,Other,Bangalore,51105,Regular,8,2390.74,20624.83,Home & Kitchen,Mobile,UPI,3.9,4.3,0.34,1,0.16,Always,1,2.6,136,9,No,Silver
+CUST00400,18,Male,Mumbai,43051,Occasional,3,1137.84,3691.68,Clothing,Mobile,Credit Card,10.5,6.4,0.67,0,0.11,Sometimes,1,3.3,308,1,Yes,None
+CUST00401,37,Male,Hyderabad,43552,Regular,10,1474.45,15548.64,Clothing,Mobile,Debit Card,3.2,8.3,0.23,1,0.12,Sometimes,0,,45,2,Yes,None
+CUST00402,29,Female,Chennai,82831,Premium,13,428.35,5512.55,Books,Tablet,UPI,5.7,5.4,0.07,0,0.06,Sometimes,0,,59,18,No,Gold
+CUST00403,33,Female,Bangalore,34254,Occasional,2,1305.21,2309.9,Clothing,Tablet,Wallet,11.1,5.5,0.51,0,0.05,Never,0,,176,5,Yes,None
+CUST00404,32,Female,Hyderabad,76441,Regular,6,468.14,3074.04,Home & Kitchen,Tablet,Wallet,9.1,1.0,0.44,0,0.15,Never,1,3.2,123,15,Yes,Silver
+CUST00405,21,Male,Delhi,46478,Regular,5,1373.29,6111.41,Clothing,Mobile,COD,4.7,5.1,0.34,0,0.15,Rarely,1,4.7,91,8,No,Silver
+CUST00406,39,Male,Delhi,27532,Churned,1,203.01,184.54,Beauty,Desktop,Debit Card,7.2,2.7,0.65,0,0.22,Always,0,,43,1,Yes,None
+CUST00407,23,Female,Kolkata,26559,Occasional,4,343.5,1244.14,Books,Mobile,Wallet,8.4,6.7,0.48,0,0.02,Rarely,0,,43,2,Yes,Bronze
+CUST00408,34,Other,Pune,138712,Premium,10,4154.42,44938.26,Home & Kitchen,Tablet,COD,1.4,8.8,0.08,0,0.09,Rarely,0,,30,0,Yes,None
+CUST00409,24,Male,Delhi,49282,Regular,7,381.29,2433.28,Clothing,Desktop,Debit Card,9.3,9.1,0.48,0,0.11,Always,0,,131,11,Yes,None
+CUST00410,52,Female,Bangalore,22462,Occasional,1,899.89,1031.27,Toys,Mobile,UPI,11.6,1.8,0.5,0,0.01,Sometimes,1,4.0,77,2,Yes,None
+CUST00411,34,Male,Ahmedabad,44707,Occasional,3,509.53,1661.74,Clothing,Mobile,Credit Card,7.4,5.4,0.68,0,0.08,Never,1,4.2,221,0,No,None
+CUST00412,18,Female,Mumbai,30771,Occasional,3,1191.44,3541.8,Clothing,Mobile,COD,6.2,8.5,0.55,0,0.08,Always,0,,254,5,No,None
+CUST00413,35,Male,Pune,65226,Regular,4,556.72,2477.91,Clothing,Desktop,Debit Card,11.3,7.6,0.34,0,0.12,Never,0,,118,5,Yes,None
+CUST00414,33,Male,Kolkata,41245,Occasional,3,660.88,2033.52,Clothing,Tablet,UPI,14.0,2.8,0.6,0,0.12,Rarely,0,,109,5,Yes,Bronze
+CUST00415,29,Female,Delhi,36216,Churned,1,1156.17,1112.12,Sports,Mobile,Credit Card,5.3,5.6,0.83,0,0.16,Always,0,,62,0,No,Silver
+CUST00416,43,Male,Chennai,32054,Churned,1,131.62,125.76,Grocery,Desktop,Credit Card,8.1,3.2,0.63,0,0.21,Rarely,0,,332,1,No,Silver
+CUST00417,36,Male,Delhi,39085,Regular,9,2076.12,17692.59,Clothing,Desktop,Debit Card,8.7,6.7,0.39,0,0.11,Sometimes,1,5.0,81,12,Yes,None
+CUST00418,22,Female,Hyderabad,62506,Regular,6,2083.22,11723.36,Home & Kitchen,Mobile,Wallet,3.3,5.3,0.36,0,0.13,Sometimes,0,,166,8,No,None
+CUST00419,37,Female,Bangalore,37913,Occasional,5,1717.61,9689.48,Home & Kitchen,Desktop,Credit Card,5.9,4.7,0.49,0,0.12,Never,1,3.5,103,5,Yes,None
+CUST00420,34,Female,Kolkata,68229,Regular,9,3310.52,32229.05,Sports,Desktop,Debit Card,14.1,3.9,0.39,1,0.12,Sometimes,0,,156,2,Yes,None
+CUST00421,25,Other,Mumbai,128156,Premium,17,3051.26,59048.48,Beauty,Mobile,UPI,9.3,1.5,0.38,1,0.06,Never,0,,25,9,No,Silver
+CUST00422,35,Female,Ahmedabad,40187,Occasional,1,1062.12,976.82,Clothing,Desktop,UPI,16.2,4.5,0.57,0,0.06,Rarely,0,,237,4,No,None
+CUST00423,18,Male,Bangalore,83006,Premium,12,1246.93,16345.84,Books,Mobile,Credit Card,1.9,2.2,0.18,0,0.08,Rarely,1,3.6,32,12,No,Gold
+CUST00424,34,Male,Delhi,35633,Churned,2,287.06,475.88,Beauty,Desktop,UPI,11.4,5.4,0.7,0,0.15,Rarely,1,3.1,288,0,Yes,None
+CUST00425,37,Female,Bangalore,20772,Churned,2,326.36,750.68,Sports,Mobile,Credit Card,14.0,5.5,0.78,0,0.26,Rarely,0,,198,1,No,None
+CUST00426,28,Female,Ahmedabad,59487,Regular,6,1088.49,6366.41,Clothing,Mobile,UPI,10.3,3.8,0.48,0,0.15,Rarely,0,,58,8,Yes,None
+CUST00427,18,Other,Chennai,57435,Regular,6,2226.46,15720.16,Clothing,Desktop,Wallet,8.8,2.7,0.24,0,0.12,Rarely,0,,154,4,Yes,Gold
+CUST00428,33,Male,Mumbai,26182,Churned,1,129.34,128.91,Beauty,Desktop,Credit Card,1.0,7.4,0.68,0,0.26,Sometimes,1,2.4,111,2,No,None
+CUST00429,36,Female,Ahmedabad,40253,Occasional,3,893.6,2771.45,Beauty,Mobile,Debit Card,4.5,1.0,0.45,0,0.09,Sometimes,1,3.0,346,3,Yes,None
+CUST00430,43,Male,Kolkata,57857,Regular,5,444.78,2656.99,Clothing,Desktop,COD,15.7,9.0,0.29,0,0.12,Rarely,0,,178,16,Yes,Bronze
+CUST00431,18,Female,Pune,142135,Premium,19,9118.42,197166.09,Electronics,Mobile,Wallet,12.6,11.2,0.19,1,0.06,Never,0,,31,11,Yes,Bronze
+CUST00432,31,Male,Delhi,49639,Regular,3,712.03,2546.7,Clothing,Mobile,Wallet,6.3,5.2,0.38,0,0.09,Always,0,,165,7,No,Gold
+CUST00433,42,Female,Mumbai,49174,Occasional,5,989.88,4611.38,Home & Kitchen,Desktop,UPI,1.0,5.9,0.57,0,0.09,Always,1,3.5,145,5,No,Bronze
+CUST00434,31,Male,Bangalore,40233,Regular,10,2412.56,27064.88,Sports,Mobile,Debit Card,11.3,1.0,0.42,1,0.11,Never,1,3.6,136,3,No,Gold
+CUST00435,38,Male,Bangalore,64480,Regular,8,5386.13,36324.58,Electronics,Mobile,Debit Card,12.0,5.1,0.37,1,0.21,Sometimes,1,4.8,107,0,No,None
+CUST00436,31,Male,Delhi,63716,Regular,10,3235.6,33820.05,Electronics,Mobile,Wallet,8.3,4.7,0.28,1,0.15,Rarely,0,,148,7,Yes,None
+CUST00437,31,Male,Delhi,139075,Premium,19,3312.47,52307.65,Beauty,Mobile,UPI,15.0,5.4,0.34,1,0.07,Rarely,0,,60,20,No,Bronze
+CUST00438,19,Female,Delhi,62370,Regular,4,477.87,1814.54,Clothing,Mobile,Credit Card,9.2,6.5,0.33,0,0.13,Never,1,3.0,106,6,No,Bronze
+CUST00439,34,Female,Chennai,18036,Churned,2,1510.63,3282.07,Electronics,Tablet,Debit Card,7.2,8.0,0.71,0,0.26,Sometimes,0,,66,1,No,Bronze
+CUST00440,27,Female,Delhi,36827,Regular,8,2001.4,14408.97,Home & Kitchen,Mobile,UPI,7.2,3.0,0.46,1,0.16,Never,0,,126,4,Yes,Bronze
+CUST00441,31,Female,Chennai,34962,Churned,2,668.83,1592.75,Clothing,Mobile,Credit Card,11.8,1.9,0.56,0,0.22,Always,1,4.5,101,0,No,Bronze
+CUST00442,42,Male,Chennai,143897,Premium,16,1563.71,25047.51,Clothing,Mobile,UPI,20.3,1.5,0.14,0,0.06,Sometimes,0,,22,17,Yes,Silver
+CUST00443,48,Male,Pune,37256,Occasional,5,866.36,3546.03,Beauty,Desktop,Debit Card,1.3,7.4,0.65,0,0.07,Always,0,,222,2,Yes,None
+CUST00444,46,Male,Mumbai,60449,Regular,9,1068.76,10427.76,Clothing,Tablet,UPI,11.7,9.0,0.38,0,0.08,Rarely,0,,172,5,No,None
+CUST00445,29,Male,Ahmedabad,35659,Occasional,5,218.88,895.68,Beauty,Tablet,Wallet,9.3,6.3,0.52,0,0.08,Sometimes,1,3.5,240,5,Yes,None
+CUST00446,37,Female,Delhi,62923,Regular,9,2542.74,24561.61,Electronics,Mobile,UPI,8.0,3.1,0.4,1,0.14,Sometimes,0,,48,18,No,Bronze
+CUST00447,28,Female,Chennai,46437,Occasional,3,224.05,540.8,Books,Mobile,UPI,9.9,7.3,0.51,0,0.05,Sometimes,0,,181,4,No,None
+CUST00448,24,Male,Ahmedabad,39294,Regular,4,567.08,2585.17,Books,Mobile,UPI,11.9,9.1,0.29,0,0.12,Rarely,1,4.3,104,16,No,Bronze
+CUST00449,29,Female,Mumbai,41835,Churned,1,410.44,481.98,Home & Kitchen,Desktop,Debit Card,8.1,4.9,0.63,0,0.19,Rarely,0,,200,3,No,None
+CUST00450,35,Male,Ahmedabad,140559,Premium,14,2652.69,32004.82,Toys,Mobile,UPI,18.2,5.3,0.21,1,0.1,Sometimes,1,4.6,10,16,Yes,Silver
+CUST00451,31,Female,Delhi,40873,Churned,2,102.28,187.06,Grocery,Desktop,Debit Card,2.0,7.9,0.67,0,0.22,Sometimes,1,4.5,181,1,No,Bronze
+CUST00452,36,Male,Mumbai,104111,Premium,11,4070.39,39088.88,Clothing,Mobile,Credit Card,16.9,5.6,0.25,0,0.05,Never,0,,19,20,No,Gold
+CUST00453,26,Other,Delhi,29065,Occasional,4,1795.45,7344.73,Home & Kitchen,Mobile,Debit Card,13.8,6.8,0.45,0,0.08,Never,0,,300,2,Yes,Silver
+CUST00454,37,Male,Hyderabad,60668,Regular,10,2207.93,24157.23,Clothing,Mobile,Wallet,10.5,6.6,0.44,1,0.12,Never,0,,56,11,Yes,None
+CUST00455,27,Male,Pune,62660,Regular,8,427.31,2901.35,Clothing,Desktop,Debit Card,16.2,1.0,0.28,1,0.13,Always,1,3.9,122,6,Yes,Bronze
+CUST00456,33,Male,Pune,22148,Occasional,2,1103.96,2433.61,Electronics,Mobile,Wallet,5.8,1.0,0.63,0,0.06,Rarely,0,,286,3,No,Bronze
+CUST00457,50,Female,Ahmedabad,35521,Occasional,2,1057.85,2421.2,Clothing,Mobile,COD,9.5,6.6,0.61,0,0.03,Rarely,1,5.0,122,5,No,Silver
+CUST00458,18,Female,Chennai,33961,Churned,1,1285.0,1139.97,Electronics,Mobile,Debit Card,11.4,6.6,0.68,0,0.17,Sometimes,0,,210,5,No,None
+CUST00459,32,Female,Pune,35622,Churned,1,106.33,113.78,Toys,Mobile,Debit Card,1.0,5.9,0.66,0,0.21,Rarely,1,4.8,228,1,No,None
+CUST00460,21,Male,Mumbai,81095,Premium,16,3603.47,65174.91,Electronics,Desktop,Credit Card,13.4,4.0,0.17,0,0.04,Rarely,1,5.0,36,11,Yes,Silver
+CUST00461,18,Female,Mumbai,20450,Occasional,2,609.05,1235.18,Clothing,Mobile,Debit Card,6.3,10.4,0.62,0,0.13,Rarely,0,,227,2,Yes,None
+CUST00462,38,Male,Pune,40630,Occasional,5,553.42,3312.1,Clothing,Mobile,UPI,5.7,1.4,0.55,0,0.08,Always,1,3.6,196,2,Yes,None
+CUST00463,35,Female,Delhi,20189,Occasional,1,1656.18,1607.94,Home & Kitchen,Mobile,Credit Card,3.6,6.4,0.62,0,0.08,Sometimes,1,3.5,165,0,Yes,Bronze
+CUST00464,36,Male,Delhi,76416,Regular,3,805.15,2601.75,Electronics,Mobile,COD,12.6,10.0,0.42,0,0.12,Always,0,,97,13,Yes,None
+CUST00465,41,Female,Mumbai,68759,Regular,5,462.11,2352.51,Books,Desktop,UPI,8.1,2.8,0.24,0,0.15,Always,0,,51,9,Yes,Silver
+CUST00466,18,Female,Kolkata,20455,Churned,1,340.84,394.0,Beauty,Desktop,UPI,7.9,9.0,0.64,0,0.23,Rarely,1,3.1,341,4,Yes,None
+CUST00467,46,Female,Hyderabad,144094,Premium,15,555.44,6851.02,Grocery,Mobile,Debit Card,15.8,6.3,0.16,1,0.07,Rarely,1,3.7,16,9,No,Silver
+CUST00468,36,Female,Mumbai,32311,Occasional,4,1047.51,3645.92,Clothing,Desktop,Debit Card,8.8,2.6,0.5,0,0.04,Rarely,1,4.0,346,5,No,None
+CUST00469,24,Female,Ahmedabad,51763,Regular,3,2017.63,5695.83,Home & Kitchen,Mobile,UPI,11.8,6.2,0.38,0,0.11,Never,0,,87,1,No,Bronze
+CUST00470,39,Male,Bangalore,43140,Churned,1,551.18,508.77,Sports,Mobile,Debit Card,5.7,8.0,0.83,0,0.17,Never,1,4.6,55,2,No,None
+CUST00471,21,Female,Ahmedabad,23511,Occasional,5,960.64,3902.16,Beauty,Tablet,Debit Card,1.0,6.0,0.59,0,0.01,Rarely,0,,211,5,Yes,Bronze
+CUST00472,34,Female,Delhi,128308,Premium,18,529.0,8166.5,Toys,Desktop,Wallet,21.0,2.8,0.23,0,0.04,Never,1,2.9,6,8,Yes,Silver
+CUST00473,40,Male,Delhi,42929,Churned,1,871.14,998.45,Home & Kitchen,Mobile,COD,9.9,6.6,0.64,0,0.21,Never,1,3.7,361,3,No,None
+CUST00474,31,Female,Mumbai,39369,Occasional,1,4004.15,3557.17,Electronics,Desktop,Debit Card,5.3,5.3,0.47,0,0.08,Sometimes,0,,120,5,Yes,None
+CUST00475,25,Male,Mumbai,31411,Churned,2,385.27,846.62,Clothing,Desktop,Wallet,4.4,10.4,0.66,0,0.22,Rarely,0,,230,1,No,None
+CUST00476,30,Female,Bangalore,94828,Premium,13,1237.38,15051.94,Beauty,Desktop,UPI,7.2,4.7,0.25,0,0.03,Never,0,,38,14,Yes,Bronze
+CUST00477,18,Male,Delhi,27486,Occasional,4,1358.95,6429.35,Sports,Mobile,Credit Card,8.0,3.0,0.59,0,0.04,Always,1,4.4,135,4,No,None
+CUST00478,19,Other,Pune,55737,Regular,3,2548.38,7439.3,Home & Kitchen,Mobile,UPI,9.5,3.8,0.43,0,0.06,Sometimes,1,4.5,92,2,No,Silver
+CUST00479,27,Male,Chennai,36703,Churned,2,499.37,839.55,Home & Kitchen,Desktop,Credit Card,12.2,7.4,0.62,0,0.22,Rarely,0,,99,2,No,None
+CUST00480,23,Male,Ahmedabad,144576,Premium,16,1091.85,15561.12,Books,Mobile,Debit Card,20.3,5.9,0.29,0,0.06,Rarely,0,,16,14,Yes,None
+CUST00481,24,Female,Bangalore,75388,Regular,3,2895.3,8964.2,Electronics,Desktop,Debit Card,9.2,7.2,0.34,0,0.13,Sometimes,1,2.6,109,12,Yes,Bronze
+CUST00482,19,Female,Chennai,63137,Regular,7,344.52,2466.02,Toys,Desktop,Credit Card,5.3,7.1,0.2,0,0.12,Rarely,0,,72,4,No,None
+CUST00483,18,Female,Delhi,38448,Occasional,4,343.08,1264.85,Clothing,Desktop,UPI,4.7,7.5,0.64,0,0.11,Rarely,0,,338,2,No,None
+CUST00484,40,Male,Kolkata,38723,Occasional,2,222.03,449.01,Grocery,Tablet,Debit Card,4.1,4.5,0.57,0,0.07,Rarely,0,,96,0,No,Bronze
+CUST00485,39,Female,Delhi,37079,Regular,4,261.98,1078.15,Books,Tablet,Debit Card,7.1,8.0,0.24,0,0.15,Never,0,,80,19,No,None
+CUST00486,31,Female,Bangalore,43513,Regular,7,1520.04,10766.99,Clothing,Mobile,Credit Card,5.5,4.7,0.44,0,0.11,Rarely,1,5.0,111,8,Yes,Bronze
+CUST00487,46,Female,Bangalore,29696,Occasional,1,1682.23,1976.31,Sports,Desktop,Wallet,8.0,7.1,0.5,0,0.09,Rarely,1,4.5,282,5,Yes,None
+CUST00488,30,Male,Mumbai,68570,Regular,3,373.33,912.11,Home & Kitchen,Mobile,Wallet,6.5,2.8,0.38,0,0.14,Never,0,,148,4,No,Silver
+CUST00489,35,Female,Hyderabad,38291,Regular,7,2133.52,16063.23,Home & Kitchen,Desktop,Debit Card,1.0,4.4,0.41,0,0.1,Always,1,4.5,163,19,Yes,Bronze
+CUST00490,33,Female,Bangalore,19046,Churned,1,181.01,149.47,Beauty,Desktop,UPI,6.5,5.6,0.69,0,0.21,Sometimes,0,,333,4,No,None
+CUST00491,49,Female,Mumbai,20743,Occasional,3,4332.05,12729.94,Electronics,Mobile,Debit Card,8.4,6.3,0.56,0,0.07,Rarely,0,,251,5,Yes,Bronze
+CUST00492,48,Female,Pune,40676,Churned,1,860.97,840.42,Sports,Desktop,Debit Card,8.6,6.1,0.87,0,0.14,Sometimes,0,,52,5,Yes,Bronze
+CUST00493,30,Female,Mumbai,138915,Premium,16,7379.7,132361.28,Sports,Tablet,UPI,22.3,6.2,0.18,0,0.04,Never,1,5.0,21,13,No,Bronze
+CUST00494,60,Female,Ahmedabad,38777,Occasional,2,642.89,1303.72,Toys,Desktop,Credit Card,3.3,1.6,0.49,0,0.09,Sometimes,0,,52,2,No,Bronze
+CUST00495,28,Other,Mumbai,41638,Occasional,4,275.22,1307.57,Clothing,Mobile,COD,9.3,6.9,0.49,0,0.08,Rarely,0,,276,3,Yes,Bronze
+CUST00496,20,Female,Mumbai,38406,Occasional,1,684.35,806.46,Clothing,Mobile,Debit Card,13.4,7.6,0.52,0,0.11,Always,0,,231,5,Yes,None
+CUST00497,32,Female,Hyderabad,21148,Churned,2,139.16,241.45,Books,Tablet,Debit Card,5.2,2.7,0.67,0,0.17,Sometimes,0,,36,4,No,None
+CUST00498,24,Female,Chennai,68545,Regular,7,1898.7,12795.52,Clothing,Desktop,Debit Card,7.8,6.5,0.31,0,0.1,Never,0,,147,11,Yes,Bronze
+CUST00499,48,Female,Bangalore,115056,Premium,15,4713.71,75444.21,Sports,Mobile,Credit Card,18.5,2.7,0.06,1,0.08,Never,1,2.6,46,9,No,Gold
+CUST00500,18,Female,Bangalore,73797,Regular,5,498.02,2743.52,Clothing,Mobile,UPI,8.2,6.1,0.39,0,0.12,Never,1,3.0,69,11,Yes,Bronze
+CUST00501,20,Male,Bangalore,65220,Regular,10,2388.3,21008.17,Electronics,Desktop,Wallet,3.1,5.7,0.43,1,0.11,Sometimes,0,,51,18,No,None
+CUST00502,31,Male,Kolkata,45083,Occasional,2,849.98,1996.68,Beauty,Mobile,UPI,14.7,5.0,0.5,0,0.04,Sometimes,1,4.5,313,2,No,None
+CUST00503,41,Female,Pune,45102,Occasional,5,1709.38,7722.78,Electronics,Tablet,COD,5.7,4.5,0.44,0,0.06,Always,0,,215,0,No,None
+CUST00504,43,Female,Pune,21112,Occasional,4,327.88,1248.39,Beauty,Mobile,UPI,8.8,6.0,0.61,0,0.1,Always,0,,202,2,No,None
+CUST00505,32,Male,Ahmedabad,34834,Occasional,2,3916.27,8779.78,Electronics,Tablet,Debit Card,8.9,7.4,0.6,0,0.06,Always,0,,68,4,Yes,None
+CUST00506,28,Male,Kolkata,22259,Occasional,5,139.25,651.65,Home & Kitchen,Desktop,COD,14.8,8.4,0.5,0,0.09,Never,1,4.8,163,0,Yes,Bronze
+CUST00507,34,Other,Delhi,42939,Occasional,3,501.84,1582.77,Electronics,Mobile,Wallet,8.9,4.3,0.56,0,0.06,Rarely,1,3.3,45,1,No,Bronze
+CUST00508,26,Female,Hyderabad,63490,Regular,8,476.67,4256.13,Grocery,Desktop,COD,6.5,2.4,0.35,0,0.11,Sometimes,0,,153,18,Yes,Bronze
+CUST00509,34,Male,Bangalore,38450,Regular,3,372.6,994.13,Books,Desktop,COD,1.0,4.9,0.31,0,0.12,Rarely,0,,43,18,Yes,None
+CUST00510,39,Male,Kolkata,28323,Occasional,1,1763.14,1676.08,Sports,Mobile,Wallet,10.1,3.6,0.67,0,0.05,Rarely,1,4.2,284,0,No,None
+CUST00511,31,Female,Mumbai,45752,Occasional,4,1367.14,4509.46,Home & Kitchen,Desktop,Credit Card,5.1,6.2,0.55,0,0.07,Sometimes,1,3.9,285,5,No,None
+CUST00512,50,Male,Hyderabad,40969,Churned,2,754.24,1803.96,Sports,Desktop,UPI,4.6,4.4,0.82,0,0.24,Rarely,0,,284,4,Yes,None
+CUST00513,26,Female,Mumbai,37324,Regular,5,1603.51,8352.62,Clothing,Mobile,Debit Card,4.5,7.0,0.26,0,0.13,Always,0,,55,6,No,Bronze
+CUST00514,23,Male,Bangalore,20554,Churned,2,320.64,723.46,Electronics,Mobile,UPI,3.3,7.5,0.74,0,0.18,Never,1,4.0,110,3,No,None
+CUST00515,51,Female,Chennai,122580,Premium,20,1106.14,22846.72,Books,Desktop,Debit Card,14.4,6.4,0.19,0,0.03,Never,0,,11,2,Yes,Bronze
+CUST00516,33,Male,Bangalore,52369,Regular,7,1454.26,10953.82,Clothing,Desktop,Debit Card,17.8,6.5,0.33,0,0.09,Sometimes,0,,78,19,No,Bronze
+CUST00517,44,Female,Chennai,61998,Regular,6,4728.63,27168.87,Electronics,Mobile,UPI,9.5,6.2,0.31,0,0.1,Sometimes,0,,73,13,Yes,None
+CUST00518,33,Male,Chennai,57896,Regular,4,217.95,914.4,Books,Desktop,UPI,6.7,9.5,0.33,0,0.12,Always,0,,87,2,Yes,Gold
+CUST00519,39,Female,Delhi,51216,Regular,5,533.91,2416.46,Toys,Mobile,Wallet,10.0,6.1,0.28,0,0.16,Rarely,0,,104,9,No,None
+CUST00520,29,Male,Delhi,30905,Occasional,5,3803.07,22372.97,Electronics,Mobile,UPI,4.3,5.6,0.58,0,0.1,Sometimes,0,,91,5,Yes,Bronze
+CUST00521,36,Male,Chennai,45810,Occasional,2,990.77,2329.59,Clothing,Desktop,COD,7.5,1.6,0.62,0,0.11,Never,0,,284,1,No,None
+CUST00522,43,Male,Chennai,47451,Occasional,2,205.72,452.72,Grocery,Mobile,Credit Card,6.4,4.1,0.59,0,0.04,Always,1,3.0,172,4,Yes,Bronze
+CUST00523,32,Female,Ahmedabad,36327,Occasional,2,4485.34,9854.91,Electronics,Mobile,Credit Card,13.5,8.7,0.54,0,0.08,Rarely,1,4.5,102,0,Yes,None
+CUST00524,37,Female,Bangalore,54785,Regular,7,610.24,4243.7,Clothing,Desktop,Wallet,8.3,8.5,0.14,0,0.07,Sometimes,1,3.3,147,18,Yes,None
+CUST00525,31,Male,Hyderabad,48656,Regular,6,671.12,3854.0,Clothing,Desktop,Credit Card,2.7,4.7,0.46,0,0.13,Sometimes,0,,148,8,Yes,Bronze
+CUST00526,18,Female,Pune,69444,Regular,3,417.49,1452.23,Beauty,Tablet,Debit Card,5.3,2.7,0.44,0,0.1,Sometimes,1,2.8,100,2,No,None
+CUST00527,25,Female,Chennai,47182,Regular,5,1861.81,9677.31,Clothing,Mobile,Credit Card,1.0,9.6,0.33,0,0.1,Sometimes,1,3.5,139,13,No,Bronze
+CUST00528,35,Male,Delhi,45605,Occasional,2,315.62,740.3,Books,Desktop,UPI,7.4,8.4,0.45,0,0.06,Rarely,1,4.0,357,2,Yes,None
+CUST00529,41,Female,Kolkata,41064,Churned,2,389.91,824.53,Clothing,Desktop,Wallet,8.3,5.4,0.57,0,0.21,Rarely,1,3.3,252,5,No,None
+CUST00530,38,Male,Bangalore,54841,Regular,3,987.37,2847.78,Home & Kitchen,Desktop,COD,2.3,10.6,0.34,0,0.11,Rarely,1,5.0,126,15,No,None
+CUST00531,33,Female,Ahmedabad,143667,Premium,20,1850.53,39252.29,Beauty,Mobile,Credit Card,9.0,1.9,0.13,1,0.05,Sometimes,0,,37,16,Yes,Silver
+CUST00532,38,Female,Bangalore,36171,Occasional,4,1174.84,5028.27,Beauty,Mobile,COD,8.2,1.6,0.44,0,0.15,Always,0,,242,5,No,None
+CUST00533,25,Male,Chennai,47725,Regular,8,1334.32,9288.33,Clothing,Mobile,Credit Card,2.6,7.8,0.37,1,0.15,Rarely,0,,40,0,Yes,None
+CUST00534,29,Male,Hyderabad,60827,Regular,6,149.75,768.97,Grocery,Mobile,Debit Card,9.9,1.0,0.38,0,0.13,Rarely,0,,114,8,Yes,Silver
+CUST00535,29,Male,Ahmedabad,41869,Occasional,4,779.64,2977.64,Clothing,Desktop,COD,6.3,7.4,0.45,0,0.14,Sometimes,0,,202,0,No,None
+CUST00536,23,Male,Bangalore,42656,Churned,1,176.66,192.24,Beauty,Desktop,COD,10.5,7.6,0.68,0,0.13,Sometimes,1,5.0,308,1,No,Silver
+CUST00537,26,Male,Kolkata,73305,Regular,9,5839.31,58403.25,Electronics,Desktop,Debit Card,8.7,4.9,0.28,0,0.08,Rarely,1,3.9,47,1,No,None
+CUST00538,41,Female,Mumbai,42710,Occasional,2,189.8,305.46,Books,Mobile,Credit Card,12.3,5.0,0.61,0,0.06,Never,1,4.0,188,4,Yes,Bronze
+CUST00539,38,Male,Mumbai,32142,Occasional,1,588.78,677.22,Clothing,Desktop,Debit Card,2.9,7.0,0.47,0,0.1,Sometimes,0,,346,0,No,Bronze
+CUST00540,35,Female,Chennai,46390,Regular,5,2179.1,11494.23,Clothing,Mobile,UPI,8.4,3.9,0.37,0,0.11,Rarely,0,,48,11,Yes,None
+CUST00541,38,Male,Pune,43508,Occasional,5,1012.51,5000.69,Home & Kitchen,Desktop,Debit Card,6.5,9.4,0.51,0,0.09,Rarely,1,2.9,219,1,Yes,None
+CUST00542,34,Male,Delhi,70203,Regular,9,2059.38,21281.19,Clothing,Tablet,Debit Card,6.9,8.2,0.51,1,0.14,Rarely,1,2.6,165,17,Yes,Bronze
+CUST00543,40,Female,Ahmedabad,136025,Premium,15,1352.21,19212.83,Clothing,Desktop,Debit Card,19.3,5.8,0.19,0,0.05,Never,0,,19,1,No,None
+CUST00544,44,Other,Delhi,74215,Regular,9,743.95,5973.12,Beauty,Desktop,UPI,7.6,4.9,0.34,0,0.1,Sometimes,0,,75,8,No,Silver
+CUST00545,25,Male,Hyderabad,29135,Occasional,3,226.9,753.65,Books,Mobile,UPI,14.6,5.4,0.63,0,0.03,Rarely,1,4.2,144,3,Yes,Bronze
+CUST00546,36,Female,Ahmedabad,44525,Regular,3,892.42,2787.87,Beauty,Mobile,Debit Card,4.1,6.0,0.39,0,0.15,Sometimes,0,,69,12,Yes,None
+CUST00547,24,Male,Hyderabad,108292,Premium,13,5855.49,77308.33,Clothing,Mobile,Debit Card,11.0,7.3,0.33,0,0.03,Sometimes,0,,4,14,No,Silver
+CUST00548,21,Male,Chennai,48636,Occasional,2,4033.86,8304.5,Electronics,Tablet,COD,14.6,5.2,0.48,0,0.1,Sometimes,1,3.8,130,1,Yes,None
+CUST00549,53,Male,Delhi,100717,Premium,12,5123.46,62353.6,Sports,Tablet,UPI,11.2,7.2,0.24,0,0.06,Never,1,2.8,31,3,No,None
+CUST00550,42,Male,Mumbai,39337,Occasional,1,338.54,353.44,Toys,Mobile,COD,3.8,5.6,0.56,0,0.14,Sometimes,1,4.0,149,2,No,None
+CUST00551,30,Male,Mumbai,36389,Occasional,3,369.69,979.23,Beauty,Mobile,COD,14.3,4.3,0.56,0,0.13,Rarely,0,,317,2,Yes,Bronze
+CUST00552,18,Female,Chennai,36329,Churned,1,80.95,79.0,Toys,Desktop,Credit Card,14.2,4.2,0.56,0,0.2,Rarely,0,,112,2,Yes,None
+CUST00553,24,Female,Hyderabad,61159,Regular,3,1102.79,2830.0,Clothing,Mobile,Credit Card,4.8,4.1,0.3,0,0.12,Sometimes,1,4.7,173,6,No,Silver
+CUST00554,27,Other,Ahmedabad,48562,Regular,3,7061.6,25217.93,Electronics,Tablet,Wallet,10.1,6.0,0.34,0,0.12,Sometimes,1,3.2,133,13,No,None
+CUST00555,40,Male,Kolkata,63883,Regular,9,3121.11,29339.31,Electronics,Mobile,Credit Card,9.4,1.7,0.43,1,0.15,Always,0,,116,6,Yes,Silver
+CUST00556,30,Male,Mumbai,29303,Churned,2,2342.77,4567.8,Electronics,Mobile,COD,6.8,1.0,0.62,0,0.19,Rarely,1,3.8,77,1,No,Bronze
+CUST00557,30,Male,Mumbai,36431,Occasional,2,388.98,631.42,Books,Mobile,Credit Card,6.7,1.0,0.41,0,0.11,Rarely,0,,217,5,Yes,None
+CUST00558,30,Male,Mumbai,23969,Churned,2,122.55,235.27,Grocery,Mobile,UPI,12.1,7.5,0.68,0,0.17,Rarely,1,3.8,293,2,Yes,None
+CUST00559,22,Male,Hyderabad,41146,Churned,2,731.88,1311.83,Clothing,Tablet,UPI,5.4,5.1,0.7,0,0.22,Rarely,0,,195,3,No,Bronze
+CUST00560,33,Female,Delhi,36543,Occasional,3,129.96,376.47,Grocery,Desktop,Wallet,4.2,1.6,0.54,0,0.07,Always,0,,242,2,Yes,None
+CUST00561,32,Male,Kolkata,52199,Regular,7,5835.64,36398.46,Electronics,Mobile,Wallet,9.7,5.4,0.34,0,0.1,Never,1,3.7,79,1,No,Silver
+CUST00562,43,Other,Kolkata,25561,Churned,2,539.6,1233.72,Electronics,Desktop,Credit Card,9.3,5.5,0.8,0,0.17,Never,1,3.7,208,0,No,None
+CUST00563,57,Female,Ahmedabad,38103,Regular,5,500.26,2096.1,Clothing,Mobile,Debit Card,1.9,8.1,0.26,0,0.15,Rarely,0,,54,15,No,None
+CUST00564,49,Other,Ahmedabad,123985,Premium,16,5656.74,92266.77,Clothing,Mobile,Wallet,7.8,5.3,0.22,0,0.03,Never,0,,18,4,Yes,Gold
+CUST00565,23,Male,Chennai,22502,Occasional,3,782.26,1986.02,Beauty,Desktop,Credit Card,3.5,6.0,0.52,0,0.08,Always,0,,122,5,Yes,None
+CUST00566,53,Male,Chennai,42139,Regular,3,1574.54,5334.67,Clothing,Desktop,Wallet,10.1,6.2,0.18,0,0.08,Never,1,3.9,171,13,No,Bronze
+CUST00567,36,Female,Pune,135727,Premium,20,3654.42,76370.38,Home & Kitchen,Desktop,Debit Card,11.5,12.5,0.02,0,0.04,Sometimes,1,3.7,47,5,No,Silver
+CUST00568,24,Male,Bangalore,27613,Occasional,4,4200.88,16549.9,Electronics,Mobile,Debit Card,8.1,9.8,0.53,0,0.13,Never,0,,224,5,No,Bronze
+CUST00569,50,Other,Chennai,64391,Regular,7,3811.39,30920.63,Sports,Mobile,UPI,8.9,1.5,0.25,1,0.15,Rarely,1,2.8,100,0,Yes,None
+CUST00570,30,Female,Ahmedabad,60568,Regular,9,523.67,5510.21,Home & Kitchen,Mobile,UPI,8.1,1.0,0.5,0,0.08,Always,0,,57,5,Yes,None
+CUST00571,33,Female,Delhi,43682,Regular,6,274.05,1730.34,Books,Mobile,COD,5.6,4.6,0.26,0,0.12,Rarely,1,4.5,168,15,Yes,Gold
+CUST00572,34,Female,Pune,27055,Occasional,3,1496.49,3698.99,Clothing,Mobile,UPI,8.8,6.0,0.54,0,0.13,Sometimes,1,4.6,351,1,Yes,None
+CUST00573,28,Male,Pune,21397,Occasional,3,2004.0,5163.94,Sports,Desktop,Credit Card,1.0,1.0,0.49,0,0.07,Sometimes,1,3.5,105,4,No,None
+CUST00574,26,Other,Pune,89846,Premium,11,3505.52,44489.76,Clothing,Desktop,Credit Card,10.6,8.7,0.22,0,0.01,Rarely,1,3.1,4,19,No,Bronze
+CUST00575,37,Female,Delhi,113804,Premium,18,4943.57,73914.57,Clothing,Mobile,Credit Card,7.0,5.6,0.31,1,0.1,Never,0,,10,10,No,Gold
+CUST00576,36,Female,Pune,43997,Regular,9,1672.19,15346.4,Clothing,Mobile,Wallet,1.9,6.7,0.38,0,0.11,Always,0,,172,17,No,Silver
+CUST00577,18,Other,Bangalore,30421,Occasional,1,344.84,283.02,Books,Tablet,Credit Card,7.8,4.7,0.48,0,0.12,Always,1,5.0,345,3,No,None
+CUST00578,31,Male,Mumbai,73651,Regular,5,1838.32,9190.59,Beauty,Desktop,Credit Card,12.5,6.1,0.32,0,0.07,Sometimes,0,,65,15,Yes,None
+CUST00579,20,Male,Hyderabad,32054,Occasional,1,3468.76,4037.04,Electronics,Mobile,Debit Card,3.8,6.3,0.52,0,0.08,Always,0,,225,5,Yes,None
+CUST00580,35,Male,Pune,24914,Occasional,2,688.67,1443.61,Home & Kitchen,Tablet,Credit Card,10.3,5.0,0.53,0,0.06,Sometimes,0,,52,1,Yes,Gold
+CUST00581,28,Male,Mumbai,146240,Premium,9,3095.61,25446.98,Home & Kitchen,Mobile,Credit Card,12.4,6.5,0.16,1,0.12,Rarely,0,,16,18,Yes,Bronze
+CUST00582,30,Female,Pune,42012,Regular,10,1919.24,17164.42,Beauty,Mobile,Wallet,13.5,7.4,0.33,1,0.11,Sometimes,0,,77,10,Yes,Silver
+CUST00583,32,Female,Mumbai,61191,Regular,9,872.22,6947.41,Toys,Mobile,Wallet,5.4,6.4,0.31,0,0.11,Sometimes,0,,36,13,Yes,None
+CUST00584,45,Male,Delhi,23060,Churned,1,410.34,427.43,Sports,Mobile,UPI,12.8,8.7,0.65,0,0.2,Never,1,2.9,207,2,No,None
+CUST00585,42,Female,Bangalore,39001,Churned,1,266.1,313.46,Home & Kitchen,Mobile,Debit Card,2.1,4.3,0.51,0,0.18,Rarely,0,,170,5,No,None
+CUST00586,33,Female,Chennai,77238,Regular,3,2114.97,7194.29,Home & Kitchen,Desktop,UPI,11.0,6.5,0.4,0,0.16,Always,0,,100,5,No,None
+CUST00587,34,Female,Mumbai,70082,Regular,6,629.23,3548.35,Beauty,Mobile,Debit Card,5.4,8.4,0.4,0,0.12,Rarely,1,3.4,57,18,No,None
+CUST00588,19,Female,Mumbai,139127,Premium,15,4241.01,54155.58,Electronics,Mobile,Credit Card,2.6,7.0,0.16,0,0.04,Never,0,,2,20,Yes,Gold
+CUST00589,35,Male,Pune,22371,Occasional,1,230.74,184.83,Sports,Desktop,Debit Card,9.6,5.2,0.6,0,0.07,Sometimes,0,,47,4,Yes,Gold
+CUST00590,32,Male,Hyderabad,35152,Occasional,4,787.42,3375.3,Toys,Tablet,UPI,7.5,4.3,0.45,0,0.09,Sometimes,0,,43,0,No,None
+CUST00591,31,Female,Hyderabad,27993,Occasional,2,2014.46,4586.82,Sports,Mobile,Wallet,13.4,5.5,0.55,0,0.08,Sometimes,1,3.5,135,0,Yes,Bronze
+CUST00592,35,Male,Kolkata,142164,Premium,16,4523.33,83597.23,Home & Kitchen,Mobile,Wallet,13.7,2.1,0.01,0,0.05,Never,0,,44,2,No,None
+CUST00593,30,Male,Hyderabad,104063,Premium,10,2335.74,22122.02,Sports,Mobile,Debit Card,20.2,4.3,0.07,0,0.07,Rarely,0,,51,5,Yes,None
+CUST00594,31,Male,Delhi,27942,Occasional,2,1372.54,2702.81,Home & Kitchen,Desktop,Debit Card,13.9,4.8,0.49,0,0.08,Sometimes,1,3.9,146,3,No,None
+CUST00595,27,Male,Delhi,71005,Regular,3,924.84,2931.36,Electronics,Mobile,Debit Card,11.3,3.8,0.32,0,0.14,Always,0,,89,15,No,None
+CUST00596,35,Male,Pune,36370,Occasional,4,1710.65,5681.73,Sports,Mobile,Debit Card,8.9,5.0,0.58,0,0.05,Rarely,0,,148,3,Yes,None
+CUST00597,20,Male,Ahmedabad,70075,Regular,3,638.87,2205.06,Books,Mobile,Credit Card,19.1,4.5,0.29,0,0.12,Rarely,0,,113,13,Yes,None
+CUST00598,38,Female,Bangalore,41014,Regular,8,631.47,5229.71,Books,Desktop,UPI,10.8,7.1,0.34,0,0.11,Rarely,0,,131,6,Yes,Silver
+CUST00599,40,Male,Bangalore,75279,Regular,8,1251.94,11282.41,Electronics,Tablet,COD,7.9,5.7,0.24,0,0.09,Sometimes,1,3.5,34,2,No,None
+CUST00600,20,Female,Ahmedabad,69251,Regular,6,489.09,2453.93,Beauty,Desktop,Credit Card,15.8,5.0,0.42,0,0.15,Always,1,3.7,144,10,No,None
+CUST00601,18,Female,Pune,109176,Premium,13,1484.72,15677.92,Beauty,Desktop,Credit Card,15.6,3.4,0.17,0,0.07,Rarely,1,4.5,36,8,Yes,Gold
+CUST00602,40,Female,Chennai,41293,Occasional,3,4428.77,14578.19,Electronics,Mobile,Wallet,11.0,6.7,0.67,0,0.12,Sometimes,0,,157,5,Yes,None
+CUST00603,36,Other,Kolkata,43515,Occasional,2,1826.4,3339.87,Sports,Mobile,Debit Card,7.5,7.3,0.74,0,0.05,Rarely,0,,240,3,Yes,Bronze
+CUST00604,32,Male,Bangalore,35609,Occasional,4,612.57,2452.37,Clothing,Desktop,Credit Card,6.3,8.2,0.52,0,0.05,Always,1,3.0,112,4,No,None
+CUST00605,33,Female,Kolkata,147003,Premium,8,3326.86,31642.94,Clothing,Mobile,Credit Card,15.2,5.8,0.27,0,0.03,Always,0,,37,1,No,Bronze
+CUST00606,38,Male,Hyderabad,37191,Churned,1,464.4,391.38,Home & Kitchen,Desktop,Debit Card,6.1,7.1,0.71,0,0.21,Sometimes,0,,112,3,No,Bronze
+CUST00607,20,Male,Delhi,66861,Regular,7,1748.89,10403.19,Beauty,Desktop,Credit Card,2.1,4.0,0.46,0,0.08,Always,1,4.4,145,8,Yes,None
+CUST00608,28,Male,Delhi,55404,Regular,8,847.56,6280.66,Clothing,Mobile,Debit Card,2.0,1.7,0.26,0,0.12,Rarely,1,3.5,156,0,Yes,None
+CUST00609,20,Male,Mumbai,32352,Occasional,2,1353.02,2644.36,Electronics,Mobile,Debit Card,4.1,4.5,0.59,0,0.1,Never,0,,113,0,Yes,None
+CUST00610,49,Female,Mumbai,69553,Regular,3,1756.17,4598.11,Beauty,Desktop,Credit Card,1.0,9.1,0.31,0,0.13,Rarely,0,,158,19,Yes,Silver
+CUST00611,40,Male,Pune,114669,Premium,18,13987.25,227579.92,Electronics,Desktop,Debit Card,1.0,2.6,0.16,1,0.1,Rarely,0,,4,17,No,Bronze
+CUST00612,18,Male,Mumbai,19130,Churned,2,1389.48,3074.88,Electronics,Mobile,Credit Card,11.5,3.2,0.91,0,0.21,Rarely,0,,79,3,No,None
+CUST00613,49,Female,Kolkata,36265,Churned,1,349.97,297.69,Beauty,Desktop,Debit Card,10.9,8.1,0.73,0,0.16,Sometimes,1,3.3,272,5,No,None
+CUST00614,32,Male,Chennai,62297,Regular,8,1071.63,9611.21,Toys,Mobile,Wallet,10.8,9.1,0.29,1,0.16,Sometimes,1,4.5,160,1,Yes,None
+CUST00615,27,Female,Ahmedabad,47449,Regular,4,724.88,2781.76,Beauty,Desktop,Credit Card,8.5,6.2,0.41,0,0.15,Rarely,0,,180,9,No,Bronze
+CUST00616,29,Male,Mumbai,39979,Regular,5,974.72,5023.53,Beauty,Mobile,Debit Card,12.2,7.8,0.22,0,0.13,Never,0,,108,9,No,Bronze
+CUST00617,23,Female,Bangalore,38526,Churned,1,50,55.16,Grocery,Desktop,Debit Card,7.2,9.9,0.73,0,0.24,Never,0,,154,1,No,None
+CUST00618,30,Female,Chennai,128262,Premium,20,1459.27,31703.79,Toys,Mobile,Credit Card,1.0,8.3,0.1,1,0.06,Never,0,,53,3,Yes,None
+CUST00619,26,Female,Ahmedabad,50131,Regular,9,845.81,7195.87,Clothing,Desktop,Debit Card,8.8,5.9,0.46,1,0.18,Rarely,0,,60,1,No,None
+CUST00620,45,Female,Chennai,39421,Occasional,3,617.89,1979.38,Home & Kitchen,Mobile,Debit Card,3.4,13.1,0.46,0,0.08,Rarely,0,,240,4,Yes,Bronze
+CUST00621,34,Male,Bangalore,58691,Regular,10,6293.29,72313.73,Electronics,Tablet,Wallet,11.7,3.7,0.52,1,0.1,Sometimes,1,4.2,101,6,Yes,Bronze
+CUST00622,38,Male,Ahmedabad,47607,Occasional,4,749.25,3268.98,Beauty,Mobile,Wallet,4.5,9.5,0.64,0,0.07,Rarely,1,3.3,190,2,Yes,Bronze
+CUST00623,38,Female,Mumbai,38256,Regular,6,1158.78,6400.26,Clothing,Mobile,UPI,3.8,4.2,0.32,0,0.12,Rarely,1,4.4,107,4,Yes,Bronze
+CUST00624,18,Male,Chennai,29800,Occasional,2,487.47,922.07,Home & Kitchen,Mobile,UPI,6.9,9.6,0.58,0,0.05,Sometimes,0,,169,4,Yes,None
+CUST00625,37,Male,Delhi,47465,Regular,7,3835.37,25466.34,Electronics,Desktop,Wallet,2.0,8.6,0.27,0,0.12,Rarely,0,,57,0,Yes,None
+CUST00626,47,Female,Chennai,36795,Occasional,3,831.18,2844.62,Beauty,Mobile,Debit Card,4.6,6.7,0.5,0,0.09,Rarely,1,5.0,231,1,No,None
+CUST00627,25,Female,Delhi,44009,Regular,9,1272.37,12688.34,Beauty,Desktop,COD,8.9,3.6,0.39,1,0.12,Never,0,,115,15,No,Silver
+CUST00628,44,Female,Bangalore,42131,Churned,1,103.39,105.22,Clothing,Mobile,UPI,7.9,8.3,0.66,0,0.18,Never,0,,32,1,No,None
+CUST00629,22,Male,Delhi,76202,Regular,8,657.56,5040.22,Beauty,Desktop,Credit Card,7.2,5.0,0.26,1,0.13,Rarely,0,,66,6,Yes,None
+CUST00630,36,Female,Hyderabad,37490,Occasional,1,693.97,752.47,Clothing,Desktop,Wallet,10.4,6.8,0.55,0,0.1,Sometimes,0,,242,0,Yes,None
+CUST00631,18,Male,Hyderabad,67931,Regular,6,160.27,995.89,Books,Desktop,Debit Card,7.5,3.1,0.39,0,0.1,Sometimes,0,,73,6,No,Silver
+CUST00632,31,Male,Pune,27245,Occasional,3,382.29,1246.46,Books,Tablet,Debit Card,12.7,7.8,0.48,0,0.07,Sometimes,1,3.0,111,4,No,None
+CUST00633,40,Male,Kolkata,45460,Occasional,5,361.6,2036.92,Clothing,Desktop,Credit Card,4.0,8.5,0.42,0,0.03,Rarely,0,,85,1,No,None
+CUST00634,33,Female,Delhi,126206,Premium,8,3082.85,28919.2,Home & Kitchen,Mobile,Wallet,11.0,11.4,0.24,0,0.09,Never,1,2.6,57,0,No,Silver
+CUST00635,21,Male,Pune,66942,Regular,9,6003.48,62023.62,Electronics,Mobile,Debit Card,9.9,5.1,0.49,0,0.11,Never,0,,151,7,No,None
+CUST00636,35,Male,Ahmedabad,80090,Premium,17,3660.0,65605.01,Beauty,Mobile,Debit Card,9.8,2.4,0.22,0,0.04,Never,0,,23,10,No,None
+CUST00637,44,Female,Delhi,36793,Regular,5,233.66,1096.4,Grocery,Mobile,Credit Card,4.9,7.5,0.42,0,0.1,Rarely,1,3.6,87,11,Yes,None
+CUST00638,33,Female,Bangalore,47613,Occasional,3,1281.74,4203.66,Clothing,Desktop,Debit Card,15.7,4.7,0.47,0,0.11,Never,1,3.4,211,1,Yes,None
+CUST00639,45,Male,Mumbai,50218,Regular,4,1262.26,4976.16,Toys,Mobile,Debit Card,2.6,8.6,0.36,0,0.11,Sometimes,1,4.3,165,17,No,None
+CUST00640,19,Male,Bangalore,79685,Regular,9,6414.82,65592.29,Electronics,Mobile,UPI,16.1,5.1,0.34,1,0.13,Always,1,3.9,168,2,Yes,None
+CUST00641,29,Male,Delhi,26712,Churned,1,1855.16,1767.52,Electronics,Mobile,Credit Card,10.9,4.3,0.75,0,0.2,Sometimes,0,,51,0,No,None
+CUST00642,33,Other,Chennai,135937,Premium,15,3201.53,50785.2,Sports,Desktop,Wallet,13.3,2.2,0.26,1,0.08,Never,1,4.1,56,18,Yes,None
+CUST00643,42,Female,Bangalore,58785,Regular,6,4681.33,28027.63,Electronics,Tablet,Debit Card,9.9,5.5,0.43,0,0.09,Sometimes,0,,126,13,Yes,None
+CUST00644,48,Male,Bangalore,74999,Regular,10,474.56,5347.08,Home & Kitchen,Mobile,UPI,10.0,8.6,0.27,1,0.15,Rarely,0,,179,2,Yes,Silver
+CUST00645,26,Female,Bangalore,67180,Regular,10,303.04,2642.31,Books,Desktop,Wallet,7.0,7.3,0.28,1,0.1,Always,0,,167,1,Yes,None
+CUST00646,28,Male,Mumbai,50543,Regular,9,871.66,7080.88,Electronics,Desktop,Debit Card,5.6,4.7,0.46,0,0.1,Never,0,,35,3,Yes,Silver
+CUST00647,21,Female,Mumbai,62303,Regular,9,787.2,5830.95,Clothing,Tablet,COD,7.1,8.3,0.31,1,0.12,Always,1,3.2,137,3,Yes,None
+CUST00648,18,Female,Ahmedabad,73563,Regular,7,1375.61,7756.25,Home & Kitchen,Desktop,UPI,7.4,6.2,0.34,0,0.14,Never,0,,105,14,Yes,None
+CUST00649,29,Female,Kolkata,78435,Regular,9,6562.39,65562.73,Electronics,Desktop,Debit Card,19.6,7.3,0.41,0,0.1,Rarely,0,,74,12,Yes,Bronze
+CUST00650,29,Male,Chennai,30779,Occasional,3,1484.53,3687.69,Clothing,Tablet,COD,1.3,10.3,0.53,0,0.07,Sometimes,0,,360,2,Yes,None
+CUST00651,21,Female,Mumbai,37133,Occasional,1,722.91,819.09,Clothing,Mobile,UPI,8.7,5.4,0.57,0,0.11,Rarely,1,4.0,163,2,Yes,None
+CUST00652,27,Male,Bangalore,138886,Premium,17,1333.33,22277.72,Books,Desktop,COD,17.5,2.4,0.17,0,0.05,Never,0,,56,9,Yes,Gold
+CUST00653,31,Female,Kolkata,33089,Occasional,5,314.04,1393.08,Clothing,Desktop,UPI,1.7,2.2,0.59,0,0.03,Sometimes,1,2.5,135,4,Yes,None
+CUST00654,40,Male,Kolkata,111711,Premium,9,3979.79,32431.45,Sports,Mobile,UPI,12.8,7.9,0.2,0,0.05,Always,1,3.8,5,18,Yes,Bronze
+CUST00655,24,Male,Bangalore,78543,Regular,9,2797.18,25587.95,Home & Kitchen,Desktop,Credit Card,8.8,6.6,0.18,0,0.07,Sometimes,0,,81,2,No,None
+CUST00656,46,Female,Mumbai,95917,Premium,20,15125.58,329267.14,Electronics,Mobile,Debit Card,1.0,4.5,0.15,1,0.06,Rarely,0,,16,8,No,Bronze
+CUST00657,31,Male,Kolkata,66466,Regular,3,472.03,1529.15,Grocery,Tablet,Debit Card,5.5,6.6,0.35,0,0.1,Sometimes,0,,159,10,Yes,None
+CUST00658,33,Male,Delhi,54982,Regular,9,1610.86,14873.82,Clothing,Mobile,COD,10.2,5.6,0.43,1,0.16,Rarely,0,,31,0,No,None
+CUST00659,32,Female,Pune,23004,Churned,2,1943.81,4267.73,Electronics,Mobile,COD,8.0,6.2,0.66,0,0.18,Rarely,0,,109,5,No,None
+CUST00660,51,Female,Pune,24789,Occasional,2,977.06,1739.51,Electronics,Tablet,UPI,6.1,6.0,0.55,0,0.1,Never,0,,236,2,Yes,None
+CUST00661,37,Male,Mumbai,53523,Regular,7,1291.41,10177.13,Clothing,Mobile,UPI,5.0,4.2,0.25,0,0.13,Never,0,,143,3,Yes,Bronze
+CUST00662,40,Male,Mumbai,58371,Regular,8,2711.64,20952.73,Home & Kitchen,Desktop,Debit Card,10.4,3.9,0.47,0,0.07,Sometimes,1,3.4,33,9,Yes,Silver
+CUST00663,37,Male,Chennai,43535,Occasional,4,191.25,789.16,Grocery,Mobile,Credit Card,12.1,7.7,0.43,0,0.06,Sometimes,0,,157,3,No,None
+CUST00664,28,Male,Pune,23927,Occasional,3,1711.53,4568.44,Home & Kitchen,Mobile,UPI,9.4,3.2,0.38,0,0.08,Sometimes,0,,220,0,Yes,None
+CUST00665,32,Female,Kolkata,117295,Premium,16,1861.75,26197.89,Beauty,Mobile,COD,9.7,5.6,0.0,0,0.04,Rarely,1,4.0,41,0,No,None
+CUST00666,32,Male,Mumbai,20483,Churned,1,1699.84,1822.27,Electronics,Mobile,Debit Card,8.3,3.0,0.77,0,0.23,Never,1,3.2,174,4,Yes,None
+CUST00667,23,Female,Delhi,43400,Occasional,1,4773.2,5204.85,Electronics,Desktop,COD,8.3,2.7,0.5,0,0.11,Never,0,,138,2,Yes,None
+CUST00668,32,Male,Delhi,49936,Regular,4,1939.91,7796.64,Clothing,Desktop,UPI,12.7,4.6,0.32,0,0.17,Rarely,1,3.2,161,4,No,Bronze
+CUST00669,32,Female,Bangalore,130783,Premium,19,1220.38,22215.9,Grocery,Mobile,UPI,17.9,8.0,0.04,2,0.14,Rarely,0,,36,16,No,Silver
+CUST00670,30,Male,Pune,36119,Occasional,5,1228.91,5007.0,Clothing,Mobile,Credit Card,11.5,7.5,0.56,0,0.12,Rarely,0,,50,3,Yes,None
+CUST00671,33,Male,Mumbai,32629,Churned,2,276.01,558.43,Clothing,Desktop,Debit Card,11.4,6.3,0.83,0,0.22,Never,1,4.1,116,2,No,Bronze
+CUST00672,46,Female,Kolkata,47729,Occasional,2,1020.25,1932.41,Clothing,Desktop,COD,11.1,5.2,0.44,0,0.06,Always,0,,352,2,Yes,Bronze
+CUST00673,36,Female,Pune,27162,Occasional,2,4406.85,9651.48,Electronics,Desktop,Wallet,9.3,9.3,0.44,0,0.06,Never,0,,287,2,No,None
+CUST00674,18,Male,Bangalore,42057,Regular,9,2204.81,17820.7,Clothing,Desktop,Debit Card,5.9,5.7,0.43,0,0.09,Sometimes,0,,35,6,Yes,None
+CUST00675,38,Male,Chennai,72131,Regular,7,1142.88,6839.61,Clothing,Desktop,Wallet,10.1,5.2,0.45,0,0.11,Always,0,,68,11,Yes,Bronze
+CUST00676,27,Male,Chennai,75669,Regular,3,528.89,1831.74,Books,Mobile,Credit Card,7.3,5.1,0.3,0,0.14,Always,1,3.6,77,10,Yes,None
+CUST00677,44,Male,Kolkata,27377,Churned,1,644.58,543.19,Electronics,Desktop,Debit Card,5.5,7.9,0.69,0,0.16,Sometimes,0,,165,5,No,None
+CUST00678,41,Male,Bangalore,69507,Regular,3,692.59,1975.45,Clothing,Mobile,Wallet,7.0,9.0,0.57,0,0.1,Sometimes,0,,69,3,Yes,Bronze
+CUST00679,26,Female,Delhi,39198,Occasional,3,2549.51,8714.85,Electronics,Desktop,Wallet,3.5,4.5,0.51,0,0.12,Never,0,,60,4,Yes,None
+CUST00680,45,Male,Delhi,44351,Occasional,1,299.99,350.9,Books,Desktop,Wallet,12.0,8.2,0.49,0,0.08,Rarely,0,,306,0,Yes,None
+CUST00681,32,Male,Mumbai,61537,Regular,5,5071.91,22353.14,Electronics,Desktop,Debit Card,13.6,5.6,0.36,0,0.16,Never,0,,90,16,Yes,Gold
+CUST00682,41,Female,Kolkata,30298,Occasional,4,939.26,4027.34,Beauty,Tablet,Credit Card,1.0,6.9,0.4,0,0.05,Always,1,4.5,124,2,Yes,None
+CUST00683,38,Male,Kolkata,63613,Regular,6,1412.44,8769.69,Clothing,Desktop,UPI,12.1,10.3,0.31,0,0.12,Never,0,,76,6,Yes,None
+CUST00684,28,Male,Bangalore,88716,Premium,9,9054.28,84936.98,Sports,Mobile,Debit Card,12.5,6.1,0.23,0,0.01,Sometimes,1,4.9,57,14,No,Silver
+CUST00685,18,Female,Delhi,21116,Churned,1,146.7,173.07,Books,Desktop,Credit Card,2.6,4.5,0.57,0,0.17,Always,1,2.9,91,4,No,None
+CUST00686,33,Male,Delhi,40828,Churned,2,153.4,260.72,Clothing,Mobile,Credit Card,2.8,4.2,0.59,0,0.2,Rarely,1,2.5,196,2,No,None
+CUST00687,29,Female,Bangalore,114200,Premium,18,684.44,12019.22,Grocery,Mobile,COD,3.9,6.4,0.04,0,0.05,Never,1,3.6,3,13,No,Silver
+CUST00688,29,Female,Kolkata,20606,Occasional,5,1299.72,6315.11,Sports,Desktop,Credit Card,3.5,9.1,0.53,0,0.11,Never,0,,46,3,Yes,None
+CUST00689,26,Male,Delhi,28570,Occasional,4,347.76,1630.49,Clothing,Mobile,Credit Card,7.0,11.0,0.56,0,0.04,Rarely,1,5.0,42,2,No,None
+CUST00690,27,Female,Delhi,82641,Premium,9,2426.36,25864.71,Home & Kitchen,Mobile,Credit Card,10.0,4.9,0.28,0,0.02,Rarely,0,,34,7,Yes,None
+CUST00691,38,Male,Pune,108801,Premium,17,1575.47,25316.61,Books,Desktop,UPI,8.6,10.4,0.18,0,0.05,Rarely,0,,51,13,No,Bronze
+CUST00692,31,Male,Mumbai,41995,Churned,1,1810.28,1733.88,Electronics,Desktop,UPI,12.9,8.8,0.69,0,0.18,Rarely,0,,302,5,Yes,Bronze
+CUST00693,22,Male,Bangalore,26895,Occasional,5,203.72,980.57,Clothing,Desktop,Debit Card,8.4,6.2,0.61,0,0.11,Rarely,0,,196,0,Yes,None
+CUST00694,19,Female,Mumbai,84633,Premium,18,1685.87,32616.49,Books,Mobile,Debit Card,7.3,6.3,0.24,1,0.08,Never,1,3.9,37,16,Yes,None
+CUST00695,46,Male,Mumbai,45466,Occasional,3,455.97,1615.26,Home & Kitchen,Mobile,Debit Card,3.7,10.4,0.54,0,0.07,Sometimes,1,3.9,256,1,Yes,Bronze
+CUST00696,26,Female,Pune,50231,Regular,8,1559.65,11496.41,Home & Kitchen,Mobile,Debit Card,4.8,6.6,0.49,0,0.1,Rarely,1,4.0,41,12,No,None
+CUST00697,47,Female,Bangalore,47082,Occasional,3,249.83,685.59,Books,Mobile,Credit Card,6.1,4.4,0.67,0,0.07,Sometimes,1,3.8,360,4,Yes,None
+CUST00698,50,Female,Pune,88120,Premium,19,1670.61,26363.59,Books,Desktop,Credit Card,8.9,5.1,0.19,0,0.04,Sometimes,1,3.2,52,10,No,Silver
+CUST00699,25,Female,Chennai,69195,Regular,5,1938.6,8100.71,Clothing,Mobile,UPI,7.0,6.3,0.52,0,0.13,Always,0,,155,7,Yes,None
+CUST00700,48,Female,Pune,72480,Regular,9,1802.32,15971.7,Electronics,Desktop,Debit Card,6.3,6.5,0.47,0,0.1,Rarely,1,3.8,153,16,No,None
+CUST00701,36,Female,Mumbai,41284,Regular,3,388.82,1312.87,Books,Tablet,Credit Card,6.6,8.9,0.33,0,0.1,Sometimes,0,,100,2,No,Bronze
+CUST00702,28,Female,Delhi,18149,Churned,1,1228.3,1260.62,Electronics,Mobile,Credit Card,9.9,8.9,0.75,0,0.2,Never,1,3.8,357,3,No,None
+CUST00703,28,Female,Mumbai,38580,Churned,2,422.55,902.18,Beauty,Desktop,Wallet,3.2,1.5,0.74,0,0.23,Always,1,3.4,43,1,No,None
+CUST00704,23,Female,Mumbai,27238,Occasional,2,1212.52,1992.03,Home & Kitchen,Desktop,COD,14.3,6.8,0.68,0,0.09,Rarely,1,4.3,32,1,Yes,None
+CUST00705,56,Male,Kolkata,30487,Occasional,1,249.35,253.99,Clothing,Mobile,UPI,7.1,1.7,0.49,0,0.08,Sometimes,1,3.2,191,3,Yes,None
+CUST00706,27,Male,Delhi,77176,Regular,3,6223.66,20884.13,Electronics,Desktop,UPI,8.6,5.6,0.38,0,0.15,Always,0,,137,17,Yes,None
+CUST00707,40,Female,Bangalore,95333,Premium,19,4155.76,63484.35,Clothing,Mobile,Wallet,13.4,5.6,0.23,1,0.06,Rarely,0,,3,14,Yes,Gold
+CUST00708,25,Female,Bangalore,132009,Premium,14,1360.91,18847.91,Clothing,Mobile,Credit Card,3.6,6.1,0.22,0,0.03,Always,0,,15,16,No,Silver
+CUST00709,32,Female,Kolkata,39174,Churned,2,462.9,850.91,Clothing,Mobile,Wallet,2.0,10.4,0.74,0,0.2,Sometimes,1,3.6,33,1,No,Bronze
+CUST00710,28,Male,Chennai,95661,Premium,18,2488.62,43265.7,Home & Kitchen,Mobile,UPI,13.0,3.4,0.19,0,0.05,Rarely,0,,54,3,Yes,Bronze
+CUST00711,24,Female,Hyderabad,52406,Regular,5,907.61,4810.04,Clothing,Desktop,Credit Card,10.1,6.7,0.4,0,0.07,Never,1,5.0,80,13,Yes,None
+CUST00712,32,Male,Chennai,31853,Churned,1,1550.12,1531.16,Electronics,Mobile,Credit Card,1.0,6.0,0.7,0,0.2,Never,1,4.0,307,0,No,Bronze
+CUST00713,22,Female,Chennai,39449,Regular,5,5275.14,30623.99,Electronics,Desktop,COD,11.3,8.2,0.39,0,0.16,Sometimes,1,4.9,119,16,No,Bronze
+CUST00714,41,Male,Hyderabad,64185,Regular,10,1502.21,14405.23,Home & Kitchen,Desktop,Wallet,7.5,3.6,0.46,1,0.1,Sometimes,1,3.1,107,13,Yes,None
+CUST00715,18,Male,Bangalore,127302,Premium,13,1430.59,19168.14,Beauty,Mobile,Wallet,1.4,5.9,0.2,0,0.03,Never,0,,3,0,No,Bronze
+CUST00716,24,Male,Chennai,47111,Occasional,2,193.08,377.2,Books,Mobile,Credit Card,9.6,6.5,0.43,0,0.05,Always,1,4.9,33,3,Yes,None
+CUST00717,26,Male,Ahmedabad,61047,Regular,10,6628.71,75463.94,Electronics,Desktop,COD,6.4,5.1,0.37,1,0.11,Rarely,1,5.0,131,16,No,Silver
+CUST00718,29,Female,Bangalore,37788,Regular,4,1213.82,5785.96,Electronics,Mobile,UPI,5.1,8.1,0.38,0,0.07,Rarely,1,3.1,128,17,No,None
+CUST00719,48,Male,Ahmedabad,84519,Premium,9,4211.97,40657.01,Electronics,Mobile,Debit Card,15.9,6.7,0.16,0,0.05,Rarely,1,4.0,2,4,Yes,None
+CUST00720,26,Other,Mumbai,53851,Regular,10,5444.18,58049.88,Electronics,Mobile,Debit Card,8.6,3.3,0.4,0,0.07,Sometimes,1,4.3,76,11,No,Gold
+CUST00721,32,Male,Mumbai,40462,Occasional,4,878.08,3243.53,Toys,Tablet,Debit Card,4.5,2.9,0.59,0,0.06,Always,1,3.8,69,5,No,None
+CUST00722,27,Female,Mumbai,38824,Churned,1,178.32,207.59,Home & Kitchen,Mobile,COD,6.9,3.2,0.68,0,0.19,Never,1,4.5,251,5,No,None
+CUST00723,39,Male,Bangalore,65531,Regular,7,1966.66,13530.33,Sports,Mobile,Credit Card,1.0,6.3,0.25,0,0.1,Never,0,,179,19,Yes,Bronze
+CUST00724,39,Male,Ahmedabad,97104,Premium,12,4754.17,67957.24,Home & Kitchen,Mobile,UPI,3.4,3.5,0.25,0,0.02,Never,0,,21,20,Yes,Silver
+CUST00725,38,Female,Mumbai,43150,Occasional,3,501.62,1413.55,Home & Kitchen,Mobile,Debit Card,11.7,6.5,0.58,0,0.08,Sometimes,0,,349,0,Yes,Silver
+CUST00726,34,Male,Delhi,54599,Regular,7,405.86,3358.49,Clothing,Desktop,Credit Card,4.2,1.3,0.25,0,0.08,Sometimes,0,,121,14,No,None
+CUST00727,30,Female,Hyderabad,46452,Occasional,2,401.27,946.79,Clothing,Desktop,UPI,8.7,5.7,0.62,0,0.08,Rarely,1,2.6,184,1,Yes,None
+CUST00728,20,Male,Ahmedabad,41484,Churned,2,297.75,494.77,Clothing,Mobile,UPI,1.0,2.4,0.72,0,0.16,Rarely,0,,273,3,Yes,None
+CUST00729,36,Male,Bangalore,53054,Regular,5,3131.33,18272.35,Electronics,Mobile,Debit Card,3.0,3.0,0.39,0,0.15,Rarely,0,,142,12,Yes,None
+CUST00730,26,Male,Chennai,68168,Regular,9,2675.04,27489.01,Home & Kitchen,Desktop,Wallet,5.9,5.4,0.15,0,0.11,Rarely,0,,64,1,Yes,None
+CUST00731,36,Male,Delhi,46049,Occasional,5,173.1,922.85,Books,Desktop,COD,14.1,4.7,0.48,0,0.1,Sometimes,1,3.7,90,1,No,None
+CUST00732,32,Male,Kolkata,48400,Occasional,1,245.01,219.71,Grocery,Desktop,COD,6.6,6.1,0.59,0,0.09,Sometimes,1,3.0,88,5,Yes,Bronze
+CUST00733,28,Male,Pune,38452,Occasional,3,830.41,2608.03,Clothing,Desktop,UPI,7.9,7.9,0.63,0,0.14,Always,1,4.7,130,4,No,None
+CUST00734,25,Male,Kolkata,60403,Regular,8,1111.23,10313.97,Electronics,Mobile,Wallet,11.9,6.1,0.27,0,0.11,Sometimes,0,,108,18,Yes,None
+CUST00735,47,Male,Mumbai,31622,Churned,2,1978.47,4161.62,Electronics,Mobile,UPI,6.1,3.8,0.81,0,0.2,Never,0,,37,4,No,None
+CUST00736,34,Male,Bangalore,20439,Churned,2,315.93,695.75,Electronics,Desktop,UPI,4.6,4.9,0.64,0,0.18,Always,1,3.5,99,5,No,Silver
+CUST00737,28,Female,Bangalore,67869,Regular,4,356.38,1171.9,Grocery,Mobile,UPI,10.1,5.2,0.38,0,0.08,Always,0,,78,3,Yes,Silver
+CUST00738,18,Male,Mumbai,20066,Occasional,4,921.22,3832.36,Home & Kitchen,Mobile,Wallet,8.1,5.8,0.51,0,0.09,Rarely,0,,252,1,Yes,Bronze
+CUST00739,24,Female,Ahmedabad,41685,Regular,3,1546.94,4909.82,Clothing,Desktop,Credit Card,13.6,4.6,0.33,0,0.11,Never,1,4.7,112,18,Yes,Bronze
+CUST00740,41,Female,Mumbai,73516,Regular,10,2124.9,21072.43,Clothing,Mobile,Debit Card,9.9,5.7,0.26,1,0.15,Always,1,5.0,160,18,Yes,Bronze
+CUST00741,33,Male,Kolkata,47067,Regular,3,735.24,2097.46,Beauty,Mobile,COD,4.2,7.4,0.35,0,0.13,Rarely,0,,32,6,Yes,None
+CUST00742,25,Female,Bangalore,36570,Occasional,1,1472.35,1686.31,Clothing,Desktop,Debit Card,1.0,3.8,0.53,0,0.08,Sometimes,0,,209,2,No,Silver
+CUST00743,29,Female,Delhi,20020,Occasional,1,359.66,395.64,Sports,Desktop,UPI,4.3,1.9,0.63,0,0.05,Sometimes,0,,55,0,Yes,Bronze
+CUST00744,33,Female,Ahmedabad,73058,Regular,4,2437.19,11284.83,Electronics,Mobile,Credit Card,11.7,6.4,0.35,0,0.13,Never,1,3.6,171,17,Yes,None
+CUST00745,42,Female,Ahmedabad,22879,Churned,1,481.26,486.62,Sports,Desktop,Debit Card,11.8,5.1,0.67,0,0.25,Sometimes,0,,58,1,No,Bronze
+CUST00746,36,Female,Mumbai,28051,Occasional,4,1201.96,3984.58,Home & Kitchen,Desktop,Debit Card,15.7,6.1,0.55,0,0.1,Always,0,,188,4,No,None
+CUST00747,32,Female,Ahmedabad,68103,Regular,5,2337.34,9454.57,Clothing,Mobile,Debit Card,5.3,7.3,0.46,0,0.17,Rarely,0,,109,20,No,None
+CUST00748,39,Male,Mumbai,77665,Regular,4,369.63,1740.26,Toys,Mobile,Credit Card,10.6,11.2,0.35,0,0.11,Rarely,0,,163,12,Yes,None
+CUST00749,39,Male,Kolkata,40253,Occasional,4,1133.31,3963.1,Home & Kitchen,Desktop,Credit Card,10.5,5.7,0.48,0,0.13,Sometimes,1,5.0,178,3,No,Silver
+CUST00750,24,Male,Bangalore,72559,Regular,8,212.46,1850.14,Books,Mobile,UPI,2.3,7.1,0.34,1,0.14,Rarely,0,,138,5,No,Bronze
+CUST00751,32,Female,Pune,28469,Occasional,4,2390.72,10419.22,Electronics,Mobile,Wallet,15.3,6.8,0.55,0,0.07,Always,1,3.8,108,4,Yes,Silver
+CUST00752,23,Male,Mumbai,129326,Premium,16,263.12,4500.27,Grocery,Mobile,UPI,5.9,7.2,0.11,0,0.03,Rarely,0,,14,1,Yes,Silver
+CUST00753,22,Male,Delhi,71049,Regular,4,505.83,1692.13,Books,Desktop,Credit Card,8.3,7.3,0.32,0,0.12,Never,0,,88,8,Yes,None
+CUST00754,18,Female,Ahmedabad,48215,Occasional,2,1402.08,2553.01,Clothing,Mobile,COD,16.5,6.5,0.62,0,0.09,Never,1,3.6,265,3,Yes,Bronze
+CUST00755,49,Female,Delhi,79985,Regular,9,7643.27,66159.71,Electronics,Tablet,UPI,11.3,1.1,0.44,1,0.14,Rarely,0,,151,3,Yes,None
+CUST00756,37,Male,Hyderabad,49809,Occasional,5,381.23,1846.25,Toys,Mobile,UPI,5.4,5.9,0.61,0,0.07,Sometimes,1,2.0,339,0,Yes,None
+CUST00757,18,Female,Delhi,30648,Occasional,4,916.29,3220.05,Clothing,Desktop,Wallet,7.6,8.9,0.5,0,0.09,Rarely,0,,280,2,No,Bronze
+CUST00758,36,Female,Mumbai,71876,Regular,8,1627.15,12027.08,Home & Kitchen,Tablet,Wallet,9.0,2.1,0.28,1,0.15,Sometimes,0,,127,2,Yes,None
+CUST00759,23,Male,Bangalore,42080,Regular,5,659.31,2901.16,Home & Kitchen,Mobile,Wallet,8.5,3.8,0.38,0,0.11,Rarely,1,4.5,76,19,Yes,None
+CUST00760,18,Male,Hyderabad,47919,Regular,3,1392.06,3442.59,Home & Kitchen,Mobile,Debit Card,8.3,8.3,0.25,0,0.09,Always,0,,46,19,Yes,None
+CUST00761,30,Female,Kolkata,72750,Regular,7,575.08,4191.01,Home & Kitchen,Mobile,Credit Card,6.9,7.1,0.26,0,0.14,Rarely,0,,70,4,Yes,Silver
+CUST00762,21,Male,Pune,19955,Churned,2,1258.97,2825.83,Electronics,Mobile,Credit Card,9.0,5.1,0.77,0,0.18,Never,0,,147,0,No,None
+CUST00763,39,Male,Delhi,35997,Occasional,5,4124.46,20205.94,Electronics,Mobile,Wallet,9.8,5.6,0.59,0,0.09,Never,1,3.3,347,2,Yes,None
+CUST00764,34,Male,Delhi,46925,Occasional,3,494.93,1497.74,Home & Kitchen,Desktop,COD,6.0,4.7,0.59,0,0.09,Rarely,0,,353,2,Yes,None
+CUST00765,24,Female,Mumbai,36000,Occasional,3,1912.81,6704.26,Electronics,Desktop,Debit Card,5.2,5.8,0.5,0,0.07,Always,0,,258,0,Yes,None
+CUST00766,27,Male,Ahmedabad,41749,Occasional,4,1555.23,5121.89,Home & Kitchen,Mobile,UPI,6.5,4.7,0.67,0,0.03,Rarely,0,,185,4,Yes,None
+CUST00767,24,Male,Bangalore,24759,Occasional,2,1387.48,3173.85,Clothing,Desktop,UPI,5.4,9.3,0.47,0,0.07,Sometimes,0,,176,1,No,None
+CUST00768,22,Female,Delhi,46819,Occasional,2,1353.69,3196.81,Home & Kitchen,Desktop,Debit Card,8.3,3.8,0.46,0,0.08,Never,0,,57,0,Yes,Bronze
+CUST00769,42,Male,Ahmedabad,148352,Premium,14,1728.61,20496.16,Home & Kitchen,Desktop,UPI,15.6,5.3,0.12,1,0.08,Sometimes,1,4.1,19,9,No,Gold
+CUST00770,37,Female,Pune,53601,Regular,5,485.3,2331.9,Grocery,Desktop,Debit Card,12.1,5.0,0.41,0,0.06,Never,0,,144,12,No,Bronze
+CUST00771,34,Female,Mumbai,37393,Churned,2,213.08,463.8,Clothing,Desktop,Wallet,8.7,7.7,0.65,0,0.26,Sometimes,1,3.3,152,4,No,None
+CUST00772,39,Female,Bangalore,44250,Churned,1,93.48,102.59,Grocery,Mobile,Credit Card,13.2,8.6,0.72,0,0.19,Never,0,,217,4,No,Bronze
+CUST00773,38,Female,Ahmedabad,32695,Occasional,3,726.31,2257.96,Electronics,Desktop,Wallet,5.8,5.0,0.53,0,0.09,Always,0,,148,0,Yes,None
+CUST00774,32,Male,Bangalore,25106,Occasional,3,238.94,842.82,Clothing,Tablet,Wallet,9.8,6.3,0.45,0,0.14,Sometimes,1,4.6,282,1,No,None
+CUST00775,33,Female,Ahmedabad,49426,Occasional,5,1126.79,5616.46,Clothing,Desktop,UPI,4.1,5.0,0.57,0,0.08,Rarely,0,,269,3,Yes,None
+CUST00776,39,Female,Hyderabad,70664,Regular,8,683.35,4601.59,Books,Desktop,Credit Card,6.9,7.7,0.43,0,0.12,Never,0,,102,3,No,Bronze
+CUST00777,24,Male,Bangalore,55181,Regular,8,3854.58,36791.67,Electronics,Desktop,Credit Card,7.8,5.5,0.43,0,0.12,Never,0,,63,14,Yes,None
+CUST00778,30,Female,Hyderabad,16335,Churned,2,654.77,1529.73,Clothing,Tablet,Debit Card,8.0,6.5,0.74,0,0.21,Rarely,0,,244,4,No,None
+CUST00779,43,Female,Bangalore,24236,Occasional,5,860.37,4661.53,Beauty,Desktop,UPI,13.7,9.4,0.64,0,0.07,Sometimes,1,3.7,63,1,Yes,Bronze
+CUST00780,38,Male,Pune,63464,Regular,3,2648.93,7165.83,Home & Kitchen,Tablet,UPI,1.0,9.1,0.42,0,0.11,Rarely,1,3.7,40,16,Yes,Bronze
+CUST00781,24,Male,Kolkata,79622,Regular,7,482.82,3182.55,Books,Desktop,COD,14.9,5.7,0.21,0,0.13,Rarely,0,,164,5,No,None
+CUST00782,23,Female,Delhi,38920,Occasional,3,206.98,636.3,Home & Kitchen,Mobile,Credit Card,4.0,7.2,0.6,0,0.1,Rarely,1,3.4,248,5,No,None
+CUST00783,18,Male,Delhi,71739,Regular,5,201.03,929.93,Beauty,Desktop,Wallet,7.6,5.9,0.32,0,0.11,Sometimes,0,,31,4,Yes,None
+CUST00784,27,Female,Delhi,59750,Regular,4,2027.26,9230.66,Clothing,Desktop,Debit Card,5.6,5.8,0.41,0,0.14,Rarely,0,,127,9,No,Silver
+CUST00785,34,Female,Mumbai,21286,Churned,1,131.85,149.0,Grocery,Mobile,Credit Card,6.9,3.5,0.74,0,0.18,Rarely,1,3.8,321,4,No,None
+CUST00786,25,Female,Bangalore,45862,Regular,10,465.61,4036.24,Clothing,Tablet,UPI,4.9,2.1,0.32,0,0.05,Rarely,1,4.0,148,14,Yes,Bronze
+CUST00787,28,Female,Mumbai,53048,Regular,5,1381.36,6114.63,Beauty,Desktop,COD,10.4,6.7,0.33,0,0.12,Sometimes,0,,51,1,No,Bronze
+CUST00788,23,Male,Pune,43552,Regular,8,3026.24,21860.95,Sports,Mobile,UPI,6.3,3.5,0.26,1,0.13,Always,0,,162,2,No,Bronze
+CUST00789,37,Male,Hyderabad,30778,Occasional,3,380.3,997.04,Books,Mobile,UPI,6.9,4.8,0.61,0,0.08,Never,0,,113,5,No,Gold
+CUST00790,30,Male,Delhi,66885,Regular,4,2704.47,10121.54,Sports,Mobile,Debit Card,7.3,5.1,0.46,0,0.14,Rarely,0,,49,4,Yes,None
+CUST00791,25,Male,Kolkata,50222,Regular,5,7202.21,34686.34,Electronics,Mobile,Debit Card,1.0,8.9,0.25,0,0.13,Rarely,1,4.3,158,9,No,None
+CUST00792,24,Male,Delhi,44362,Churned,2,749.35,1241.14,Clothing,Mobile,Credit Card,8.9,6.0,0.82,0,0.19,Rarely,0,,289,1,Yes,None
+CUST00793,18,Female,Delhi,99342,Premium,18,746.66,15826.26,Home & Kitchen,Mobile,Credit Card,4.0,6.0,0.13,0,0.03,Rarely,1,3.4,38,13,No,Bronze
+CUST00794,23,Female,Hyderabad,25930,Occasional,3,956.99,2401.02,Beauty,Mobile,Debit Card,5.6,6.2,0.53,0,0.0,Rarely,1,4.3,343,3,Yes,Bronze
+CUST00795,18,Female,Delhi,115207,Premium,9,2500.18,23285.81,Home & Kitchen,Mobile,Debit Card,21.5,5.5,0.17,0,0.08,Rarely,0,,32,16,Yes,Gold
+CUST00796,37,Male,Ahmedabad,38898,Regular,4,315.34,1156.11,Home & Kitchen,Mobile,UPI,3.5,8.0,0.29,0,0.15,Always,1,3.6,178,5,No,None
+CUST00797,18,Female,Mumbai,44154,Occasional,1,122.89,106.69,Grocery,Mobile,COD,7.8,4.0,0.5,0,0.04,Always,0,,141,0,Yes,None
+CUST00798,31,Male,Hyderabad,75422,Regular,4,2866.04,11641.59,Sports,Mobile,Credit Card,4.8,4.2,0.26,0,0.15,Sometimes,0,,82,3,No,Bronze
+CUST00799,19,Male,Delhi,63391,Regular,6,1345.96,9383.01,Beauty,Mobile,UPI,6.9,9.5,0.33,0,0.09,Rarely,0,,34,4,No,Bronze
+CUST00800,25,Male,Ahmedabad,67925,Regular,7,583.21,3987.0,Clothing,Mobile,Credit Card,4.8,2.2,0.29,0,0.1,Sometimes,1,4.2,172,0,Yes,None
+CUST00801,21,Female,Delhi,50637,Regular,7,452.94,2582.72,Clothing,Desktop,COD,4.2,4.6,0.34,1,0.16,Always,0,,47,18,No,Silver
+CUST00802,18,Other,Mumbai,33871,Occasional,4,154.21,717.78,Books,Mobile,Debit Card,9.3,3.0,0.64,0,0.12,Rarely,1,4.1,326,2,No,None
+CUST00803,33,Female,Delhi,66878,Regular,3,586.12,1797.68,Clothing,Mobile,UPI,13.6,8.4,0.24,0,0.12,Always,0,,171,11,No,Gold
+CUST00804,18,Male,Delhi,49388,Regular,9,1330.27,13028.53,Clothing,Desktop,UPI,5.2,9.9,0.4,0,0.11,Sometimes,1,1.9,49,10,No,Silver
+CUST00805,32,Female,Delhi,68249,Regular,6,2049.19,10468.11,Home & Kitchen,Desktop,Credit Card,7.6,3.6,0.39,0,0.07,Rarely,0,,45,18,No,Bronze
+CUST00806,27,Female,Pune,100849,Premium,9,5367.8,48249.78,Home & Kitchen,Mobile,UPI,8.9,5.9,0.0,0,0.0,Never,1,4.5,41,8,No,None
+CUST00807,38,Male,Hyderabad,30572,Occasional,3,261.22,833.59,Books,Mobile,Wallet,17.9,3.6,0.67,0,0.05,Never,0,,52,0,Yes,None
+CUST00808,18,Other,Bangalore,37179,Regular,4,2795.52,10106.95,Sports,Desktop,Credit Card,2.6,6.2,0.35,0,0.09,Rarely,0,,130,20,No,None
+CUST00809,29,Male,Bangalore,39176,Regular,3,735.15,1784.48,Beauty,Desktop,UPI,4.6,5.3,0.2,0,0.16,Rarely,0,,117,5,Yes,None
+CUST00810,27,Male,Pune,56819,Regular,8,808.49,5849.74,Clothing,Mobile,UPI,4.3,1.6,0.41,1,0.14,Sometimes,0,,90,18,No,Bronze
+CUST00811,25,Female,Bangalore,35650,Occasional,3,1542.95,5224.52,Home & Kitchen,Tablet,Debit Card,10.7,5.3,0.46,0,0.08,Sometimes,0,,144,5,No,None
+CUST00812,34,Male,Hyderabad,96963,Premium,15,378.47,5512.78,Books,Mobile,Credit Card,13.8,3.2,0.09,0,0.03,Rarely,0,,39,6,No,None
+CUST00813,35,Female,Kolkata,38857,Regular,5,267.23,1406.69,Home & Kitchen,Mobile,Credit Card,11.6,9.0,0.25,0,0.08,Sometimes,1,3.6,153,13,Yes,Bronze
+CUST00814,21,Female,Bangalore,76726,Regular,4,1560.0,7086.76,Home & Kitchen,Desktop,Wallet,6.0,12.3,0.4,0,0.14,Sometimes,1,4.6,169,3,Yes,Bronze
+CUST00815,27,Other,Chennai,68894,Regular,6,3106.38,16348.33,Electronics,Mobile,UPI,6.4,6.2,0.25,1,0.17,Always,0,,132,1,Yes,None
+CUST00816,28,Female,Bangalore,20537,Churned,2,645.32,1219.03,Home & Kitchen,Tablet,UPI,1.3,2.7,0.67,0,0.2,Rarely,1,3.2,180,5,No,None
+CUST00817,39,Female,Mumbai,41702,Occasional,2,737.79,1529.69,Clothing,Desktop,UPI,6.2,7.3,0.64,0,0.08,Always,0,,242,5,No,Bronze
+CUST00818,33,Female,Bangalore,70002,Regular,5,649.86,3030.14,Beauty,Mobile,COD,7.7,13.1,0.27,0,0.11,Never,0,,68,10,No,None
+CUST00819,29,Male,Ahmedabad,48296,Regular,7,1402.1,11204.15,Sports,Desktop,UPI,4.0,4.0,0.38,1,0.17,Sometimes,1,3.6,54,0,No,None
+CUST00820,18,Female,Kolkata,36480,Regular,9,1227.81,8943.53,Sports,Desktop,Debit Card,1.0,4.6,0.37,0,0.1,Always,0,,125,13,Yes,None
+CUST00821,35,Female,Bangalore,47382,Regular,5,243.47,1047.33,Home & Kitchen,Mobile,Debit Card,7.4,1.3,0.34,0,0.1,Rarely,0,,122,8,Yes,None
+CUST00822,30,Male,Mumbai,40941,Occasional,2,1423.18,2623.93,Clothing,Desktop,Credit Card,1.0,4.0,0.47,0,0.11,Always,0,,340,5,Yes,None
+CUST00823,41,Male,Bangalore,47463,Regular,10,345.26,2974.75,Grocery,Desktop,UPI,6.8,7.2,0.34,1,0.14,Sometimes,1,3.5,87,2,Yes,None
+CUST00824,35,Female,Hyderabad,27582,Occasional,2,290.13,651.77,Beauty,Mobile,UPI,16.6,4.2,0.37,0,0.07,Sometimes,0,,143,1,Yes,Bronze
+CUST00825,29,Male,Chennai,61218,Regular,5,2169.27,12752.02,Clothing,Desktop,Debit Card,7.7,8.9,0.31,0,0.09,Rarely,0,,163,10,Yes,Silver
+CUST00826,19,Other,Bangalore,77046,Regular,6,589.66,3661.2,Toys,Mobile,Debit Card,11.4,4.4,0.37,0,0.12,Sometimes,0,,110,9,Yes,Bronze
+CUST00827,35,Female,Pune,61889,Regular,10,682.44,7457.08,Home & Kitchen,Tablet,UPI,13.6,8.0,0.38,1,0.16,Always,0,,174,5,Yes,Silver
+CUST00828,24,Female,Pune,106311,Premium,18,1976.14,39814.52,Beauty,Mobile,COD,13.5,3.6,0.16,1,0.07,Sometimes,1,4.5,47,12,Yes,Gold
+CUST00829,27,Male,Pune,73793,Regular,8,7244.1,58034.04,Electronics,Mobile,Debit Card,8.2,5.0,0.35,0,0.11,Sometimes,0,,175,17,No,Gold
+CUST00830,29,Male,Kolkata,59670,Regular,6,5277.43,28371.69,Electronics,Mobile,Credit Card,6.3,5.7,0.3,0,0.07,Sometimes,0,,158,0,No,Bronze
+CUST00831,28,Male,Ahmedabad,44309,Occasional,5,729.9,3126.94,Clothing,Mobile,Credit Card,10.2,5.6,0.39,0,0.08,Rarely,0,,168,2,Yes,None
+CUST00832,32,Female,Hyderabad,46501,Regular,7,2777.29,18543.09,Home & Kitchen,Desktop,Credit Card,4.2,8.8,0.48,1,0.16,Sometimes,1,3.2,88,8,Yes,None
+CUST00833,26,Female,Pune,63503,Regular,8,2031.33,13723.81,Clothing,Mobile,Debit Card,2.8,1.0,0.3,1,0.16,Never,0,,54,0,No,Silver
+CUST00834,41,Female,Mumbai,22699,Occasional,4,1181.87,4253.81,Beauty,Mobile,COD,4.9,3.2,0.51,0,0.05,Always,1,4.8,62,2,No,None
+CUST00835,32,Female,Delhi,78700,Regular,6,742.84,5078.22,Books,Mobile,Wallet,13.2,8.7,0.5,0,0.08,Sometimes,1,4.0,51,16,Yes,Bronze
+CUST00836,27,Male,Mumbai,98672,Premium,8,1219.87,11586.92,Beauty,Mobile,COD,5.2,3.1,0.13,0,0.07,Rarely,0,,44,8,No,Silver
+CUST00837,50,Female,Delhi,32909,Occasional,4,2256.66,7700.73,Electronics,Mobile,UPI,5.2,5.2,0.61,0,0.01,Rarely,0,,213,1,Yes,Bronze
+CUST00838,41,Female,Delhi,39046,Occasional,5,797.02,3893.52,Clothing,Tablet,Debit Card,2.3,5.7,0.59,0,0.09,Sometimes,0,,355,0,Yes,None
+CUST00839,37,Female,Delhi,94248,Premium,10,5608.7,63144.92,Clothing,Mobile,Debit Card,9.9,8.2,0.12,0,0.06,Sometimes,0,,23,12,Yes,Silver
+CUST00840,33,Other,Bangalore,67864,Regular,8,3344.24,27160.46,Electronics,Desktop,Debit Card,7.2,6.0,0.34,1,0.2,Always,0,,133,10,Yes,Bronze
+CUST00841,18,Female,Pune,69574,Regular,8,697.73,5781.25,Home & Kitchen,Mobile,UPI,6.1,8.1,0.5,0,0.12,Rarely,0,,62,14,Yes,None
+CUST00842,37,Female,Delhi,79145,Regular,8,1920.25,12406.63,Home & Kitchen,Desktop,Credit Card,9.5,5.1,0.33,1,0.18,Always,1,3.1,57,20,Yes,None
+CUST00843,45,Female,Delhi,41046,Occasional,1,167.52,151.48,Beauty,Mobile,Debit Card,10.2,5.7,0.71,0,0.05,Rarely,0,,241,3,No,Silver
+CUST00844,31,Female,Bangalore,114910,Premium,19,4585.49,73782.93,Clothing,Desktop,COD,4.7,7.6,0.23,0,0.02,Never,0,,34,6,No,Bronze
+CUST00845,19,Female,Pune,44139,Occasional,5,2380.59,10861.81,Electronics,Mobile,Credit Card,8.3,1.8,0.49,0,0.11,Sometimes,0,,172,4,No,None
+CUST00846,35,Male,Delhi,36809,Churned,2,334.46,634.86,Electronics,Mobile,UPI,2.2,6.6,0.72,0,0.2,Sometimes,1,4.4,267,2,No,None
+CUST00847,34,Female,Hyderabad,34358,Occasional,1,1239.6,1041.43,Clothing,Mobile,Credit Card,9.8,8.5,0.61,0,0.07,Never,1,3.2,301,1,Yes,None
+CUST00848,33,Male,Mumbai,62826,Regular,5,313.69,1328.81,Beauty,Mobile,COD,9.2,6.8,0.38,0,0.12,Never,1,3.5,151,9,Yes,None
+CUST00849,40,Female,Kolkata,32914,Occasional,4,178.08,803.7,Books,Mobile,COD,1.0,9.5,0.41,0,0.08,Sometimes,0,,53,0,Yes,None
+CUST00850,48,Male,Pune,71949,Regular,4,3715.83,16465.76,Sports,Mobile,UPI,3.2,10.3,0.46,0,0.09,Always,0,,167,15,No,None
+CUST00851,34,Female,Pune,59885,Regular,6,2066.69,14127.19,Clothing,Tablet,Wallet,2.1,7.1,0.28,0,0.01,Sometimes,0,,109,17,No,None
+CUST00852,26,Female,Delhi,69874,Regular,5,5777.67,33096.97,Electronics,Mobile,Debit Card,10.6,1.0,0.36,0,0.1,Rarely,0,,180,3,Yes,Bronze
+CUST00853,21,Male,Mumbai,57545,Regular,6,1363.55,7774.86,Clothing,Mobile,Credit Card,13.1,6.3,0.25,0,0.12,Rarely,0,,99,20,No,Bronze
+CUST00854,42,Female,Delhi,42109,Churned,2,694.28,1245.15,Clothing,Mobile,COD,9.7,2.3,0.86,0,0.22,Never,1,2.9,276,5,Yes,None
+CUST00855,28,Female,Hyderabad,30045,Churned,2,177.89,351.96,Beauty,Mobile,UPI,1.0,1.4,0.7,0,0.21,Rarely,0,,198,5,No,None
+CUST00856,27,Male,Mumbai,112671,Premium,13,1252.0,16770.83,Electronics,Desktop,Wallet,16.2,4.7,0.09,0,0.05,Rarely,0,,57,9,Yes,Gold
+CUST00857,39,Male,Delhi,44942,Occasional,4,1455.9,5337.31,Sports,Mobile,Credit Card,9.6,2.2,0.64,0,0.02,Never,0,,209,4,No,Silver
+CUST00858,35,Female,Delhi,92841,Premium,10,5759.47,61395.16,Sports,Mobile,COD,9.8,4.8,0.31,0,0.06,Never,0,,38,1,Yes,Silver
+CUST00859,35,Female,Mumbai,37791,Occasional,2,3532.05,8117.92,Electronics,Tablet,Debit Card,13.4,1.0,0.57,0,0.09,Never,1,3.9,47,0,Yes,None
+CUST00860,40,Female,Delhi,22547,Occasional,3,697.38,1762.63,Beauty,Desktop,COD,14.3,1.8,0.63,0,0.08,Rarely,0,,130,3,Yes,None
+CUST00861,25,Female,Delhi,84947,Premium,18,1421.48,30230.02,Books,Desktop,Debit Card,15.4,1.2,0.19,0,0.0,Sometimes,1,3.1,60,6,Yes,Gold
+CUST00862,30,Male,Mumbai,107691,Premium,14,2920.74,34388.42,Clothing,Mobile,Wallet,24.7,5.9,0.29,0,0.0,Always,1,3.2,12,4,Yes,None
+CUST00863,34,Female,Ahmedabad,47128,Occasional,1,953.88,1126.85,Beauty,Mobile,Credit Card,2.2,4.4,0.56,0,0.11,Never,1,3.4,226,4,No,None
+CUST00864,18,Female,Mumbai,77013,Regular,7,391.7,2953.92,Books,Tablet,Debit Card,11.9,8.1,0.32,0,0.13,Sometimes,1,3.6,109,8,No,Bronze
+CUST00865,18,Male,Hyderabad,36291,Churned,2,104.91,170.06,Home & Kitchen,Mobile,COD,8.2,10.8,0.74,0,0.23,Never,1,4.5,38,4,No,None
+CUST00866,18,Male,Delhi,38214,Regular,8,229.43,1809.96,Home & Kitchen,Mobile,COD,11.3,9.0,0.44,0,0.09,Always,1,3.0,163,10,No,Silver
+CUST00867,33,Female,Bangalore,43596,Occasional,5,365.09,1965.93,Clothing,Tablet,Debit Card,1.4,7.1,0.35,0,0.0,Rarely,0,,102,5,Yes,Bronze
+CUST00868,30,Male,Pune,79535,Regular,8,2871.5,22064.54,Sports,Mobile,Wallet,6.8,5.0,0.4,0,0.11,Sometimes,0,,180,14,No,Silver
+CUST00869,38,Female,Pune,31445,Occasional,5,133.66,643.31,Books,Mobile,UPI,4.1,5.0,0.5,0,0.12,Sometimes,0,,58,1,Yes,None
+CUST00870,38,Female,Bangalore,26687,Occasional,5,382.78,2071.08,Books,Tablet,Credit Card,7.3,5.1,0.68,0,0.09,Never,0,,175,3,No,Bronze
+CUST00871,56,Female,Delhi,64517,Regular,5,170.4,721.56,Grocery,Tablet,Wallet,5.3,2.8,0.43,0,0.05,Sometimes,0,,43,3,Yes,Bronze
+CUST00872,26,Male,Mumbai,46737,Occasional,1,322.39,349.36,Clothing,Mobile,Wallet,14.8,7.8,0.49,0,0.08,Always,0,,83,4,No,None
+CUST00873,18,Male,Bangalore,23150,Occasional,3,824.9,2305.69,Toys,Mobile,Credit Card,7.4,8.6,0.56,0,0.06,Sometimes,1,3.6,226,0,Yes,None
+CUST00874,40,Male,Delhi,31335,Occasional,2,1216.06,2687.94,Clothing,Mobile,Credit Card,14.3,3.1,0.63,0,0.12,Always,1,3.6,312,3,Yes,None
+CUST00875,42,Male,Ahmedabad,73343,Regular,3,111.85,400.22,Grocery,Mobile,Debit Card,12.3,5.4,0.41,0,0.08,Sometimes,0,,105,7,No,None
+CUST00876,33,Male,Kolkata,26786,Occasional,4,759.08,3222.97,Clothing,Desktop,Credit Card,11.5,7.9,0.39,0,0.06,Never,0,,260,2,Yes,None
+CUST00877,26,Male,Hyderabad,69646,Regular,7,688.11,4178.5,Books,Mobile,Credit Card,4.1,8.1,0.34,0,0.06,Sometimes,0,,126,13,No,None
+CUST00878,39,Male,Pune,23789,Churned,1,443.27,516.43,Clothing,Desktop,Credit Card,8.4,1.8,0.66,0,0.2,Sometimes,1,4.2,350,4,No,None
+CUST00879,30,Female,Delhi,42546,Occasional,2,1101.51,2630.66,Sports,Mobile,Credit Card,16.4,5.3,0.53,0,0.07,Sometimes,0,,263,1,Yes,None
+CUST00880,24,Female,Chennai,39438,Occasional,1,1294.9,1305.9,Home & Kitchen,Desktop,Wallet,12.3,9.7,0.53,0,0.0,Sometimes,0,,39,5,No,None
+CUST00881,27,Other,Mumbai,25146,Occasional,3,456.48,1202.37,Books,Desktop,Debit Card,6.4,8.7,0.54,0,0.12,Sometimes,0,,288,5,No,None
+CUST00882,33,Male,Delhi,47229,Regular,6,2234.86,14275.48,Home & Kitchen,Desktop,COD,19.1,5.0,0.42,0,0.11,Sometimes,0,,66,6,Yes,Bronze
+CUST00883,37,Male,Bangalore,118727,Premium,13,714.51,8787.61,Books,Mobile,Credit Card,16.9,2.0,0.21,0,0.05,Never,1,2.9,20,1,Yes,Silver
+CUST00884,22,Female,Mumbai,42768,Occasional,2,841.0,1815.78,Clothing,Desktop,Debit Card,8.5,10.9,0.53,0,0.09,Sometimes,0,,63,5,No,None
+CUST00885,39,Male,Mumbai,40016,Regular,6,3649.59,23311.25,Sports,Desktop,Credit Card,4.8,7.2,0.41,0,0.15,Never,0,,119,10,Yes,None
+CUST00886,51,Female,Mumbai,41458,Regular,5,763.05,4528.77,Clothing,Mobile,UPI,1.0,5.1,0.33,0,0.13,Always,0,,132,4,Yes,None
+CUST00887,30,Female,Delhi,63691,Regular,3,3758.92,10839.2,Electronics,Mobile,Debit Card,8.8,3.0,0.38,0,0.08,Rarely,0,,42,2,Yes,None
+CUST00888,26,Female,Delhi,78885,Regular,6,1667.8,11001.64,Beauty,Desktop,UPI,1.0,6.5,0.38,0,0.1,Sometimes,0,,67,5,No,Silver
+CUST00889,37,Female,Delhi,26146,Occasional,1,585.29,542.56,Clothing,Tablet,Credit Card,10.0,7.2,0.51,0,0.08,Sometimes,1,3.3,320,3,Yes,None
+CUST00890,32,Female,Mumbai,21406,Churned,1,1948.39,1926.91,Electronics,Desktop,Debit Card,12.2,3.3,0.79,0,0.19,Always,1,3.8,141,5,No,Bronze
+CUST00891,31,Female,Delhi,34805,Occasional,3,1374.98,3863.26,Home & Kitchen,Mobile,Credit Card,8.6,2.9,0.6,0,0.03,Sometimes,0,,164,1,Yes,None
+CUST00892,33,Female,Bangalore,38711,Occasional,4,2045.37,9611.63,Electronics,Desktop,Debit Card,15.8,2.8,0.51,0,0.09,Rarely,0,,330,3,Yes,None
+CUST00893,38,Male,Chennai,44079,Regular,5,2386.38,13766.3,Electronics,Mobile,Wallet,2.4,9.1,0.24,0,0.11,Never,0,,160,16,Yes,None
+CUST00894,42,Male,Mumbai,45922,Regular,5,371.74,2135.93,Clothing,Mobile,Credit Card,5.6,7.9,0.3,0,0.15,Never,0,,104,10,Yes,None
+CUST00895,26,Male,Bangalore,49699,Regular,10,239.34,2118.74,Grocery,Desktop,UPI,13.5,8.2,0.21,1,0.1,Sometimes,0,,140,0,No,Silver
+CUST00896,41,Female,Mumbai,138310,Premium,17,1134.57,20093.8,Books,Mobile,Debit Card,14.7,11.6,0.36,0,0.05,Sometimes,0,,60,11,No,Silver
+CUST00897,43,Female,Pune,69011,Regular,10,2468.3,24896.16,Clothing,Desktop,Debit Card,6.6,3.6,0.35,1,0.13,Sometimes,0,,79,7,Yes,Bronze
+CUST00898,29,Male,Delhi,52923,Regular,8,5675.18,37024.48,Electronics,Desktop,UPI,4.9,8.2,0.31,1,0.15,Rarely,0,,58,13,No,Silver
+CUST00899,65,Male,Pune,31123,Churned,1,829.92,984.4,Home & Kitchen,Desktop,COD,5.1,6.8,0.74,0,0.19,Rarely,0,,316,1,Yes,None
+CUST00900,30,Female,Delhi,42878,Churned,1,109.91,106.98,Books,Mobile,COD,5.8,4.5,0.63,0,0.21,Sometimes,0,,323,3,No,None
+CUST00901,35,Female,Delhi,39332,Regular,4,230.8,970.39,Home & Kitchen,Desktop,Debit Card,2.7,6.3,0.28,0,0.1,Rarely,1,3.3,51,6,Yes,Bronze
+CUST00902,37,Female,Mumbai,15385,Churned,1,623.95,731.07,Clothing,Mobile,COD,3.8,6.5,0.81,0,0.23,Rarely,0,,82,1,No,None
+CUST00903,22,Male,Mumbai,32130,Occasional,4,1218.77,5317.39,Home & Kitchen,Mobile,Credit Card,11.4,4.7,0.62,0,0.04,Rarely,0,,338,5,No,None
+CUST00904,31,Male,Delhi,22403,Churned,2,773.34,1623.06,Home & Kitchen,Mobile,Debit Card,4.4,7.1,0.55,0,0.21,Sometimes,0,,63,0,No,None
+CUST00905,28,Female,Delhi,44221,Occasional,1,1994.76,1679.14,Electronics,Mobile,UPI,9.6,4.8,0.57,0,0.08,Sometimes,0,,91,3,Yes,Silver
+CUST00906,26,Female,Chennai,135277,Premium,13,4643.91,72199.48,Clothing,Mobile,COD,17.7,7.5,0.14,0,0.0,Sometimes,0,,59,1,No,None
+CUST00907,35,Male,Bangalore,31506,Occasional,2,156.19,372.34,Books,Desktop,Credit Card,5.2,8.4,0.64,0,0.06,Rarely,0,,118,4,Yes,None
+CUST00908,30,Male,Mumbai,47833,Occasional,1,1761.14,1844.06,Home & Kitchen,Desktop,COD,8.6,8.0,0.6,0,0.08,Always,1,3.7,321,0,Yes,None
+CUST00909,28,Female,Delhi,46582,Occasional,2,274.08,557.18,Beauty,Mobile,Credit Card,10.2,7.9,0.66,0,0.1,Sometimes,1,3.8,226,4,No,None
+CUST00910,44,Female,Bangalore,111668,Premium,8,536.38,3992.01,Books,Desktop,Credit Card,14.0,6.6,0.16,0,0.08,Rarely,0,,12,20,Yes,Bronze
+CUST00911,34,Male,Kolkata,67109,Regular,7,676.17,4103.91,Toys,Mobile,Credit Card,7.8,6.6,0.27,1,0.15,Sometimes,1,3.8,70,5,Yes,None
+CUST00912,25,Male,Pune,72991,Regular,8,2829.93,24648.76,Home & Kitchen,Mobile,Credit Card,1.0,7.4,0.38,0,0.06,Rarely,1,4.3,57,18,No,None
+CUST00913,36,Male,Mumbai,56338,Regular,7,462.85,3608.78,Home & Kitchen,Mobile,Debit Card,9.5,6.6,0.4,0,0.1,Rarely,1,2.9,82,20,Yes,None
+CUST00914,33,Male,Pune,38857,Regular,8,1773.27,11722.22,Clothing,Mobile,UPI,4.6,2.3,0.39,0,0.1,Rarely,0,,135,13,No,Silver
+CUST00915,35,Female,Bangalore,44117,Occasional,1,355.86,344.3,Electronics,Desktop,Debit Card,7.0,9.0,0.65,0,0.12,Sometimes,1,3.3,271,1,No,None
+CUST00916,30,Male,Hyderabad,67974,Regular,3,5726.45,18237.14,Electronics,Desktop,Credit Card,7.6,13.4,0.39,0,0.18,Rarely,0,,69,12,Yes,Bronze
+CUST00917,34,Male,Delhi,43520,Occasional,4,1959.24,9277.83,Sports,Desktop,Credit Card,8.7,8.5,0.5,0,0.07,Rarely,1,4.4,247,3,Yes,None
+CUST00918,18,Male,Pune,35638,Occasional,4,394.48,1311.48,Home & Kitchen,Desktop,Wallet,10.0,4.6,0.47,0,0.1,Sometimes,0,,243,0,Yes,None
+CUST00919,47,Female,Mumbai,27633,Churned,2,83.98,171.09,Books,Desktop,UPI,3.2,7.5,0.59,0,0.16,Never,0,,220,1,No,None
+CUST00920,30,Female,Pune,64053,Regular,5,1312.18,6351.46,Sports,Mobile,Debit Card,4.6,8.2,0.34,0,0.14,Always,1,5.0,114,14,Yes,None
+CUST00921,42,Male,Mumbai,49579,Regular,3,741.09,2601.28,Beauty,Mobile,COD,5.0,1.0,0.4,0,0.06,Always,1,3.3,64,12,No,None
+CUST00922,25,Male,Kolkata,79285,Regular,9,2015.08,21018.72,Clothing,Mobile,Credit Card,9.5,6.5,0.45,0,0.11,Always,0,,109,9,No,None
+CUST00923,18,Female,Kolkata,73813,Regular,10,204.64,1842.01,Books,Mobile,Credit Card,12.8,8.2,0.34,0,0.08,Sometimes,0,,53,6,Yes,None
+CUST00924,23,Female,Pune,32060,Occasional,3,727.13,1850.71,Clothing,Desktop,Credit Card,13.6,5.6,0.5,0,0.04,Never,1,2.5,38,3,Yes,None
+CUST00925,20,Male,Pune,30532,Occasional,4,4402.22,19187.43,Electronics,Mobile,Debit Card,11.5,6.7,0.45,0,0.08,Sometimes,0,,211,4,Yes,None
+CUST00926,24,Female,Hyderabad,35056,Occasional,1,461.01,453.01,Home & Kitchen,Mobile,Credit Card,10.1,5.2,0.68,0,0.11,Sometimes,1,3.3,54,3,No,None
+CUST00927,18,Female,Delhi,73334,Regular,3,585.05,1428.36,Beauty,Mobile,Wallet,6.0,3.1,0.45,0,0.08,Rarely,0,,52,15,Yes,Silver
+CUST00928,42,Female,Mumbai,25420,Churned,1,354.99,332.65,Clothing,Mobile,UPI,13.9,6.8,0.78,0,0.23,Rarely,0,,259,1,Yes,None
+CUST00929,28,Male,Pune,37096,Churned,2,642.13,1455.23,Home & Kitchen,Mobile,Wallet,5.2,6.0,0.9,0,0.22,Rarely,1,3.5,294,4,No,Bronze
+CUST00930,18,Female,Pune,61503,Regular,9,5834.35,54363.97,Electronics,Tablet,Credit Card,4.4,5.5,0.36,0,0.11,Rarely,1,3.7,105,19,No,None
+CUST00931,33,Male,Mumbai,73334,Regular,9,245.85,2175.88,Toys,Mobile,Credit Card,10.0,1.1,0.35,1,0.13,Sometimes,1,3.9,74,20,No,Bronze
+CUST00932,33,Male,Mumbai,24674,Occasional,5,175.83,873.64,Books,Desktop,Credit Card,2.1,1.5,0.47,0,0.08,Sometimes,1,3.6,213,0,Yes,None
+CUST00933,30,Male,Delhi,37397,Churned,1,761.29,700.55,Home & Kitchen,Mobile,UPI,1.0,2.1,0.71,0,0.2,Rarely,0,,221,5,No,Silver
+CUST00934,36,Female,Chennai,61845,Regular,6,830.41,5299.36,Clothing,Desktop,Debit Card,6.5,5.6,0.23,0,0.13,Always,0,,33,11,No,Bronze
+CUST00935,23,Female,Hyderabad,149550,Premium,19,2976.65,56266.13,Home & Kitchen,Mobile,UPI,21.3,1.0,0.37,0,0.05,Never,0,,42,20,Yes,Silver
+CUST00936,43,Male,Delhi,43327,Regular,4,1049.62,4605.94,Beauty,Desktop,Credit Card,7.6,5.0,0.32,0,0.13,Never,1,4.2,63,20,Yes,None
+CUST00937,18,Male,Delhi,23607,Churned,1,1107.65,984.86,Electronics,Mobile,Wallet,10.4,3.9,0.62,0,0.2,Rarely,1,4.6,243,3,No,None
+CUST00938,28,Female,Mumbai,44703,Regular,4,3500.78,14418.53,Sports,Tablet,Wallet,7.2,1.4,0.25,0,0.13,Always,1,4.6,66,13,No,None
+CUST00939,21,Female,Chennai,62963,Regular,7,1502.63,8651.03,Beauty,Desktop,Credit Card,8.7,9.1,0.24,0,0.11,Sometimes,0,,167,13,No,Bronze
+CUST00940,33,Other,Pune,129699,Premium,18,2266.86,45612.83,Clothing,Desktop,UPI,14.3,11.2,0.09,1,0.1,Always,1,3.2,44,11,No,Silver
+CUST00941,18,Male,Delhi,87048,Premium,11,3534.61,43332.45,Sports,Mobile,Debit Card,10.0,10.4,0.12,0,0.01,Always,1,4.6,13,1,Yes,Silver
+CUST00942,37,Female,Bangalore,23079,Occasional,2,168.26,375.56,Grocery,Mobile,Debit Card,2.7,3.2,0.63,0,0.04,Always,0,,59,2,Yes,Bronze
+CUST00943,22,Male,Delhi,34863,Churned,2,201.31,464.76,Beauty,Desktop,UPI,13.1,3.8,0.68,0,0.23,Sometimes,0,,87,3,No,None
+CUST00944,22,Female,Chennai,102494,Premium,15,5060.85,73435.12,Home & Kitchen,Desktop,Wallet,18.0,5.1,0.34,0,0.02,Never,1,3.9,59,12,No,None
+CUST00945,36,Male,Ahmedabad,106034,Premium,13,5137.63,75268.57,Clothing,Desktop,Wallet,22.5,5.9,0.2,1,0.1,Sometimes,0,,31,14,Yes,Gold
+CUST00946,52,Female,Mumbai,84307,Premium,11,2348.3,27535.07,Sports,Desktop,Wallet,5.8,9.3,0.18,0,0.08,Rarely,1,3.5,4,4,No,Bronze
+CUST00947,57,Male,Pune,125709,Premium,19,2103.0,38564.74,Beauty,Mobile,Credit Card,12.2,7.7,0.2,1,0.1,Never,1,4.4,38,20,No,Silver
+CUST00948,40,Female,Pune,40003,Regular,10,414.73,3578.7,Toys,Mobile,Debit Card,5.1,5.7,0.31,0,0.09,Rarely,0,,155,20,No,None
+CUST00949,24,Male,Mumbai,30286,Occasional,5,1282.1,7660.74,Sports,Mobile,UPI,6.4,7.9,0.64,0,0.04,Sometimes,1,3.3,41,2,Yes,None
+CUST00950,33,Male,Kolkata,107660,Premium,16,5719.91,85771.01,Sports,Mobile,UPI,6.5,7.2,0.02,1,0.08,Sometimes,1,3.9,9,2,Yes,Silver
+CUST00951,46,Male,Bangalore,75931,Regular,8,515.94,3847.85,Beauty,Mobile,Credit Card,8.9,6.6,0.31,0,0.1,Always,1,4.0,140,4,No,Gold
+CUST00952,28,Male,Delhi,92309,Premium,16,672.05,8928.75,Books,Mobile,Wallet,10.1,2.6,0.08,0,0.05,Never,1,3.5,59,9,Yes,Gold
+CUST00953,37,Female,Chennai,58658,Regular,4,1335.05,4560.95,Sports,Desktop,Debit Card,1.0,8.2,0.43,0,0.16,Rarely,1,4.1,142,15,Yes,None
+CUST00954,18,Male,Chennai,21438,Occasional,5,536.35,2541.39,Clothing,Tablet,UPI,11.2,8.8,0.55,0,0.09,Rarely,1,2.3,188,5,Yes,None
+CUST00955,36,Male,Kolkata,123061,Premium,17,5812.34,90298.4,Home & Kitchen,Desktop,Credit Card,16.0,8.0,0.15,0,0.02,Sometimes,1,2.8,2,17,No,Bronze
+CUST00956,24,Male,Delhi,19659,Churned,2,1209.41,2608.71,Electronics,Mobile,UPI,9.1,1.4,0.8,0,0.2,Rarely,0,,337,0,No,Bronze
+CUST00957,34,Male,Mumbai,98750,Premium,9,3518.71,33577.99,Electronics,Tablet,Wallet,9.8,4.3,0.17,0,0.08,Never,1,3.0,50,19,Yes,None
+CUST00958,33,Male,Mumbai,47260,Occasional,3,279.39,883.7,Grocery,Mobile,Debit Card,6.2,7.1,0.5,0,0.11,Always,1,4.4,142,3,Yes,Silver
+CUST00959,39,Male,Delhi,40573,Occasional,1,775.95,757.34,Clothing,Mobile,Debit Card,8.8,6.5,0.57,0,0.09,Sometimes,1,4.5,30,3,No,Bronze
+CUST00960,50,Female,Delhi,33242,Occasional,5,1177.05,5720.48,Clothing,Desktop,Credit Card,11.5,8.5,0.6,0,0.03,Rarely,1,2.9,353,0,Yes,None
+CUST00961,28,Female,Chennai,63216,Regular,6,1415.92,6817.64,Home & Kitchen,Mobile,Credit Card,7.9,7.4,0.47,0,0.08,Sometimes,1,3.9,135,12,Yes,None
+CUST00962,18,Female,Delhi,27280,Occasional,2,213.8,385.02,Clothing,Desktop,UPI,4.0,5.2,0.57,0,0.11,Sometimes,1,2.9,344,2,No,None
+CUST00963,22,Male,Mumbai,72143,Regular,9,2505.86,24051.48,Electronics,Desktop,Wallet,10.3,3.8,0.3,1,0.16,Never,0,,82,16,No,Bronze
+CUST00964,26,Female,Delhi,32362,Churned,1,726.8,821.39,Home & Kitchen,Mobile,UPI,8.4,8.3,0.68,0,0.15,Rarely,0,,199,0,No,None
+CUST00965,25,Female,Delhi,21732,Churned,1,1097.91,1067.0,Electronics,Desktop,Debit Card,9.8,7.5,0.67,0,0.25,Rarely,0,,252,2,No,None
+CUST00966,33,Male,Bangalore,41074,Regular,6,717.72,4329.21,Clothing,Desktop,Credit Card,5.7,6.5,0.41,0,0.15,Always,1,3.9,70,13,No,None
+CUST00967,36,Female,Ahmedabad,29471,Churned,1,470.54,491.4,Clothing,Mobile,Wallet,8.2,4.9,0.75,0,0.22,Never,0,,166,1,Yes,None
+CUST00968,29,Male,Kolkata,37326,Occasional,2,415.41,831.2,Clothing,Tablet,COD,9.1,5.5,0.48,0,0.09,Sometimes,1,2.8,231,4,Yes,None
+CUST00969,54,Female,Ahmedabad,23863,Churned,1,228.39,206.06,Electronics,Mobile,Debit Card,8.7,7.2,0.75,0,0.22,Rarely,0,,34,4,Yes,None
+CUST00970,32,Female,Ahmedabad,40667,Churned,1,2152.85,1806.54,Electronics,Mobile,UPI,7.7,3.2,0.77,0,0.19,Rarely,1,4.5,162,2,No,None
+CUST00971,43,Male,Kolkata,60468,Regular,6,385.53,2110.99,Grocery,Mobile,COD,2.6,5.9,0.39,0,0.16,Sometimes,0,,92,0,Yes,Bronze
+CUST00972,24,Male,Ahmedabad,98044,Premium,18,5195.56,94201.29,Clothing,Mobile,COD,11.5,8.9,0.22,0,0.01,Rarely,1,3.8,3,6,No,Bronze
+CUST00973,37,Male,Mumbai,80453,Premium,9,9373.93,93944.88,Electronics,Mobile,Debit Card,13.8,10.7,0.16,0,0.08,Sometimes,0,,20,10,Yes,Silver
+CUST00974,37,Other,Bangalore,20887,Occasional,4,1002.74,4033.93,Beauty,Desktop,Debit Card,1.4,3.3,0.74,0,0.12,Never,1,4.0,297,0,Yes,None
+CUST00975,31,Female,Mumbai,36798,Occasional,2,436.95,911.91,Books,Desktop,Debit Card,18.7,8.2,0.58,0,0.06,Rarely,0,,315,3,No,Bronze
+CUST00976,18,Male,Chennai,147284,Premium,20,5926.23,110735.3,Home & Kitchen,Mobile,Wallet,15.2,5.7,0.16,0,0.03,Sometimes,0,,30,3,No,Gold
+CUST00977,18,Female,Delhi,69512,Regular,6,381.24,2538.01,Beauty,Desktop,Debit Card,2.1,7.6,0.47,1,0.19,Rarely,0,,87,8,Yes,None
+CUST00978,28,Female,Mumbai,86734,Premium,13,3068.77,41205.07,Sports,Desktop,Debit Card,4.6,6.4,0.11,1,0.09,Never,1,5.0,35,10,Yes,Silver
+CUST00979,18,Female,Bangalore,48574,Occasional,2,872.19,1418.36,Toys,Mobile,UPI,7.7,3.0,0.59,0,0.08,Rarely,0,,167,5,No,None
+CUST00980,47,Male,Chennai,37342,Occasional,2,62.85,101.78,Grocery,Mobile,COD,7.7,6.7,0.56,0,0.06,Rarely,0,,240,1,No,None
+CUST00981,33,Female,Mumbai,47258,Occasional,1,576.61,658.34,Home & Kitchen,Desktop,Credit Card,4.6,4.7,0.54,0,0.07,Always,1,4.6,344,5,Yes,None
+CUST00982,36,Female,Kolkata,31279,Occasional,4,3724.17,15947.41,Electronics,Desktop,Credit Card,6.0,7.7,0.59,0,0.06,Always,0,,240,0,Yes,None
+CUST00983,25,Female,Kolkata,41712,Churned,2,635.41,1405.77,Clothing,Mobile,COD,3.2,6.3,0.64,0,0.25,Sometimes,0,,252,0,No,Bronze
+CUST00984,36,Female,Hyderabad,58651,Regular,3,212.16,760.27,Books,Tablet,UPI,13.8,8.3,0.34,0,0.09,Never,1,4.3,47,7,Yes,Gold
+CUST00985,24,Female,Bangalore,32408,Churned,1,731.12,872.21,Clothing,Desktop,Credit Card,1.7,13.2,0.61,0,0.21,Sometimes,1,4.0,95,0,No,None
+CUST00986,20,Female,Delhi,114166,Premium,17,6106.38,101938.28,Clothing,Tablet,UPI,24.0,5.9,0.24,0,0.02,Rarely,0,,31,13,Yes,Bronze
+CUST00987,23,Female,Mumbai,41814,Regular,9,201.61,1486.45,Grocery,Mobile,Credit Card,9.4,3.0,0.27,0,0.11,Sometimes,0,,82,11,No,None
+CUST00988,31,Female,Delhi,98455,Premium,20,566.62,11052.04,Books,Desktop,Debit Card,10.3,4.9,0.31,1,0.08,Rarely,1,1.9,29,0,Yes,Bronze
+CUST00989,23,Male,Chennai,104241,Premium,19,1495.88,28975.73,Books,Mobile,Wallet,5.5,8.2,0.19,0,0.0,Sometimes,0,,5,10,No,None
+CUST00990,36,Other,Bangalore,72123,Regular,10,939.44,9902.6,Clothing,Desktop,UPI,4.6,3.2,0.41,1,0.1,Sometimes,0,,131,15,Yes,None
+CUST00991,52,Female,Mumbai,90161,Premium,19,5763.32,121781.39,Clothing,Mobile,UPI,10.8,8.0,0.3,0,0.01,Rarely,0,,34,20,Yes,Gold
+CUST00992,21,Female,Kolkata,38733,Occasional,3,780.84,2718.5,Clothing,Mobile,Wallet,3.4,8.1,0.65,0,0.11,Rarely,0,,357,2,No,None
+CUST00993,40,Male,Hyderabad,46241,Occasional,3,974.12,2655.9,Home & Kitchen,Mobile,UPI,3.7,5.3,0.44,0,0.05,Always,0,,222,4,Yes,None
+CUST00994,21,Female,Bangalore,95078,Premium,11,1331.98,14081.61,Electronics,Mobile,UPI,24.2,3.2,0.19,1,0.1,Sometimes,0,,7,10,No,Bronze
+CUST00995,29,Female,Pune,147784,Premium,9,1767.88,16680.91,Books,Tablet,UPI,11.8,5.0,0.13,0,0.03,Rarely,1,4.3,59,11,Yes,Silver
+CUST00996,33,Female,Delhi,36313,Regular,9,3450.94,31876.91,Electronics,Mobile,COD,14.2,4.9,0.42,1,0.18,Rarely,0,,124,12,No,None
+CUST00997,38,Female,Delhi,29098,Churned,2,1609.96,3726.72,Electronics,Mobile,Credit Card,8.7,8.2,0.82,0,0.24,Rarely,1,3.7,194,5,Yes,Bronze
+CUST00998,45,Female,Delhi,38747,Regular,7,513.12,4183.84,Beauty,Mobile,UPI,7.6,5.0,0.29,0,0.14,Always,0,,106,5,Yes,None
+CUST00999,44,Female,Kolkata,49531,Occasional,3,1761.6,4666.54,Home & Kitchen,Desktop,Credit Card,7.9,7.3,0.57,0,0.06,Never,1,4.0,140,2,Yes,None
+CUST01000,30,Female,Bangalore,109085,Premium,20,2709.48,48907.8,Home & Kitchen,Mobile,Debit Card,6.0,2.4,0.15,1,0.07,Rarely,0,,11,6,Yes,Silver
